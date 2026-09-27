@@ -2,22 +2,31 @@
 
 Where every Pokémon spawns on the **Holon** Cobblemon server, and what spawns in every biome.
 
-- **[Open the Atlas](https://lebrutus.github.io/Holon-Cobblemon-Atlas/)**: a searchable page.
-  - **Pokémon view:** search by name or Pokédex number to see every biome it spawns in, with rarity, conditions and level range.
-  - **Biomes view:** see everything that spawns in a biome.
-  - Filters for dimension, rarity and type.
-- **[Browse the pages](gitbook/README.md)**: one page per Pokémon and per biome, readable right here on GitHub or as a GitBook site.
-- **[spawn_atlas.json](spawn_atlas.json)**: all the data as JSON.
+| | |
+| --- | --- |
+| **[Pokémon](pokemon/README.md)** | One page per Pokémon, by generation: every biome it spawns in, with rarity, conditions and level range. |
+| **[Biomes](biomes/README.md)** | One page per biome, by dimension: every Pokémon that spawns there, by rarity. |
+| **[Full index](INDEX.md)** | Every Pokémon and biome page on one list. |
+| **[Search page](https://lebrutus.github.io/Holon-Cobblemon-Atlas/)** | Search by name or Pokédex number and filter by dimension, rarity and type (`index.html`, served by GitHub Pages). |
+| **[spawn_atlas.json](spawn_atlas.json)** | All the data as JSON. |
 
-Covers all 1,025 Pokémon and 354 biomes across the Overworld, Nether, End, Aether and Otherside: vanilla, Terralith, Regions Unexplored, Sengoku Overhaul, BetterEnd, BetterNether, the Aether and Deeper and Darker. Rarity is the spawn bucket (Common, Uncommon, Rare, Ultra rare). Conditions are when it spawns: night, rain, underground, water, fishing, villages or a regional form.
+Tip: on GitHub, press **t** and type a Pokémon or biome name to jump straight to its page.
+
+Covers all 1,025 Pokémon and 354 biomes across the Overworld, Nether, End, Aether and Otherside: vanilla, Terralith, Regions Unexplored, Sengoku Overhaul, BetterEnd, BetterNether, the Aether and Deeper and Darker.
+
+## How to read a page
+
+- **Rarity** is the spawn bucket: Common, Uncommon, Rare, Ultra rare.
+- **Conditions** say when it spawns: night, rain, underground, water, fishing, villages, a regional form, or biomes it avoids.
+- **Lv** is the level range.
+- **All Overworld biomes** means the Pokémon can appear in any overworld biome, unless the conditions exclude some.
 
 The same information is in the in-game **Spawn Guide** books, which you receive when you pick your starter. `/trigger holon_guide` gives the guide again, and `/trigger holon_dex set <No.>` gives one Pokémon's book.
 
-## Hosting
+## Search page hosting
 
-- **GitHub Pages:** Settings → Pages → *Deploy from a branch* → `main` / `(root)`. The site is then at `https://lebrutus.github.io/Holon-Cobblemon-Atlas/`.
-- **GitBook:** connect this repo with Git Sync on branch `main`, leaving the project directory empty. `gitbook-docs.yaml` maps the space to `gitbook/`.
+`index.html` is served by GitHub Pages. To turn it on: Settings → Pages → *Deploy from a branch* → `main` / `(root)`.
 
 ## Updating
 
-This repo is generated from the server's spawn datapack (`world/datapacks/holon_spawns_v2` in the server config repo) by `tools/holon_spawns/export.py` and `gitbook.py`. Regenerate and replace the files here after changing spawns.
+Everything here is generated from the server's spawn datapack (`world/datapacks/holon_spawns_v2` in the server config repo). After changing spawns, regenerate the files and replace them here.

@@ -1,6 +1,6 @@
-# Table of contents
+# Full index
 
-* [Holon Spawn Atlas](README.md)
+* [Holon Cobblemon Atlas](README.md)
 
 ## Pokémon
 
