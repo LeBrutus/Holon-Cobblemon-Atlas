@@ -1,0 +1,11 @@
+# Victini
+
+**No. 0494** · Generation 5 · Psychic / Fire · Mythical
+
+## Overworld
+
+### Ultra rare — any time · Lv 15
+
+Biome groups: Volcanic, Islands
+
+[Alpha Islands](../../biomes/overworld/alpha-islands.md), [Alpha Islands (Winter)](../../biomes/overworld/alpha-islands-winter.md), [Ashen Savanna](../../biomes/overworld/ashen-savanna.md), [Ashen Woodland](../../biomes/overworld/ashen-woodland.md), [Basalt Cliffs](../../biomes/overworld/basalt-cliffs.md), [Burnt Plains](../../biomes/overworld/burnt-plains.md), [Caldera](../../biomes/overworld/caldera.md), [Frostfire Caves](../../biomes/overworld/frostfire-caves.md), [Inferno](../../biomes/overworld/inferno.md), [Mantle Caves](../../biomes/overworld/mantle-caves.md), [Mirage Isles](../../biomes/overworld/mirage-isles.md), [Mushroom Fields](../../biomes/overworld/mushroom-fields.md), [Scorching Caves](../../biomes/overworld/scorching-caves.md), [Sulfur Caves](../../biomes/overworld/sulfur-caves.md), [Thermal Caves](../../biomes/overworld/thermal-caves.md), [Volcanic Crater](../../biomes/overworld/volcanic-crater.md), [Volcanic Peaks](../../biomes/overworld/volcanic-peaks.md), [Yellowstone](../../biomes/overworld/yellowstone.md)

@@ -1,0 +1,129 @@
+# Vivillon
+
+**No. 0666** · Generation 6 · Bug / Flying
+
+## Overworld
+
+### Common — any time · Lv 12-32
+
+Biome groups: Badlands
+
+[Arid Mountains](../../biomes/overworld/arid-mountains.md), [Badlands](../../biomes/overworld/badlands.md), [Bryce Canyon](../../biomes/overworld/bryce-canyon.md), [Eroded Badlands](../../biomes/overworld/eroded-badlands.md), [Painted Mountains (Terralith)](../../biomes/overworld/painted-mountains-terralith.md), [Red Oasis](../../biomes/overworld/red-oasis.md), [Savanna Badlands](../../biomes/overworld/savanna-badlands.md), [Snowy Badlands](../../biomes/overworld/snowy-badlands.md), [Warped Mesa](../../biomes/overworld/warped-mesa.md), [White Mesa](../../biomes/overworld/white-mesa.md), [Wooded Badlands](../../biomes/overworld/wooded-badlands.md)
+
+### Common — any time · Lv 12-32
+
+Biome groups: Cherry blossom
+
+[Cherry Grove](../../biomes/overworld/cherry-grove.md), [Sakura Grove (Sengoku)](../../biomes/overworld/sakura-grove-sengoku.md), [Sakura Grove (Terralith)](../../biomes/overworld/sakura-grove-terralith.md), [Sakura Valley](../../biomes/overworld/sakura-valley.md), [Snowy Cherry Grove](../../biomes/overworld/snowy-cherry-grove.md)
+
+### Common — not in cold ocean, frozen ocean, lukewarm ocean, temperate ocean · Lv 12-32
+
+Biome groups: Coast, Warm ocean
+
+[Aomori Isles](../../biomes/overworld/aomori-isles.md), [Basalt Cliffs](../../biomes/overworld/basalt-cliffs.md), [Beach](../../biomes/overworld/beach.md), [Chalk Cliffs](../../biomes/overworld/chalk-cliffs.md), [Deep Warm Ocean](../../biomes/overworld/deep-warm-ocean.md), [Frozen Cliffs](../../biomes/overworld/frozen-cliffs.md), [Granite Cliffs](../../biomes/overworld/granite-cliffs.md), [Grassy Beach](../../biomes/overworld/grassy-beach.md), [Gravel Beach (RU)](../../biomes/overworld/gravel-beach-ru.md), [Gravel Beach (Terralith)](../../biomes/overworld/gravel-beach-terralith.md), [Hyacinth Deeps](../../biomes/overworld/hyacinth-deeps.md), [Mangrove Swamp](../../biomes/overworld/mangrove-swamp.md), [Rocky Reef](../../biomes/overworld/rocky-reef.md), [Snowy Beach](../../biomes/overworld/snowy-beach.md), [Stony Shore](../../biomes/overworld/stony-shore.md), [Tropics](../../biomes/overworld/tropics.md), [Warm Ocean](../../biomes/overworld/warm-ocean.md), [White Cliffs](../../biomes/overworld/white-cliffs.md)
+
+### Common — not in badlands · Lv 12-32
+
+Biome groups: Desert
+
+[Ancient Sands](../../biomes/overworld/ancient-sands.md), [Desert](../../biomes/overworld/desert.md), [Desert Canyon](../../biomes/overworld/desert-canyon.md), [Desert Oasis](../../biomes/overworld/desert-oasis.md), [Desert Spires](../../biomes/overworld/desert-spires.md), [Gravel Desert (Terralith)](../../biomes/overworld/gravel-desert-terralith.md), [Joshua Desert](../../biomes/overworld/joshua-desert.md), [Lush Desert](../../biomes/overworld/lush-desert.md), [Outback](../../biomes/overworld/outback.md), [Saguaro Desert](../../biomes/overworld/saguaro-desert.md), [Sandstone Valley](../../biomes/overworld/sandstone-valley.md)
+
+### Common — not in cherry blossom, magical · Lv 12-32
+
+Biome groups: Floral
+
+[Blooming Plateau](../../biomes/overworld/blooming-plateau.md), [Blooming Valley](../../biomes/overworld/blooming-valley.md), [Cherry Grove](../../biomes/overworld/cherry-grove.md), [Clover Plains](../../biomes/overworld/clover-plains.md), [Flower Fields](../../biomes/overworld/flower-fields.md), [Flower Forest](../../biomes/overworld/flower-forest.md), [Kerria Fields](../../biomes/overworld/kerria-fields.md), [Lavender Forest](../../biomes/overworld/lavender-forest.md), [Lavender Valley](../../biomes/overworld/lavender-valley.md), [Lush Valley](../../biomes/overworld/lush-valley.md), [Magnolia Woodland](../../biomes/overworld/magnolia-woodland.md), [Mauve Hills](../../biomes/overworld/mauve-hills.md), [Meadow](../../biomes/overworld/meadow.md), [Orchard](../../biomes/overworld/orchard.md), [Orchid Swamp](../../biomes/overworld/orchid-swamp.md), [Poppy Fields](../../biomes/overworld/poppy-fields.md), [Prevernal Meadow](../../biomes/overworld/prevernal-meadow.md), [Rocky Meadow](../../biomes/overworld/rocky-meadow.md), [Rose Fields](../../biomes/overworld/rose-fields.md), [Sakura Grove (Sengoku)](../../biomes/overworld/sakura-grove-sengoku.md), [Sakura Grove (Terralith)](../../biomes/overworld/sakura-grove-terralith.md), [Sakura Valley](../../biomes/overworld/sakura-valley.md), [Sengoku Flower Forest](../../biomes/overworld/sengoku-flower-forest.md), [Sengoku Meadow](../../biomes/overworld/sengoku-meadow.md), [Shibazakura Plains](../../biomes/overworld/shibazakura-plains.md), [Skylands (Spring)](../../biomes/overworld/skylands-spring.md), [Snowy Cherry Grove](../../biomes/overworld/snowy-cherry-grove.md), [Spider Lily Fields](../../biomes/overworld/spider-lily-fields.md), [Sunflower Plains](../../biomes/overworld/sunflower-plains.md), [Suprise Lily Fields](../../biomes/overworld/suprise-lily-fields.md), [Wisteria Grove](../../biomes/overworld/wisteria-grove.md)
+
+### Common — not in cherry blossom, floral, jungle, magical, mountain, mushroom, plains, spooky, swamp · Lv 12-32
+
+Biome groups: Forest
+
+[Alpha Grove](../../biomes/overworld/alpha-grove.md), [Ashen Woodland](../../biomes/overworld/ashen-woodland.md), [Autumnal Bamboo Forest](../../biomes/overworld/autumnal-bamboo-forest.md), [Autumnal Dark Forest](../../biomes/overworld/autumnal-dark-forest.md), [Autumnal Forest](../../biomes/overworld/autumnal-forest.md), [Autumnal Maple Forest](../../biomes/overworld/autumnal-maple-forest.md), [Autumnal Taiga](../../biomes/overworld/autumnal-taiga.md), [Bamboo Forest (RU)](../../biomes/overworld/bamboo-forest-ru.md), [Bamboo Forest (Sengoku)](../../biomes/overworld/bamboo-forest-sengoku.md), [Birch Forest](../../biomes/overworld/birch-forest.md), [Birch Taiga](../../biomes/overworld/birch-taiga.md), [Blackwood Taiga](../../biomes/overworld/blackwood-taiga.md), [Boreal Taiga](../../biomes/overworld/boreal-taiga.md), [Cherry Grove](../../biomes/overworld/cherry-grove.md), [Cloud Forest](../../biomes/overworld/cloud-forest.md), [Cold Deciduous Forest](../../biomes/overworld/cold-deciduous-forest.md), [Dark Forest](../../biomes/overworld/dark-forest.md), [Deciduous Forest](../../biomes/overworld/deciduous-forest.md), [Eucalyptus Forest](../../biomes/overworld/eucalyptus-forest.md), [Flower Forest](../../biomes/overworld/flower-forest.md), [Forest](../../biomes/overworld/forest.md), [Forested Highlands](../../biomes/overworld/forested-highlands.md), [Ginkgo Grove](../../biomes/overworld/ginkgo-grove.md), [Golden Boreal Taiga](../../biomes/overworld/golden-boreal-taiga.md), [Golden Forest](../../biomes/overworld/golden-forest.md), [Kōyō Forest](../../biomes/overworld/koyo-forest.md), [Lavender Forest](../../biomes/overworld/lavender-forest.md), [Magnolia Woodland](../../biomes/overworld/magnolia-woodland.md), [Maple Forest](../../biomes/overworld/maple-forest.md), [Maple Grove](../../biomes/overworld/maple-grove.md), [Moonlight Grove](../../biomes/overworld/moonlight-grove.md), [Old Growth Birch Forest](../../biomes/overworld/old-growth-birch-forest.md), [Old Growth Boreal Taiga](../../biomes/overworld/old-growth-boreal-taiga.md), [Old Growth Forest](../../biomes/overworld/old-growth-forest.md), [Old Growth Golden Boreal Taiga](../../biomes/overworld/old-growth-golden-boreal-taiga.md), [Old Growth Pine Taiga](../../biomes/overworld/old-growth-pine-taiga.md), [Old Growth Spruce Taiga](../../biomes/overworld/old-growth-spruce-taiga.md), [Orchard](../../biomes/overworld/orchard.md), [Pale Garden](../../biomes/overworld/pale-garden.md), [Pine Taiga](../../biomes/overworld/pine-taiga.md), [Prevernal Bamboo Forest](../../biomes/overworld/prevernal-bamboo-forest.md), [Prevernal Forest](../../biomes/overworld/prevernal-forest.md), [Redwoods](../../biomes/overworld/redwoods.md), [Sakura Grove (Sengoku)](../../biomes/overworld/sakura-grove-sengoku.md), [Sakura Grove (Terralith)](../../biomes/overworld/sakura-grove-terralith.md), [Scarlet Mountains](../../biomes/overworld/scarlet-mountains.md), [Sengoku Birch Forest](../../biomes/overworld/sengoku-birch-forest.md), [Sengoku Dark Forest](../../biomes/overworld/sengoku-dark-forest.md), [Sengoku Flower Forest](../../biomes/overworld/sengoku-flower-forest.md), [Sengoku Forest](../../biomes/overworld/sengoku-forest.md), [Sengoku Taiga](../../biomes/overworld/sengoku-taiga.md), [Serotinal Bamboo Forest](../../biomes/overworld/serotinal-bamboo-forest.md), [Serotinal Birch Forest](../../biomes/overworld/serotinal-birch-forest.md), [Serotinal Forest](../../biomes/overworld/serotinal-forest.md), [Serotinal Taiga](../../biomes/overworld/serotinal-taiga.md), [Shield](../../biomes/overworld/shield.md), [Siberian Grove](../../biomes/overworld/siberian-grove.md), [Siberian Taiga](../../biomes/overworld/siberian-taiga.md), [Silver Birch Forest](../../biomes/overworld/silver-birch-forest.md), [Skylands (Autumn)](../../biomes/overworld/skylands-autumn.md), [Skylands (Summer)](../../biomes/overworld/skylands-summer.md), [Snowy Dark Forest](../../biomes/overworld/snowy-dark-forest.md), [Snowy Forest](../../biomes/overworld/snowy-forest.md), [Snowy Maple Forest](../../biomes/overworld/snowy-maple-forest.md), [Sparse Redwoods](../../biomes/overworld/sparse-redwoods.md), [Subtropical Forest](../../biomes/overworld/subtropical-forest.md), [Taiga](../../biomes/overworld/taiga.md), [Temperate Grove](../../biomes/overworld/temperate-grove.md), [Willow Forest](../../biomes/overworld/willow-forest.md), [Windswept Forest](../../biomes/overworld/windswept-forest.md), [Windswept Maple Forest](../../biomes/overworld/windswept-maple-forest.md), [Wintry Forest](../../biomes/overworld/wintry-forest.md), [Wisteria Grove](../../biomes/overworld/wisteria-grove.md), [Yellowstone](../../biomes/overworld/yellowstone.md), [Yosemite Cliffs](../../biomes/overworld/yosemite-cliffs.md), [Yosemite Lowlands](../../biomes/overworld/yosemite-lowlands.md)
+
+### Common — not in forest, jungle, magical, spooky · Lv 12-32
+
+Biome groups: Fresh water
+
+[Ancient Delta](../../biomes/overworld/ancient-delta.md), [Autumnal Hot Springs](../../biomes/overworld/autumnal-hot-springs.md), [Autumnal River](../../biomes/overworld/autumnal-river.md), [Bayou](../../biomes/overworld/bayou.md), [Cold River](../../biomes/overworld/cold-river.md), [Desert Oasis](../../biomes/overworld/desert-oasis.md), [Fen](../../biomes/overworld/fen.md), [Frozen River](../../biomes/overworld/frozen-river.md), [Fungal Fen](../../biomes/overworld/fungal-fen.md), [Hot Springs](../../biomes/overworld/hot-springs.md), [Ice Marsh](../../biomes/overworld/ice-marsh.md), [Mangrove Swamp](../../biomes/overworld/mangrove-swamp.md), [Marsh (RU)](../../biomes/overworld/marsh-ru.md), [Marshlands](../../biomes/overworld/marshlands.md), [Muddy River](../../biomes/overworld/muddy-river.md), [Old Growth Bayou](../../biomes/overworld/old-growth-bayou.md), [Orchid Swamp](../../biomes/overworld/orchid-swamp.md), [Red Oasis](../../biomes/overworld/red-oasis.md), [River](../../biomes/overworld/river.md), [Sengoku Frozen River](../../biomes/overworld/sengoku-frozen-river.md), [Sengoku Mangrove Swamp](../../biomes/overworld/sengoku-mangrove-swamp.md), [Sengoku River](../../biomes/overworld/sengoku-river.md), [Sengoku Swamp](../../biomes/overworld/sengoku-swamp.md), [Snowy Hot Springs](../../biomes/overworld/snowy-hot-springs.md), [Stream](../../biomes/overworld/stream.md), [Swamp](../../biomes/overworld/swamp.md), [Tropical River](../../biomes/overworld/tropical-river.md), [Warm River](../../biomes/overworld/warm-river.md), [Willow Forest](../../biomes/overworld/willow-forest.md)
+
+### Common — any time · Lv 12-32
+
+Biome groups: Frozen ocean
+
+[Deep Frozen Ocean](../../biomes/overworld/deep-frozen-ocean.md), [Frozen Ocean](../../biomes/overworld/frozen-ocean.md)
+
+### Common — not in mountain · Lv 12-32
+
+Biome groups: Glacial, Snowy forest, Tundra
+
+[Alpine Grove](../../biomes/overworld/alpine-grove.md), [Cold Boreal Taiga](../../biomes/overworld/cold-boreal-taiga.md), [Cold Deciduous Forest](../../biomes/overworld/cold-deciduous-forest.md), [Cold Shrubland](../../biomes/overworld/cold-shrubland.md), [Frozen Cliffs](../../biomes/overworld/frozen-cliffs.md), [Frozen Peaks](../../biomes/overworld/frozen-peaks.md), [Frozen Pine Taiga](../../biomes/overworld/frozen-pine-taiga.md), [Frozen Tundra](../../biomes/overworld/frozen-tundra.md), [Glacial Chasm](../../biomes/overworld/glacial-chasm.md), [Gravel Desert (Terralith)](../../biomes/overworld/gravel-desert-terralith.md), [Grove](../../biomes/overworld/grove.md), [Ice Spikes](../../biomes/overworld/ice-spikes.md), [Icy Heights](../../biomes/overworld/icy-heights.md), [Rocky Shrubland](../../biomes/overworld/rocky-shrubland.md), [Sengoku Snowy Plains](../../biomes/overworld/sengoku-snowy-plains.md), [Sengoku Snowy Taiga](../../biomes/overworld/sengoku-snowy-taiga.md), [Snowy Dark Forest](../../biomes/overworld/snowy-dark-forest.md), [Snowy Forest](../../biomes/overworld/snowy-forest.md), [Snowy Maple Forest](../../biomes/overworld/snowy-maple-forest.md), [Snowy Plains](../../biomes/overworld/snowy-plains.md), [Snowy Shield](../../biomes/overworld/snowy-shield.md), [Snowy Taiga](../../biomes/overworld/snowy-taiga.md), [Spires](../../biomes/overworld/spires.md), [Tundra](../../biomes/overworld/tundra.md), [Wintry Forest](../../biomes/overworld/wintry-forest.md), [Wintry Lowlands](../../biomes/overworld/wintry-lowlands.md)
+
+### Common — not in mountain · Lv 12-32
+
+Biome groups: Jungle
+
+[Amethyst Rainforest](../../biomes/overworld/amethyst-rainforest.md), [Bamboo Jungle](../../biomes/overworld/bamboo-jungle.md), [Jungle](../../biomes/overworld/jungle.md), [Jungle Mountains](../../biomes/overworld/jungle-mountains.md), [Rainforest (RU)](../../biomes/overworld/rainforest-ru.md), [Rocky Jungle](../../biomes/overworld/rocky-jungle.md), [Sparse Jungle](../../biomes/overworld/sparse-jungle.md), [Sparse Rainforest](../../biomes/overworld/sparse-rainforest.md), [Subtropical Forest](../../biomes/overworld/subtropical-forest.md), [Tropical Jungle](../../biomes/overworld/tropical-jungle.md), [Tropics](../../biomes/overworld/tropics.md), [Underground Jungle](../../biomes/overworld/underground-jungle.md)
+
+### Common — not in badlands, desert, floral, mushroom, tropical islands, volcanic · Lv 12-32
+
+Biome groups: Mountain
+
+[Alpine Grove](../../biomes/overworld/alpine-grove.md), [Alpine Highlands](../../biomes/overworld/alpine-highlands.md), [Amethyst Canyon](../../biomes/overworld/amethyst-canyon.md), [Arid Mountains](../../biomes/overworld/arid-mountains.md), [Basalt Cliffs](../../biomes/overworld/basalt-cliffs.md), [Bryce Canyon](../../biomes/overworld/bryce-canyon.md), [Caldera](../../biomes/overworld/caldera.md), [Chalk Cliffs](../../biomes/overworld/chalk-cliffs.md), [Cherry Grove](../../biomes/overworld/cherry-grove.md), [Cloud Forest](../../biomes/overworld/cloud-forest.md), [Desert Canyon](../../biomes/overworld/desert-canyon.md), [Emerald Peaks](../../biomes/overworld/emerald-peaks.md), [Frozen Cliffs](../../biomes/overworld/frozen-cliffs.md), [Frozen Peaks](../../biomes/overworld/frozen-peaks.md), [Glacial Chasm](../../biomes/overworld/glacial-chasm.md), [Granite Cliffs](../../biomes/overworld/granite-cliffs.md), [Grove](../../biomes/overworld/grove.md), [Haze Mountain](../../biomes/overworld/haze-mountain.md), [Icy Heights](../../biomes/overworld/icy-heights.md), [Jagged Peaks](../../biomes/overworld/jagged-peaks.md), [Jungle Mountains](../../biomes/overworld/jungle-mountains.md), [Meadow](../../biomes/overworld/meadow.md), [Mountains](../../biomes/overworld/mountains.md), [Painted Mountains (Terralith)](../../biomes/overworld/painted-mountains-terralith.md), [Pine Slopes](../../biomes/overworld/pine-slopes.md), [Rocky Meadow](../../biomes/overworld/rocky-meadow.md), [Rocky Mountains](../../biomes/overworld/rocky-mountains.md), [Scarlet Mountains](../../biomes/overworld/scarlet-mountains.md), [Snowy Slopes](../../biomes/overworld/snowy-slopes.md), [Spires](../../biomes/overworld/spires.md), [Stony Peaks](../../biomes/overworld/stony-peaks.md), [Stony Spires](../../biomes/overworld/stony-spires.md), [Towering Cliffs](../../biomes/overworld/towering-cliffs.md), [Volcanic Crater](../../biomes/overworld/volcanic-crater.md), [Volcanic Peaks](../../biomes/overworld/volcanic-peaks.md), [White Cliffs](../../biomes/overworld/white-cliffs.md), [Windswept Forest](../../biomes/overworld/windswept-forest.md), [Windswept Gravelly Hills](../../biomes/overworld/windswept-gravelly-hills.md), [Windswept Hills](../../biomes/overworld/windswept-hills.md), [Windswept Spires](../../biomes/overworld/windswept-spires.md), [Yosemite Cliffs](../../biomes/overworld/yosemite-cliffs.md)
+
+### Common — not in magical, spooky, swamp · Lv 12-32
+
+Biome groups: Mushroom
+
+[Bioshroom Caves](../../biomes/overworld/bioshroom-caves.md), [Fungal Caves](../../biomes/overworld/fungal-caves.md), [Fungal Fen](../../biomes/overworld/fungal-fen.md), [Mushroom Fields](../../biomes/overworld/mushroom-fields.md)
+
+### Common — not in frozen ocean, warm ocean · Lv 12-32
+
+Biome groups: Ocean
+
+[Cold Ocean](../../biomes/overworld/cold-ocean.md), [Deep Cold Ocean](../../biomes/overworld/deep-cold-ocean.md), [Deep Frozen Ocean](../../biomes/overworld/deep-frozen-ocean.md), [Deep Lukewarm Ocean](../../biomes/overworld/deep-lukewarm-ocean.md), [Deep Ocean](../../biomes/overworld/deep-ocean.md), [Deep Warm Ocean](../../biomes/overworld/deep-warm-ocean.md), [Frozen Ocean](../../biomes/overworld/frozen-ocean.md), [Hyacinth Deeps](../../biomes/overworld/hyacinth-deeps.md), [Lukewarm Ocean](../../biomes/overworld/lukewarm-ocean.md), [Ocean](../../biomes/overworld/ocean.md), [Rocky Reef](../../biomes/overworld/rocky-reef.md), [Warm Ocean](../../biomes/overworld/warm-ocean.md)
+
+### Common — villages · Lv 17-40
+
+All Overworld biomes.
+
+### Common — near builds · Lv 12-32
+
+All Overworld biomes.
+
+### Common — not in floral, mushroom, savanna · Lv 12-32
+
+Biome groups: Plains
+
+[Alpha Grove](../../biomes/overworld/alpha-grove.md), [Alpha Islands](../../biomes/overworld/alpha-islands.md), [Autumnal Plains](../../biomes/overworld/autumnal-plains.md), [Barley Fields](../../biomes/overworld/barley-fields.md), [Blooming Valley](../../biomes/overworld/blooming-valley.md), [Clover Plains](../../biomes/overworld/clover-plains.md), [Flower Fields](../../biomes/overworld/flower-fields.md), [Grassland](../../biomes/overworld/grassland.md), [Highland Fields](../../biomes/overworld/highland-fields.md), [Kerria Fields](../../biomes/overworld/kerria-fields.md), [Lavender Valley](../../biomes/overworld/lavender-valley.md), [Lush Valley](../../biomes/overworld/lush-valley.md), [Moonlight Valley](../../biomes/overworld/moonlight-valley.md), [Orchard](../../biomes/overworld/orchard.md), [Plains](../../biomes/overworld/plains.md), [Poppy Fields](../../biomes/overworld/poppy-fields.md), [Prairie](../../biomes/overworld/prairie.md), [Prevernal Meadow](../../biomes/overworld/prevernal-meadow.md), [Pumpkin Fields](../../biomes/overworld/pumpkin-fields.md), [Rose Fields](../../biomes/overworld/rose-fields.md), [Sakura Valley](../../biomes/overworld/sakura-valley.md), [Sengoku Plains](../../biomes/overworld/sengoku-plains.md), [Serotinal Plains](../../biomes/overworld/serotinal-plains.md), [Shibazakura Plains](../../biomes/overworld/shibazakura-plains.md), [Shield Clearing](../../biomes/overworld/shield-clearing.md), [Silver Grass Fields](../../biomes/overworld/silver-grass-fields.md), [Steppe (Terralith)](../../biomes/overworld/steppe-terralith.md), [Sunflower Plains](../../biomes/overworld/sunflower-plains.md), [Suprise Lily Fields](../../biomes/overworld/suprise-lily-fields.md), [Valley Clearing](../../biomes/overworld/valley-clearing.md)
+
+### Common — not in badlands, desert, floral, mountain · Lv 12-32
+
+Biome groups: Savanna
+
+[Arid Highlands](../../biomes/overworld/arid-highlands.md), [Ashen Savanna](../../biomes/overworld/ashen-savanna.md), [Baobab Savanna](../../biomes/overworld/baobab-savanna.md), [Brushland](../../biomes/overworld/brushland.md), [Dry Bushland](../../biomes/overworld/dry-bushland.md), [Fractured Savanna](../../biomes/overworld/fractured-savanna.md), [Hot Shrubland](../../biomes/overworld/hot-shrubland.md), [Outback](../../biomes/overworld/outback.md), [Pampas Fields](../../biomes/overworld/pampas-fields.md), [Savanna](../../biomes/overworld/savanna.md), [Savanna Badlands](../../biomes/overworld/savanna-badlands.md), [Savanna Plateau](../../biomes/overworld/savanna-plateau.md), [Savanna Slopes](../../biomes/overworld/savanna-slopes.md), [Shrubland (Terralith)](../../biomes/overworld/shrubland-terralith.md), [Windswept Savanna](../../biomes/overworld/windswept-savanna.md)
+
+### Common — any time · Lv 12-32
+
+Biome groups: Sky, Tropical islands
+
+[Cloud Forest](../../biomes/overworld/cloud-forest.md), [Haze Mountain](../../biomes/overworld/haze-mountain.md), [Mirage Isles](../../biomes/overworld/mirage-isles.md), [Skylands (Autumn)](../../biomes/overworld/skylands-autumn.md), [Skylands (Spring)](../../biomes/overworld/skylands-spring.md), [Skylands (Summer)](../../biomes/overworld/skylands-summer.md), [Skylands (Winter)](../../biomes/overworld/skylands-winter.md), [Sunflower Plains](../../biomes/overworld/sunflower-plains.md), [Tropics](../../biomes/overworld/tropics.md)
+
+### Common — not in mountain · Lv 12-32
+
+Biome groups: Magical, Spooky
+
+[Amethyst Canyon](../../biomes/overworld/amethyst-canyon.md), [Amethyst Rainforest](../../biomes/overworld/amethyst-rainforest.md), [Ashen Woodland](../../biomes/overworld/ashen-woodland.md), [Autumnal Dark Forest](../../biomes/overworld/autumnal-dark-forest.md), [Bayou](../../biomes/overworld/bayou.md), [Bioshroom Caves](../../biomes/overworld/bioshroom-caves.md), [Blackwood Taiga](../../biomes/overworld/blackwood-taiga.md), [Cloud Forest](../../biomes/overworld/cloud-forest.md), [Dark Forest](../../biomes/overworld/dark-forest.md), [Deep Dark](../../biomes/overworld/deep-dark.md), [Fungal Fen](../../biomes/overworld/fungal-fen.md), [Ginkgo Grove](../../biomes/overworld/ginkgo-grove.md), [Haze Mountain](../../biomes/overworld/haze-mountain.md), [Hyacinth Deeps](../../biomes/overworld/hyacinth-deeps.md), [Infested Caves](../../biomes/overworld/infested-caves.md), [Lavender Forest](../../biomes/overworld/lavender-forest.md), [Lavender Valley](../../biomes/overworld/lavender-valley.md), [Mauve Hills](../../biomes/overworld/mauve-hills.md), [Mirage Isles](../../biomes/overworld/mirage-isles.md), [Moonlight Grove](../../biomes/overworld/moonlight-grove.md), [Moonlight Valley](../../biomes/overworld/moonlight-valley.md), [Mushroom Fields](../../biomes/overworld/mushroom-fields.md), [Old Growth Bayou](../../biomes/overworld/old-growth-bayou.md), [Pale Garden](../../biomes/overworld/pale-garden.md), [Prismachasm](../../biomes/overworld/prismachasm.md), [Pumpkin Fields](../../biomes/overworld/pumpkin-fields.md), [Sengoku Dark Forest](../../biomes/overworld/sengoku-dark-forest.md), [Skylands (Autumn)](../../biomes/overworld/skylands-autumn.md), [Skylands (Spring)](../../biomes/overworld/skylands-spring.md), [Skylands (Summer)](../../biomes/overworld/skylands-summer.md), [Skylands (Winter)](../../biomes/overworld/skylands-winter.md), [Snowy Dark Forest](../../biomes/overworld/snowy-dark-forest.md), [Spider Lily Fields](../../biomes/overworld/spider-lily-fields.md), [Suisho Caves](../../biomes/overworld/suisho-caves.md), [Swamp](../../biomes/overworld/swamp.md), [Warped Mesa](../../biomes/overworld/warped-mesa.md), [Wisteria Grove](../../biomes/overworld/wisteria-grove.md)
+
+### Common — not in mountain · Lv 12-32
+
+Biome groups: Taiga
+
+[Alpine Grove](../../biomes/overworld/alpine-grove.md), [Autumnal Taiga](../../biomes/overworld/autumnal-taiga.md), [Birch Taiga](../../biomes/overworld/birch-taiga.md), [Blackwood Taiga](../../biomes/overworld/blackwood-taiga.md), [Boreal Taiga](../../biomes/overworld/boreal-taiga.md), [Cold Boreal Taiga](../../biomes/overworld/cold-boreal-taiga.md), [Frozen Pine Taiga](../../biomes/overworld/frozen-pine-taiga.md), [Golden Boreal Taiga](../../biomes/overworld/golden-boreal-taiga.md), [Old Growth Boreal Taiga](../../biomes/overworld/old-growth-boreal-taiga.md), [Old Growth Golden Boreal Taiga](../../biomes/overworld/old-growth-golden-boreal-taiga.md), [Old Growth Pine Taiga](../../biomes/overworld/old-growth-pine-taiga.md), [Old Growth Spruce Taiga](../../biomes/overworld/old-growth-spruce-taiga.md), [Pine Slopes](../../biomes/overworld/pine-slopes.md), [Pine Taiga](../../biomes/overworld/pine-taiga.md), [Sengoku Snowy Taiga](../../biomes/overworld/sengoku-snowy-taiga.md), [Sengoku Taiga](../../biomes/overworld/sengoku-taiga.md), [Serotinal Taiga](../../biomes/overworld/serotinal-taiga.md), [Shield](../../biomes/overworld/shield.md), [Shield Clearing](../../biomes/overworld/shield-clearing.md), [Siberian Grove](../../biomes/overworld/siberian-grove.md), [Siberian Taiga](../../biomes/overworld/siberian-taiga.md), [Snowy Shield](../../biomes/overworld/snowy-shield.md), [Snowy Taiga](../../biomes/overworld/snowy-taiga.md), [Taiga](../../biomes/overworld/taiga.md), [Yosemite Lowlands](../../biomes/overworld/yosemite-lowlands.md)
+
+## Aether
+
+### Uncommon — any time · Lv 25-40
+
+Biome groups: Skyroot woods
+
+[Skyroot Forest](../../biomes/aether/skyroot-forest.md), [Skyroot Grove](../../biomes/aether/skyroot-grove.md), [Skyroot Woodland](../../biomes/aether/skyroot-woodland.md)

@@ -1,0 +1,21 @@
+# Delcatty
+
+**No. 0301** · Generation 3 · Normal
+
+## Overworld
+
+### Uncommon — villages, not in arid, freezing · Lv 30-51
+
+All Overworld biomes.
+
+### Uncommon — near builds · Lv 25-43
+
+Biome groups: Arid
+
+[Ancient Sands](../../biomes/overworld/ancient-sands.md), [Arid Highlands](../../biomes/overworld/arid-highlands.md), [Arid Mountains](../../biomes/overworld/arid-mountains.md), [Ashen Savanna](../../biomes/overworld/ashen-savanna.md), [Ashen Woodland](../../biomes/overworld/ashen-woodland.md), [Badlands](../../biomes/overworld/badlands.md), [Baobab Savanna](../../biomes/overworld/baobab-savanna.md), [Brushland](../../biomes/overworld/brushland.md), [Bryce Canyon](../../biomes/overworld/bryce-canyon.md), [Burnt Plains](../../biomes/overworld/burnt-plains.md), [Desert](../../biomes/overworld/desert.md), [Desert Canyon](../../biomes/overworld/desert-canyon.md), [Desert Oasis](../../biomes/overworld/desert-oasis.md), [Desert Spires](../../biomes/overworld/desert-spires.md), [Dry Bushland](../../biomes/overworld/dry-bushland.md), [Eroded Badlands](../../biomes/overworld/eroded-badlands.md), [Fractured Savanna](../../biomes/overworld/fractured-savanna.md), [Gravel Desert (Terralith)](../../biomes/overworld/gravel-desert-terralith.md), [Hot Shrubland](../../biomes/overworld/hot-shrubland.md), [Inferno](../../biomes/overworld/inferno.md), [Joshua Desert](../../biomes/overworld/joshua-desert.md), [Lush Desert](../../biomes/overworld/lush-desert.md), [Outback](../../biomes/overworld/outback.md), [Painted Mountains (Terralith)](../../biomes/overworld/painted-mountains-terralith.md), [Red Oasis](../../biomes/overworld/red-oasis.md), [Saguaro Desert](../../biomes/overworld/saguaro-desert.md), [Sandstone Valley](../../biomes/overworld/sandstone-valley.md), [Savanna](../../biomes/overworld/savanna.md), [Savanna Badlands](../../biomes/overworld/savanna-badlands.md), [Savanna Plateau](../../biomes/overworld/savanna-plateau.md), [Savanna Slopes](../../biomes/overworld/savanna-slopes.md), [Shrubland (Terralith)](../../biomes/overworld/shrubland-terralith.md), [Steppe (RU)](../../biomes/overworld/steppe-ru.md), [Warped Mesa](../../biomes/overworld/warped-mesa.md), [White Mesa](../../biomes/overworld/white-mesa.md), [Windswept Savanna](../../biomes/overworld/windswept-savanna.md), [Wooded Badlands](../../biomes/overworld/wooded-badlands.md)
+
+### Uncommon — any time · Lv 25-43
+
+Biome groups: Floral
+
+[Blooming Plateau](../../biomes/overworld/blooming-plateau.md), [Blooming Valley](../../biomes/overworld/blooming-valley.md), [Cherry Grove](../../biomes/overworld/cherry-grove.md), [Clover Plains](../../biomes/overworld/clover-plains.md), [Flower Fields](../../biomes/overworld/flower-fields.md), [Flower Forest](../../biomes/overworld/flower-forest.md), [Kerria Fields](../../biomes/overworld/kerria-fields.md), [Lavender Forest](../../biomes/overworld/lavender-forest.md), [Lavender Valley](../../biomes/overworld/lavender-valley.md), [Lush Valley](../../biomes/overworld/lush-valley.md), [Magnolia Woodland](../../biomes/overworld/magnolia-woodland.md), [Mauve Hills](../../biomes/overworld/mauve-hills.md), [Meadow](../../biomes/overworld/meadow.md), [Orchard](../../biomes/overworld/orchard.md), [Orchid Swamp](../../biomes/overworld/orchid-swamp.md), [Poppy Fields](../../biomes/overworld/poppy-fields.md), [Prevernal Meadow](../../biomes/overworld/prevernal-meadow.md), [Rocky Meadow](../../biomes/overworld/rocky-meadow.md), [Rose Fields](../../biomes/overworld/rose-fields.md), [Sakura Grove (Sengoku)](../../biomes/overworld/sakura-grove-sengoku.md), [Sakura Grove (Terralith)](../../biomes/overworld/sakura-grove-terralith.md), [Sakura Valley](../../biomes/overworld/sakura-valley.md), [Sengoku Flower Forest](../../biomes/overworld/sengoku-flower-forest.md), [Sengoku Meadow](../../biomes/overworld/sengoku-meadow.md), [Shibazakura Plains](../../biomes/overworld/shibazakura-plains.md), [Skylands (Spring)](../../biomes/overworld/skylands-spring.md), [Snowy Cherry Grove](../../biomes/overworld/snowy-cherry-grove.md), [Spider Lily Fields](../../biomes/overworld/spider-lily-fields.md), [Sunflower Plains](../../biomes/overworld/sunflower-plains.md), [Suprise Lily Fields](../../biomes/overworld/suprise-lily-fields.md), [Wisteria Grove](../../biomes/overworld/wisteria-grove.md)

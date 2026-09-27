@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Holon Cobblemon Atlas
+  structure:
+    - type: space
+      key: holon-spawn-atlas
+      title: Holon Spawn Atlas
+      path: atlas
+      default: true
+      content:
+        directory: ./gitbook

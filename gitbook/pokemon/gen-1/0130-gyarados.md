@@ -1,0 +1,37 @@
+# Gyarados
+
+**No. 0130** · Generation 1 · Water / Flying
+
+## Overworld
+
+### Common — water · Lv 20-38
+
+Biome groups: Fresh water, Ocean
+
+[Ancient Delta](../../biomes/overworld/ancient-delta.md), [Autumnal Hot Springs](../../biomes/overworld/autumnal-hot-springs.md), [Autumnal River](../../biomes/overworld/autumnal-river.md), [Bayou](../../biomes/overworld/bayou.md), [Cold Ocean](../../biomes/overworld/cold-ocean.md), [Cold River](../../biomes/overworld/cold-river.md), [Deep Cold Ocean](../../biomes/overworld/deep-cold-ocean.md), [Deep Frozen Ocean](../../biomes/overworld/deep-frozen-ocean.md), [Deep Lukewarm Ocean](../../biomes/overworld/deep-lukewarm-ocean.md), [Deep Ocean](../../biomes/overworld/deep-ocean.md), [Deep Warm Ocean](../../biomes/overworld/deep-warm-ocean.md), [Desert Oasis](../../biomes/overworld/desert-oasis.md), [Fen](../../biomes/overworld/fen.md), [Frozen Ocean](../../biomes/overworld/frozen-ocean.md), [Frozen River](../../biomes/overworld/frozen-river.md), [Fungal Fen](../../biomes/overworld/fungal-fen.md), [Hot Springs](../../biomes/overworld/hot-springs.md), [Hyacinth Deeps](../../biomes/overworld/hyacinth-deeps.md), [Ice Marsh](../../biomes/overworld/ice-marsh.md), [Lukewarm Ocean](../../biomes/overworld/lukewarm-ocean.md), [Mangrove Swamp](../../biomes/overworld/mangrove-swamp.md), [Marsh (RU)](../../biomes/overworld/marsh-ru.md), [Marshlands](../../biomes/overworld/marshlands.md), [Muddy River](../../biomes/overworld/muddy-river.md), [Ocean](../../biomes/overworld/ocean.md), [Old Growth Bayou](../../biomes/overworld/old-growth-bayou.md), [Orchid Swamp](../../biomes/overworld/orchid-swamp.md), [Red Oasis](../../biomes/overworld/red-oasis.md), [River](../../biomes/overworld/river.md), [Rocky Reef](../../biomes/overworld/rocky-reef.md), [Sengoku Frozen River](../../biomes/overworld/sengoku-frozen-river.md), [Sengoku Mangrove Swamp](../../biomes/overworld/sengoku-mangrove-swamp.md), [Sengoku River](../../biomes/overworld/sengoku-river.md), [Sengoku Swamp](../../biomes/overworld/sengoku-swamp.md), [Snowy Hot Springs](../../biomes/overworld/snowy-hot-springs.md), [Stream](../../biomes/overworld/stream.md), [Swamp](../../biomes/overworld/swamp.md), [Tropical River](../../biomes/overworld/tropical-river.md), [Warm Ocean](../../biomes/overworld/warm-ocean.md), [Warm River](../../biomes/overworld/warm-river.md), [Willow Forest](../../biomes/overworld/willow-forest.md)
+
+### Common — any time · Lv 20-38
+
+All Overworld biomes.
+
+### Common — underground, water · Lv 20-38
+
+Biome groups: Fresh water, Ocean
+
+[Ancient Delta](../../biomes/overworld/ancient-delta.md), [Autumnal Hot Springs](../../biomes/overworld/autumnal-hot-springs.md), [Autumnal River](../../biomes/overworld/autumnal-river.md), [Bayou](../../biomes/overworld/bayou.md), [Cold Ocean](../../biomes/overworld/cold-ocean.md), [Cold River](../../biomes/overworld/cold-river.md), [Deep Cold Ocean](../../biomes/overworld/deep-cold-ocean.md), [Deep Frozen Ocean](../../biomes/overworld/deep-frozen-ocean.md), [Deep Lukewarm Ocean](../../biomes/overworld/deep-lukewarm-ocean.md), [Deep Ocean](../../biomes/overworld/deep-ocean.md), [Deep Warm Ocean](../../biomes/overworld/deep-warm-ocean.md), [Desert Oasis](../../biomes/overworld/desert-oasis.md), [Fen](../../biomes/overworld/fen.md), [Frozen Ocean](../../biomes/overworld/frozen-ocean.md), [Frozen River](../../biomes/overworld/frozen-river.md), [Fungal Fen](../../biomes/overworld/fungal-fen.md), [Hot Springs](../../biomes/overworld/hot-springs.md), [Hyacinth Deeps](../../biomes/overworld/hyacinth-deeps.md), [Ice Marsh](../../biomes/overworld/ice-marsh.md), [Lukewarm Ocean](../../biomes/overworld/lukewarm-ocean.md), [Mangrove Swamp](../../biomes/overworld/mangrove-swamp.md), [Marsh (RU)](../../biomes/overworld/marsh-ru.md), [Marshlands](../../biomes/overworld/marshlands.md), [Muddy River](../../biomes/overworld/muddy-river.md), [Ocean](../../biomes/overworld/ocean.md), [Old Growth Bayou](../../biomes/overworld/old-growth-bayou.md), [Orchid Swamp](../../biomes/overworld/orchid-swamp.md), [Red Oasis](../../biomes/overworld/red-oasis.md), [River](../../biomes/overworld/river.md), [Rocky Reef](../../biomes/overworld/rocky-reef.md), [Sengoku Frozen River](../../biomes/overworld/sengoku-frozen-river.md), [Sengoku Mangrove Swamp](../../biomes/overworld/sengoku-mangrove-swamp.md), [Sengoku River](../../biomes/overworld/sengoku-river.md), [Sengoku Swamp](../../biomes/overworld/sengoku-swamp.md), [Snowy Hot Springs](../../biomes/overworld/snowy-hot-springs.md), [Stream](../../biomes/overworld/stream.md), [Swamp](../../biomes/overworld/swamp.md), [Tropical River](../../biomes/overworld/tropical-river.md), [Warm Ocean](../../biomes/overworld/warm-ocean.md), [Warm River](../../biomes/overworld/warm-river.md), [Willow Forest](../../biomes/overworld/willow-forest.md)
+
+### Common — underground · Lv 20-38
+
+All Overworld biomes.
+
+### Uncommon — water · Lv 20-38
+
+Biome groups: Fresh water, Ocean
+
+[Ancient Delta](../../biomes/overworld/ancient-delta.md), [Autumnal Hot Springs](../../biomes/overworld/autumnal-hot-springs.md), [Autumnal River](../../biomes/overworld/autumnal-river.md), [Bayou](../../biomes/overworld/bayou.md), [Cold Ocean](../../biomes/overworld/cold-ocean.md), [Cold River](../../biomes/overworld/cold-river.md), [Deep Cold Ocean](../../biomes/overworld/deep-cold-ocean.md), [Deep Frozen Ocean](../../biomes/overworld/deep-frozen-ocean.md), [Deep Lukewarm Ocean](../../biomes/overworld/deep-lukewarm-ocean.md), [Deep Ocean](../../biomes/overworld/deep-ocean.md), [Deep Warm Ocean](../../biomes/overworld/deep-warm-ocean.md), [Desert Oasis](../../biomes/overworld/desert-oasis.md), [Fen](../../biomes/overworld/fen.md), [Frozen Ocean](../../biomes/overworld/frozen-ocean.md), [Frozen River](../../biomes/overworld/frozen-river.md), [Fungal Fen](../../biomes/overworld/fungal-fen.md), [Hot Springs](../../biomes/overworld/hot-springs.md), [Hyacinth Deeps](../../biomes/overworld/hyacinth-deeps.md), [Ice Marsh](../../biomes/overworld/ice-marsh.md), [Lukewarm Ocean](../../biomes/overworld/lukewarm-ocean.md), [Mangrove Swamp](../../biomes/overworld/mangrove-swamp.md), [Marsh (RU)](../../biomes/overworld/marsh-ru.md), [Marshlands](../../biomes/overworld/marshlands.md), [Muddy River](../../biomes/overworld/muddy-river.md), [Ocean](../../biomes/overworld/ocean.md), [Old Growth Bayou](../../biomes/overworld/old-growth-bayou.md), [Orchid Swamp](../../biomes/overworld/orchid-swamp.md), [Red Oasis](../../biomes/overworld/red-oasis.md), [River](../../biomes/overworld/river.md), [Rocky Reef](../../biomes/overworld/rocky-reef.md), [Sengoku Frozen River](../../biomes/overworld/sengoku-frozen-river.md), [Sengoku Mangrove Swamp](../../biomes/overworld/sengoku-mangrove-swamp.md), [Sengoku River](../../biomes/overworld/sengoku-river.md), [Sengoku Swamp](../../biomes/overworld/sengoku-swamp.md), [Snowy Hot Springs](../../biomes/overworld/snowy-hot-springs.md), [Stream](../../biomes/overworld/stream.md), [Swamp](../../biomes/overworld/swamp.md), [Tropical River](../../biomes/overworld/tropical-river.md), [Warm Ocean](../../biomes/overworld/warm-ocean.md), [Warm River](../../biomes/overworld/warm-river.md), [Willow Forest](../../biomes/overworld/willow-forest.md)
+
+## Aether
+
+### Rare — water · Lv 25-38
+
+All Aether biomes.

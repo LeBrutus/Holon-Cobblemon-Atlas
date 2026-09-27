@@ -1,0 +1,19 @@
+# Trumbeak
+
+**No. 0732** · Generation 7 · Normal / Flying
+
+## Overworld
+
+### Common — not in freezing · Lv 14-32
+
+Biome groups: Sky, Jungle
+
+[Amethyst Rainforest](../../biomes/overworld/amethyst-rainforest.md), [Bamboo Jungle](../../biomes/overworld/bamboo-jungle.md), [Cloud Forest](../../biomes/overworld/cloud-forest.md), [Haze Mountain](../../biomes/overworld/haze-mountain.md), [Jungle](../../biomes/overworld/jungle.md), [Jungle Mountains](../../biomes/overworld/jungle-mountains.md), [Rainforest (RU)](../../biomes/overworld/rainforest-ru.md), [Rocky Jungle](../../biomes/overworld/rocky-jungle.md), [Skylands (Autumn)](../../biomes/overworld/skylands-autumn.md), [Skylands (Spring)](../../biomes/overworld/skylands-spring.md), [Skylands (Summer)](../../biomes/overworld/skylands-summer.md), [Skylands (Winter)](../../biomes/overworld/skylands-winter.md), [Sparse Jungle](../../biomes/overworld/sparse-jungle.md), [Sparse Rainforest](../../biomes/overworld/sparse-rainforest.md), [Subtropical Forest](../../biomes/overworld/subtropical-forest.md), [Tropical Jungle](../../biomes/overworld/tropical-jungle.md), [Tropics](../../biomes/overworld/tropics.md), [Underground Jungle](../../biomes/overworld/underground-jungle.md)
+
+## Aether
+
+### Uncommon — any time · Lv 25-35
+
+Biome groups: Skyroot woods
+
+[Skyroot Forest](../../biomes/aether/skyroot-forest.md), [Skyroot Grove](../../biomes/aether/skyroot-grove.md), [Skyroot Woodland](../../biomes/aether/skyroot-woodland.md)

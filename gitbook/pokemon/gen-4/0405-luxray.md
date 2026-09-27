@@ -1,0 +1,11 @@
+# Luxray
+
+**No. 0405** · Generation 4 · Electric
+
+## Overworld
+
+### Uncommon — any time · Lv 30-50
+
+Biome groups: Desert, Savanna
+
+[Ancient Sands](../../biomes/overworld/ancient-sands.md), [Arid Highlands](../../biomes/overworld/arid-highlands.md), [Ashen Savanna](../../biomes/overworld/ashen-savanna.md), [Baobab Savanna](../../biomes/overworld/baobab-savanna.md), [Brushland](../../biomes/overworld/brushland.md), [Desert](../../biomes/overworld/desert.md), [Desert Canyon](../../biomes/overworld/desert-canyon.md), [Desert Oasis](../../biomes/overworld/desert-oasis.md), [Desert Spires](../../biomes/overworld/desert-spires.md), [Dry Bushland](../../biomes/overworld/dry-bushland.md), [Fractured Savanna](../../biomes/overworld/fractured-savanna.md), [Gravel Desert (Terralith)](../../biomes/overworld/gravel-desert-terralith.md), [Hot Shrubland](../../biomes/overworld/hot-shrubland.md), [Joshua Desert](../../biomes/overworld/joshua-desert.md), [Lush Desert](../../biomes/overworld/lush-desert.md), [Outback](../../biomes/overworld/outback.md), [Pampas Fields](../../biomes/overworld/pampas-fields.md), [Saguaro Desert](../../biomes/overworld/saguaro-desert.md), [Sandstone Valley](../../biomes/overworld/sandstone-valley.md), [Savanna](../../biomes/overworld/savanna.md), [Savanna Badlands](../../biomes/overworld/savanna-badlands.md), [Savanna Plateau](../../biomes/overworld/savanna-plateau.md), [Savanna Slopes](../../biomes/overworld/savanna-slopes.md), [Shrubland (Terralith)](../../biomes/overworld/shrubland-terralith.md), [Windswept Savanna](../../biomes/overworld/windswept-savanna.md)

@@ -1,0 +1,19 @@
+# Starly
+
+**No. 0396** · Generation 4 · Normal / Flying
+
+## Overworld
+
+### Common — not in arid · Lv 2-18
+
+Biome groups: Hills, Sky, Snowy forest, Taiga
+
+[Alpine Grove](../../biomes/overworld/alpine-grove.md), [Autumnal Taiga](../../biomes/overworld/autumnal-taiga.md), [Birch Taiga](../../biomes/overworld/birch-taiga.md), [Blackwood Taiga](../../biomes/overworld/blackwood-taiga.md), [Boreal Taiga](../../biomes/overworld/boreal-taiga.md), [Chalk Cliffs](../../biomes/overworld/chalk-cliffs.md), [Cloud Forest](../../biomes/overworld/cloud-forest.md), [Cold Boreal Taiga](../../biomes/overworld/cold-boreal-taiga.md), [Cold Deciduous Forest](../../biomes/overworld/cold-deciduous-forest.md), [Fractured Savanna](../../biomes/overworld/fractured-savanna.md), [Frozen Pine Taiga](../../biomes/overworld/frozen-pine-taiga.md), [Golden Boreal Taiga](../../biomes/overworld/golden-boreal-taiga.md), [Granite Cliffs](../../biomes/overworld/granite-cliffs.md), [Grove](../../biomes/overworld/grove.md), [Haze Mountain](../../biomes/overworld/haze-mountain.md), [Mauve Hills](../../biomes/overworld/mauve-hills.md), [Old Growth Boreal Taiga](../../biomes/overworld/old-growth-boreal-taiga.md), [Old Growth Golden Boreal Taiga](../../biomes/overworld/old-growth-golden-boreal-taiga.md), [Old Growth Pine Taiga](../../biomes/overworld/old-growth-pine-taiga.md), [Old Growth Spruce Taiga](../../biomes/overworld/old-growth-spruce-taiga.md), [Pine Slopes](../../biomes/overworld/pine-slopes.md), [Pine Taiga](../../biomes/overworld/pine-taiga.md), [Rocky Jungle](../../biomes/overworld/rocky-jungle.md), [Savanna Slopes](../../biomes/overworld/savanna-slopes.md), [Sengoku Snowy Taiga](../../biomes/overworld/sengoku-snowy-taiga.md), [Sengoku Taiga](../../biomes/overworld/sengoku-taiga.md), [Serotinal Taiga](../../biomes/overworld/serotinal-taiga.md), [Shield](../../biomes/overworld/shield.md), [Shield Clearing](../../biomes/overworld/shield-clearing.md), [Siberian Grove](../../biomes/overworld/siberian-grove.md), [Siberian Taiga](../../biomes/overworld/siberian-taiga.md), [Skylands (Autumn)](../../biomes/overworld/skylands-autumn.md), [Skylands (Spring)](../../biomes/overworld/skylands-spring.md), [Skylands (Summer)](../../biomes/overworld/skylands-summer.md), [Skylands (Winter)](../../biomes/overworld/skylands-winter.md), [Snowy Dark Forest](../../biomes/overworld/snowy-dark-forest.md), [Snowy Forest](../../biomes/overworld/snowy-forest.md), [Snowy Maple Forest](../../biomes/overworld/snowy-maple-forest.md), [Snowy Shield](../../biomes/overworld/snowy-shield.md), [Snowy Taiga](../../biomes/overworld/snowy-taiga.md), [Taiga](../../biomes/overworld/taiga.md), [Towering Cliffs](../../biomes/overworld/towering-cliffs.md), [Windswept Forest](../../biomes/overworld/windswept-forest.md), [Windswept Gravelly Hills](../../biomes/overworld/windswept-gravelly-hills.md), [Windswept Hills](../../biomes/overworld/windswept-hills.md), [Windswept Maple Forest](../../biomes/overworld/windswept-maple-forest.md), [Windswept Savanna](../../biomes/overworld/windswept-savanna.md), [Windswept Spires](../../biomes/overworld/windswept-spires.md), [Wintry Forest](../../biomes/overworld/wintry-forest.md), [Wintry Lowlands](../../biomes/overworld/wintry-lowlands.md), [Yosemite Lowlands](../../biomes/overworld/yosemite-lowlands.md)
+
+## Aether
+
+### Common — any time · Lv 25-35
+
+Biome groups: Skyroot meadows
+
+[Skyroot Meadow](../../biomes/aether/skyroot-meadow.md)
