@@ -19,3 +19,11 @@ All Overworld biomes.
 Biome groups: Infested
 
 [Infested Caves](../../biomes/overworld/infested-caves.md)
+
+## Nether
+
+### Common — any time · Lv 20-30
+
+Biome groups: Crimson forests
+
+[Crimson Forest](../../biomes/nether/crimson-forest.md), [Crimson Glowing Woods](../../biomes/nether/crimson-glowing-woods.md), [Crimson Pinewood](../../biomes/nether/crimson-pinewood.md), [Dead Upside Down Forest](../../biomes/nether/dead-upside-down-forest.md), [Upside Down Forest](../../biomes/nether/upside-down-forest.md), [Wart Forest](../../biomes/nether/wart-forest.md), [Wart Forest Edge](../../biomes/nether/wart-forest-edge.md)

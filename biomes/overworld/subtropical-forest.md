@@ -4,7 +4,7 @@
 
 Groups: Forest, Jungle, Lush, Lush land
 
-## Common (238)
+## Common (235)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -178,10 +178,7 @@ Groups: Forest, Jungle, Lush, Lush land
 | 0606 | [Beheeyem](../../pokemon/gen-5/0606-beheeyem.md) | any time |
 | 0618 | [Stunfisk](../../pokemon/gen-5/0618-stunfisk.md) | any time |
 | 0661 | [Fletchling](../../pokemon/gen-6/0661-fletchling.md) | any time |
-| 0662 | [Fletchinder](../../pokemon/gen-6/0662-fletchinder.md) | any time |
-| 0663 | [Talonflame](../../pokemon/gen-6/0663-talonflame.md) | any time |
 | 0666 | [Vivillon](../../pokemon/gen-6/0666-vivillon.md) | any time; near builds; villages |
-| 0667 | [Litleo](../../pokemon/gen-6/0667-litleo.md) | any time |
 | 0669 | [Flabebe](../../pokemon/gen-6/0669-flabebe.md) | any time |
 | 0670 | [Floette](../../pokemon/gen-6/0670-floette.md) | any time |
 | 0671 | [Florges](../../pokemon/gen-6/0671-florges.md) | any time |
@@ -247,7 +244,7 @@ Groups: Forest, Jungle, Lush, Lush land
 | 0970 | [Glimmora](../../pokemon/gen-9/0970-glimmora.md) | underground |
 | 0973 | [Flamigo](../../pokemon/gen-9/0973-flamigo.md) | any time |
 
-## Uncommon (132)
+## Uncommon (123)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -255,14 +252,10 @@ Groups: Forest, Jungle, Lush, Lush land
 | 0020 | [Raticate](../../pokemon/gen-1/0020-raticate.md) | Alolan form, underground; underground |
 | 0025 | [Pikachu](../../pokemon/gen-1/0025-pikachu.md) | any time |
 | 0026 | [Raichu](../../pokemon/gen-1/0026-raichu.md) | any time |
-| 0037 | [Vulpix](../../pokemon/gen-1/0037-vulpix.md) | any time |
-| 0038 | [Ninetales](../../pokemon/gen-1/0038-ninetales.md) | any time |
 | 0041 | [Zubat](../../pokemon/gen-1/0041-zubat.md) | underground |
 | 0042 | [Golbat](../../pokemon/gen-1/0042-golbat.md) | underground |
 | 0046 | [Paras](../../pokemon/gen-1/0046-paras.md) | underground |
 | 0047 | [Parasect](../../pokemon/gen-1/0047-parasect.md) | underground |
-| 0058 | [Growlithe](../../pokemon/gen-1/0058-growlithe.md) | near builds |
-| 0059 | [Arcanine](../../pokemon/gen-1/0059-arcanine.md) | near builds |
 | 0072 | [Tentacool](../../pokemon/gen-1/0072-tentacool.md) | underground, water |
 | 0073 | [Tentacruel](../../pokemon/gen-1/0073-tentacruel.md) | underground, water |
 | 0081 | [Magnemite](../../pokemon/gen-1/0081-magnemite.md) | any time |
@@ -281,7 +274,6 @@ Groups: Forest, Jungle, Lush, Lush land
 | 0133 | [Eevee](../../pokemon/gen-1/0133-eevee.md) | villages |
 | 0134 | [Vaporeon](../../pokemon/gen-1/0134-vaporeon.md) | near builds; villages |
 | 0135 | [Jolteon](../../pokemon/gen-1/0135-jolteon.md) | near builds; villages |
-| 0136 | [Flareon](../../pokemon/gen-1/0136-flareon.md) | near builds; villages |
 | 0137 | [Porygon](../../pokemon/gen-1/0137-porygon.md) | any time |
 | 0143 | [Snorlax](../../pokemon/gen-1/0143-snorlax.md) | any time |
 | 0169 | [Crobat](../../pokemon/gen-2/0169-crobat.md) | underground |
@@ -302,7 +294,6 @@ Groups: Forest, Jungle, Lush, Lush land
 | 0292 | [Shedinja](../../pokemon/gen-3/0292-shedinja.md) | any time |
 | 0299 | [Nosepass](../../pokemon/gen-3/0299-nosepass.md) | underground |
 | 0301 | [Delcatty](../../pokemon/gen-3/0301-delcatty.md) | villages |
-| 0324 | [Torkoal](../../pokemon/gen-3/0324-torkoal.md) | underground |
 | 0333 | [Swablu](../../pokemon/gen-3/0333-swablu.md) | any time |
 | 0334 | [Altaria](../../pokemon/gen-3/0334-altaria.md) | any time |
 | 0339 | [Barboach](../../pokemon/gen-3/0339-barboach.md) | rain, underground, water |
@@ -336,8 +327,6 @@ Groups: Forest, Jungle, Lush, Lush land
 | 0476 | [Probopass](../../pokemon/gen-4/0476-probopass.md) | underground |
 | 0511 | [Pansage](../../pokemon/gen-5/0511-pansage.md) | any time |
 | 0512 | [Simisage](../../pokemon/gen-5/0512-simisage.md) | any time |
-| 0513 | [Pansear](../../pokemon/gen-5/0513-pansear.md) | any time |
-| 0514 | [Simisear](../../pokemon/gen-5/0514-simisear.md) | any time |
 | 0515 | [Panpour](../../pokemon/gen-5/0515-panpour.md) | any time |
 | 0516 | [Simipour](../../pokemon/gen-5/0516-simipour.md) | any time |
 | 0517 | [Munna](../../pokemon/gen-5/0517-munna.md) | any time |
@@ -367,7 +356,6 @@ Groups: Forest, Jungle, Lush, Lush land
 | 0774 | [Minior](../../pokemon/gen-7/0774-minior.md) | any time |
 | 0820 | [Greedent](../../pokemon/gen-8/0820-greedent.md) | any time |
 | 0825 | [Dottler](../../pokemon/gen-8/0825-dottler.md) | any time |
-| 0838 | [Carkol](../../pokemon/gen-8/0838-carkol.md) | underground |
 | 0845 | [Cramorant](../../pokemon/gen-8/0845-cramorant.md) | any time |
 | 0848 | [Toxel](../../pokemon/gen-8/0848-toxel.md) | any time; underground |
 | 0849 | [Toxtricity](../../pokemon/gen-8/0849-toxtricity.md) | underground |
@@ -384,7 +372,7 @@ Groups: Forest, Jungle, Lush, Lush land
 | 1012 | [Poltchageist](../../pokemon/gen-9/1012-poltchageist.md) | underground, villages; villages |
 | 1013 | [Sinistcha](../../pokemon/gen-9/1013-sinistcha.md) | underground, villages; villages |
 
-## Rare (43)
+## Rare (42)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -422,7 +410,6 @@ Groups: Forest, Jungle, Lush, Lush land
 | 0715 | [Noivern](../../pokemon/gen-6/0715-noivern.md) | underground |
 | 0764 | [Comfey](../../pokemon/gen-7/0764-comfey.md) | any time |
 | 0774 | [Minior](../../pokemon/gen-7/0774-minior.md) | any time |
-| 0839 | [Coalossal](../../pokemon/gen-8/0839-coalossal.md) | underground |
 | 0840 | [Applin](../../pokemon/gen-8/0840-applin.md) | any time |
 | 0841 | [Flapple](../../pokemon/gen-8/0841-flapple.md) | any time |
 | 0842 | [Appletun](../../pokemon/gen-8/0842-appletun.md) | any time |
@@ -432,7 +419,7 @@ Groups: Forest, Jungle, Lush, Lush land
 | 0977 | [Dondozo](../../pokemon/gen-9/0977-dondozo.md) | any time; underground |
 | 0978 | [Tatsugiri](../../pokemon/gen-9/0978-tatsugiri.md) | underground |
 
-## Ultra rare (73)
+## Ultra rare (69)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -485,13 +472,9 @@ Groups: Forest, Jungle, Lush, Lush land
 | 0706 | [Goodra](../../pokemon/gen-6/0706-goodra.md) | Hisuian form, rain, underground; Hisuian form, underground; any time |
 | 0716 | [Xerneas](../../pokemon/gen-6/0716-xerneas.md) | any time |
 | 0718 | [Zygarde](../../pokemon/gen-6/0718-zygarde.md) | underground |
-| 0721 | [Volcanion](../../pokemon/gen-6/0721-volcanion.md) | underground |
 | 0722 | [Rowlet](../../pokemon/gen-7/0722-rowlet.md) | any time |
 | 0723 | [Dartrix](../../pokemon/gen-7/0723-dartrix.md) | any time |
 | 0724 | [Decidueye](../../pokemon/gen-7/0724-decidueye.md) | any time |
-| 0725 | [Litten](../../pokemon/gen-7/0725-litten.md) | any time |
-| 0726 | [Torracat](../../pokemon/gen-7/0726-torracat.md) | any time |
-| 0727 | [Incineroar](../../pokemon/gen-7/0727-incineroar.md) | any time |
 | 0783 | [Hakamo-o](../../pokemon/gen-7/0783-hakamo-o.md) | any time |
 | 0784 | [Kommo-o](../../pokemon/gen-7/0784-kommo-o.md) | any time |
 | 0785 | [Tapu Koko](../../pokemon/gen-7/0785-tapu-koko.md) | any time |

@@ -4,7 +4,7 @@
 
 Groups: Cold, Floral, Haunted, Ominous, Sengoku autumn lands, Spider lily fields, Spooky
 
-## Common (160)
+## Common (159)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -127,7 +127,6 @@ Groups: Cold, Floral, Haunted, Ominous, Sengoku autumn lands, Spider lily fields
 | 0604 | [Eelektross](../../pokemon/gen-5/0604-eelektross.md) | rain, underground |
 | 0605 | [Elgyem](../../pokemon/gen-5/0605-elgyem.md) | any time |
 | 0606 | [Beheeyem](../../pokemon/gen-5/0606-beheeyem.md) | any time |
-| 0607 | [Litwick](../../pokemon/gen-5/0607-litwick.md) | night |
 | 0664 | [Scatterbug](../../pokemon/gen-6/0664-scatterbug.md) | any time |
 | 0665 | [Spewpa](../../pokemon/gen-6/0665-spewpa.md) | any time |
 | 0666 | [Vivillon](../../pokemon/gen-6/0666-vivillon.md) | any time; near builds; villages |
@@ -169,17 +168,14 @@ Groups: Cold, Floral, Haunted, Ominous, Sengoku autumn lands, Spider lily fields
 | 0969 | [Glimmet](../../pokemon/gen-9/0969-glimmet.md) | underground |
 | 0970 | [Glimmora](../../pokemon/gen-9/0970-glimmora.md) | underground |
 
-## Uncommon (100)
+## Uncommon (93)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
 | 0019 | [Rattata](../../pokemon/gen-1/0019-rattata.md) | Alolan form, underground; underground |
 | 0020 | [Raticate](../../pokemon/gen-1/0020-raticate.md) | Alolan form, underground; underground |
-| 0037 | [Vulpix](../../pokemon/gen-1/0037-vulpix.md) | any time |
 | 0041 | [Zubat](../../pokemon/gen-1/0041-zubat.md) | underground |
 | 0042 | [Golbat](../../pokemon/gen-1/0042-golbat.md) | underground |
-| 0058 | [Growlithe](../../pokemon/gen-1/0058-growlithe.md) | near builds |
-| 0059 | [Arcanine](../../pokemon/gen-1/0059-arcanine.md) | near builds |
 | 0072 | [Tentacool](../../pokemon/gen-1/0072-tentacool.md) | underground, water |
 | 0073 | [Tentacruel](../../pokemon/gen-1/0073-tentacruel.md) | underground, water |
 | 0077 | [Ponyta](../../pokemon/gen-1/0077-ponyta.md) | Galarian form |
@@ -200,7 +196,6 @@ Groups: Cold, Floral, Haunted, Ominous, Sengoku autumn lands, Spider lily fields
 | 0133 | [Eevee](../../pokemon/gen-1/0133-eevee.md) | villages |
 | 0134 | [Vaporeon](../../pokemon/gen-1/0134-vaporeon.md) | near builds; villages |
 | 0135 | [Jolteon](../../pokemon/gen-1/0135-jolteon.md) | near builds; villages |
-| 0136 | [Flareon](../../pokemon/gen-1/0136-flareon.md) | near builds; villages |
 | 0137 | [Porygon](../../pokemon/gen-1/0137-porygon.md) | any time |
 | 0143 | [Snorlax](../../pokemon/gen-1/0143-snorlax.md) | any time |
 | 0169 | [Crobat](../../pokemon/gen-2/0169-crobat.md) | underground |
@@ -219,7 +214,6 @@ Groups: Cold, Floral, Haunted, Ominous, Sengoku autumn lands, Spider lily fields
 | 0299 | [Nosepass](../../pokemon/gen-3/0299-nosepass.md) | underground |
 | 0300 | [Skitty](../../pokemon/gen-3/0300-skitty.md) | any time |
 | 0301 | [Delcatty](../../pokemon/gen-3/0301-delcatty.md) | any time; villages |
-| 0324 | [Torkoal](../../pokemon/gen-3/0324-torkoal.md) | underground |
 | 0333 | [Swablu](../../pokemon/gen-3/0333-swablu.md) | any time |
 | 0334 | [Altaria](../../pokemon/gen-3/0334-altaria.md) | any time |
 | 0339 | [Barboach](../../pokemon/gen-3/0339-barboach.md) | rain, underground, water |
@@ -249,7 +243,6 @@ Groups: Cold, Floral, Haunted, Ominous, Sengoku autumn lands, Spider lily fields
 | 0579 | [Reuniclus](../../pokemon/gen-5/0579-reuniclus.md) | any time |
 | 0585 | [Deerling](../../pokemon/gen-5/0585-deerling.md) | any time |
 | 0591 | [Amoonguss](../../pokemon/gen-5/0591-amoonguss.md) | any time |
-| 0608 | [Lampent](../../pokemon/gen-5/0608-lampent.md) | night |
 | 0679 | [Honedge](../../pokemon/gen-6/0679-honedge.md) | night |
 | 0682 | [Spritzee](../../pokemon/gen-6/0682-spritzee.md) | any time |
 | 0700 | [Sylveon](../../pokemon/gen-6/0700-sylveon.md) | near builds; villages |
@@ -259,7 +252,6 @@ Groups: Cold, Floral, Haunted, Ominous, Sengoku autumn lands, Spider lily fields
 | 0767 | [Wimpod](../../pokemon/gen-7/0767-wimpod.md) | underground |
 | 0768 | [Golisopod](../../pokemon/gen-7/0768-golisopod.md) | underground |
 | 0774 | [Minior](../../pokemon/gen-7/0774-minior.md) | any time |
-| 0838 | [Carkol](../../pokemon/gen-8/0838-carkol.md) | underground |
 | 0840 | [Applin](../../pokemon/gen-8/0840-applin.md) | any time |
 | 0845 | [Cramorant](../../pokemon/gen-8/0845-cramorant.md) | any time |
 | 0848 | [Toxel](../../pokemon/gen-8/0848-toxel.md) | any time; underground |
@@ -274,11 +266,10 @@ Groups: Cold, Floral, Haunted, Ominous, Sengoku autumn lands, Spider lily fields
 | 0968 | [Orthworm](../../pokemon/gen-9/0968-orthworm.md) | underground |
 | 0982 | [Dudunsparce](../../pokemon/gen-9/0982-dudunsparce.md) | underground |
 
-## Rare (46)
+## Rare (43)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
-| 0038 | [Ninetales](../../pokemon/gen-1/0038-ninetales.md) | any time |
 | 0089 | [Muk](../../pokemon/gen-1/0089-muk.md) | near builds; water, near builds |
 | 0095 | [Onix](../../pokemon/gen-1/0095-onix.md) | underground |
 | 0113 | [Chansey](../../pokemon/gen-1/0113-chansey.md) | near builds; villages |
@@ -306,7 +297,6 @@ Groups: Cold, Floral, Haunted, Ominous, Sengoku autumn lands, Spider lily fields
 | 0575 | [Gothorita](../../pokemon/gen-5/0575-gothorita.md) | any time |
 | 0576 | [Gothitelle](../../pokemon/gen-5/0576-gothitelle.md) | any time |
 | 0586 | [Sawsbuck](../../pokemon/gen-5/0586-sawsbuck.md) | any time |
-| 0609 | [Chandelure](../../pokemon/gen-5/0609-chandelure.md) | night |
 | 0621 | [Druddigon](../../pokemon/gen-5/0621-druddigon.md) | underground |
 | 0680 | [Doublade](../../pokemon/gen-6/0680-doublade.md) | night |
 | 0683 | [Aromatisse](../../pokemon/gen-6/0683-aromatisse.md) | any time |
@@ -315,7 +305,6 @@ Groups: Cold, Floral, Haunted, Ominous, Sengoku autumn lands, Spider lily fields
 | 0764 | [Comfey](../../pokemon/gen-7/0764-comfey.md) | any time |
 | 0774 | [Minior](../../pokemon/gen-7/0774-minior.md) | any time |
 | 0778 | [Mimikyu](../../pokemon/gen-7/0778-mimikyu.md) | any time |
-| 0839 | [Coalossal](../../pokemon/gen-8/0839-coalossal.md) | underground |
 | 0842 | [Appletun](../../pokemon/gen-8/0842-appletun.md) | any time |
 | 0884 | [Duraludon](../../pokemon/gen-8/0884-duraludon.md) | any time |
 | 0899 | [Wyrdeer](../../pokemon/gen-8/0899-wyrdeer.md) | any time |
@@ -325,7 +314,7 @@ Groups: Cold, Floral, Haunted, Ominous, Sengoku autumn lands, Spider lily fields
 | 1011 | [Dipplin](../../pokemon/gen-9/1011-dipplin.md) | any time |
 | 1012 | [Poltchageist](../../pokemon/gen-9/1012-poltchageist.md) | any time |
 
-## Ultra rare (44)
+## Ultra rare (41)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -353,18 +342,15 @@ Groups: Cold, Floral, Haunted, Ominous, Sengoku autumn lands, Spider lily fields
 | 0716 | [Xerneas](../../pokemon/gen-6/0716-xerneas.md) | any time |
 | 0717 | [Yveltal](../../pokemon/gen-6/0717-yveltal.md) | any time |
 | 0718 | [Zygarde](../../pokemon/gen-6/0718-zygarde.md) | underground |
-| 0721 | [Volcanion](../../pokemon/gen-6/0721-volcanion.md) | underground |
 | 0786 | [Tapu Lele](../../pokemon/gen-7/0786-tapu-lele.md) | any time |
 | 0792 | [Lunala](../../pokemon/gen-7/0792-lunala.md) | underground |
 | 0801 | [Magearna](../../pokemon/gen-7/0801-magearna.md) | any time |
-| 0806 | [Blacephalon](../../pokemon/gen-7/0806-blacephalon.md) | any time |
 | 0888 | [Zacian](../../pokemon/gen-8/0888-zacian.md) | any time |
 | 0892 | [Urshifu](../../pokemon/gen-8/0892-urshifu.md) | any time |
 | 0897 | [Spectrier](../../pokemon/gen-8/0897-spectrier.md) | any time |
 | 0906 | [Sprigatito](../../pokemon/gen-9/0906-sprigatito.md) | any time |
 | 0907 | [Floragato](../../pokemon/gen-9/0907-floragato.md) | any time |
 | 0908 | [Meowscarada](../../pokemon/gen-9/0908-meowscarada.md) | any time |
-| 0937 | [Ceruledge](../../pokemon/gen-9/0937-ceruledge.md) | night |
 | 0985 | [Scream Tail](../../pokemon/gen-9/0985-scream-tail.md) | any time |
 | 0987 | [Flutter Mane](../../pokemon/gen-9/0987-flutter-mane.md) | any time |
 | 1010 | [Iron Leaves](../../pokemon/gen-9/1010-iron-leaves.md) | any time |

@@ -17,9 +17,9 @@
 | 0164 | [Noctowl](0164-noctowl.md) | Normal / Flying | Overworld, Aether |
 | 0165 | [Ledyba](0165-ledyba.md) | Bug / Flying | Overworld |
 | 0166 | [Ledian](0166-ledian.md) | Bug / Flying | Overworld |
-| 0167 | [Spinarak](0167-spinarak.md) | Bug / Poison | Overworld |
-| 0168 | [Ariados](0168-ariados.md) | Bug / Poison | Overworld |
-| 0169 | [Crobat](0169-crobat.md) | Poison / Flying | Overworld |
+| 0167 | [Spinarak](0167-spinarak.md) | Bug / Poison | Overworld, Nether |
+| 0168 | [Ariados](0168-ariados.md) | Bug / Poison | Overworld, Nether |
+| 0169 | [Crobat](0169-crobat.md) | Poison / Flying | Overworld, Nether |
 | 0170 | [Chinchou](0170-chinchou.md) | Water / Electric | Overworld, Otherside, End |
 | 0171 | [Lanturn](0171-lanturn.md) | Water / Electric | Overworld, Otherside, End |
 | 0172 | [Pichu](0172-pichu.md) | Electric | Overworld |
@@ -58,7 +58,7 @@
 | 0205 | [Forretress](0205-forretress.md) | Bug / Steel | Overworld |
 | 0206 | [Dunsparce](0206-dunsparce.md) | Normal | Overworld |
 | 0207 | [Gligar](0207-gligar.md) | Ground / Flying | Overworld, Otherside |
-| 0208 | [Steelix](0208-steelix.md) | Steel / Ground | Overworld, Nether |
+| 0208 | [Steelix](0208-steelix.md) | Steel / Ground | Overworld |
 | 0209 | [Snubbull](0209-snubbull.md) | Fairy | Overworld |
 | 0210 | [Granbull](0210-granbull.md) | Fairy | Overworld |
 | 0211 | [Qwilfish](0211-qwilfish.md) | Water / Poison | Overworld |
@@ -100,5 +100,5 @@
 | 0247 | [Pupitar](0247-pupitar.md) | Rock / Ground | Overworld |
 | 0248 | [Tyranitar](0248-tyranitar.md) | Rock / Dark | Overworld |
 | 0249 | [Lugia](0249-lugia.md) | Psychic / Flying | Overworld |
-| 0250 | [Ho-Oh](0250-ho-oh.md) | Fire / Flying | Overworld, Aether |
+| 0250 | [Ho-Oh](0250-ho-oh.md) | Fire / Flying | Aether, Overworld |
 | 0251 | [Celebi](0251-celebi.md) | Psychic / Grass | Overworld, Aether |

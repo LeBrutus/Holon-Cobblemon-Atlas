@@ -4,7 +4,7 @@
 
 Groups: Arid, Hills, Savanna
 
-## Common (197)
+## Common (194)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -56,7 +56,6 @@ Groups: Arid, Hills, Savanna
 | 0110 | [Weezing](../../pokemon/gen-1/0110-weezing.md) | near builds |
 | 0111 | [Rhyhorn](../../pokemon/gen-1/0111-rhyhorn.md) | any time |
 | 0112 | [Rhydon](../../pokemon/gen-1/0112-rhydon.md) | any time |
-| 0126 | [Magmar](../../pokemon/gen-1/0126-magmar.md) | any time |
 | 0129 | [Magikarp](../../pokemon/gen-1/0129-magikarp.md) | any time; underground |
 | 0130 | [Gyarados](../../pokemon/gen-1/0130-gyarados.md) | any time; underground |
 | 0167 | [Spinarak](../../pokemon/gen-2/0167-spinarak.md) | underground |
@@ -78,7 +77,6 @@ Groups: Arid, Hills, Savanna
 | 0219 | [Magcargo](../../pokemon/gen-2/0219-magcargo.md) | water, lava |
 | 0231 | [Phanpy](../../pokemon/gen-2/0231-phanpy.md) | any time |
 | 0232 | [Donphan](../../pokemon/gen-2/0232-donphan.md) | any time |
-| 0240 | [Magby](../../pokemon/gen-2/0240-magby.md) | any time |
 | 0261 | [Poochyena](../../pokemon/gen-3/0261-poochyena.md) | any time |
 | 0262 | [Mightyena](../../pokemon/gen-3/0262-mightyena.md) | any time |
 | 0293 | [Whismur](../../pokemon/gen-3/0293-whismur.md) | underground |
@@ -110,7 +108,6 @@ Groups: Arid, Hills, Savanna
 | 0432 | [Purugly](../../pokemon/gen-4/0432-purugly.md) | near builds; villages |
 | 0462 | [Magnezone](../../pokemon/gen-4/0462-magnezone.md) | any time |
 | 0464 | [Rhyperior](../../pokemon/gen-4/0464-rhyperior.md) | any time |
-| 0467 | [Magmortar](../../pokemon/gen-4/0467-magmortar.md) | any time |
 | 0506 | [Lillipup](../../pokemon/gen-5/0506-lillipup.md) | near builds; villages |
 | 0507 | [Herdier](../../pokemon/gen-5/0507-herdier.md) | near builds; villages |
 | 0508 | [Stoutland](../../pokemon/gen-5/0508-stoutland.md) | near builds; villages |
@@ -206,7 +203,7 @@ Groups: Arid, Hills, Savanna
 | 0979 | [Annihilape](../../pokemon/gen-9/0979-annihilape.md) | any time |
 | 0981 | [Farigiraf](../../pokemon/gen-9/0981-farigiraf.md) | any time |
 
-## Uncommon (121)
+## Uncommon (114)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -222,8 +219,6 @@ Groups: Arid, Hills, Savanna
 | 0036 | [Clefable](../../pokemon/gen-1/0036-clefable.md) | any time |
 | 0041 | [Zubat](../../pokemon/gen-1/0041-zubat.md) | underground |
 | 0042 | [Golbat](../../pokemon/gen-1/0042-golbat.md) | underground |
-| 0058 | [Growlithe](../../pokemon/gen-1/0058-growlithe.md) | near builds |
-| 0059 | [Arcanine](../../pokemon/gen-1/0059-arcanine.md) | near builds |
 | 0072 | [Tentacool](../../pokemon/gen-1/0072-tentacool.md) | underground, water |
 | 0073 | [Tentacruel](../../pokemon/gen-1/0073-tentacruel.md) | underground, water |
 | 0081 | [Magnemite](../../pokemon/gen-1/0081-magnemite.md) | any time |
@@ -244,7 +239,6 @@ Groups: Arid, Hills, Savanna
 | 0133 | [Eevee](../../pokemon/gen-1/0133-eevee.md) | villages |
 | 0134 | [Vaporeon](../../pokemon/gen-1/0134-vaporeon.md) | near builds; villages |
 | 0135 | [Jolteon](../../pokemon/gen-1/0135-jolteon.md) | near builds; villages |
-| 0136 | [Flareon](../../pokemon/gen-1/0136-flareon.md) | near builds; villages |
 | 0137 | [Porygon](../../pokemon/gen-1/0137-porygon.md) | any time |
 | 0143 | [Snorlax](../../pokemon/gen-1/0143-snorlax.md) | any time |
 | 0169 | [Crobat](../../pokemon/gen-2/0169-crobat.md) | underground |
@@ -263,7 +257,6 @@ Groups: Arid, Hills, Savanna
 | 0239 | [Elekid](../../pokemon/gen-2/0239-elekid.md) | any time |
 | 0299 | [Nosepass](../../pokemon/gen-3/0299-nosepass.md) | underground |
 | 0301 | [Delcatty](../../pokemon/gen-3/0301-delcatty.md) | near builds; villages |
-| 0324 | [Torkoal](../../pokemon/gen-3/0324-torkoal.md) | underground |
 | 0327 | [Spinda](../../pokemon/gen-3/0327-spinda.md) | any time |
 | 0333 | [Swablu](../../pokemon/gen-3/0333-swablu.md) | any time |
 | 0334 | [Altaria](../../pokemon/gen-3/0334-altaria.md) | any time |
@@ -295,20 +288,17 @@ Groups: Arid, Hills, Savanna
 | 0618 | [Stunfisk](../../pokemon/gen-5/0618-stunfisk.md) | any time |
 | 0627 | [Rufflet](../../pokemon/gen-5/0627-rufflet.md) | any time |
 | 0628 | [Braviary](../../pokemon/gen-5/0628-braviary.md) | any time |
-| 0631 | [Heatmor](../../pokemon/gen-5/0631-heatmor.md) | any time |
 | 0668 | [Pyroar](../../pokemon/gen-6/0668-pyroar.md) | any time |
 | 0673 | [Gogoat](../../pokemon/gen-6/0673-gogoat.md) | any time |
 | 0700 | [Sylveon](../../pokemon/gen-6/0700-sylveon.md) | near builds; villages |
 | 0702 | [Dedenne](../../pokemon/gen-6/0702-dedenne.md) | any time |
 | 0707 | [Klefki](../../pokemon/gen-6/0707-klefki.md) | near builds; villages |
-| 0741 | [Oricorio](../../pokemon/gen-7/0741-oricorio.md) | any time |
 | 0744 | [Rockruff](../../pokemon/gen-7/0744-rockruff.md) | dusk |
 | 0745 | [Lycanroc](../../pokemon/gen-7/0745-lycanroc.md) | dusk |
 | 0767 | [Wimpod](../../pokemon/gen-7/0767-wimpod.md) | underground |
 | 0768 | [Golisopod](../../pokemon/gen-7/0768-golisopod.md) | underground |
 | 0774 | [Minior](../../pokemon/gen-7/0774-minior.md) | any time |
 | 0777 | [Togedemaru](../../pokemon/gen-7/0777-togedemaru.md) | any time |
-| 0838 | [Carkol](../../pokemon/gen-8/0838-carkol.md) | underground |
 | 0845 | [Cramorant](../../pokemon/gen-8/0845-cramorant.md) | any time |
 | 0848 | [Toxel](../../pokemon/gen-8/0848-toxel.md) | any time; underground |
 | 0849 | [Toxtricity](../../pokemon/gen-8/0849-toxtricity.md) | underground |
@@ -332,7 +322,7 @@ Groups: Arid, Hills, Savanna
 | 1012 | [Poltchageist](../../pokemon/gen-9/1012-poltchageist.md) | underground, villages; villages |
 | 1013 | [Sinistcha](../../pokemon/gen-9/1013-sinistcha.md) | underground, villages; villages |
 
-## Rare (33)
+## Rare (32)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -366,17 +356,13 @@ Groups: Arid, Hills, Savanna
 | 0715 | [Noivern](../../pokemon/gen-6/0715-noivern.md) | underground |
 | 0764 | [Comfey](../../pokemon/gen-7/0764-comfey.md) | any time |
 | 0774 | [Minior](../../pokemon/gen-7/0774-minior.md) | any time |
-| 0839 | [Coalossal](../../pokemon/gen-8/0839-coalossal.md) | underground |
 | 0884 | [Duraludon](../../pokemon/gen-8/0884-duraludon.md) | any time |
 | 0900 | [Kleavor](../../pokemon/gen-8/0900-kleavor.md) | any time |
 
-## Ultra rare (29)
+## Ultra rare (25)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
-| 0004 | [Charmander](../../pokemon/gen-1/0004-charmander.md) | any time |
-| 0005 | [Charmeleon](../../pokemon/gen-1/0005-charmeleon.md) | any time |
-| 0006 | [Charizard](../../pokemon/gen-1/0006-charizard.md) | any time |
 | 0007 | [Squirtle](../../pokemon/gen-1/0007-squirtle.md) | any time |
 | 0008 | [Wartortle](../../pokemon/gen-1/0008-wartortle.md) | any time |
 | 0009 | [Blastoise](../../pokemon/gen-1/0009-blastoise.md) | any time |
@@ -399,7 +385,6 @@ Groups: Arid, Hills, Savanna
 | 0705 | [Sliggoo](../../pokemon/gen-6/0705-sliggoo.md) | Hisuian form, underground; any time |
 | 0706 | [Goodra](../../pokemon/gen-6/0706-goodra.md) | Hisuian form, underground; any time |
 | 0718 | [Zygarde](../../pokemon/gen-6/0718-zygarde.md) | underground |
-| 0721 | [Volcanion](../../pokemon/gen-6/0721-volcanion.md) | underground |
 | 0984 | [Great Tusk](../../pokemon/gen-9/0984-great-tusk.md) | any time |
 | 1014 | [Okidogi](../../pokemon/gen-9/1014-okidogi.md) | any time |
 | 1020 | [Gouging Fire](../../pokemon/gen-9/1020-gouging-fire.md) | any time |

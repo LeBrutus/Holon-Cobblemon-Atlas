@@ -4,7 +4,7 @@
 
 Groups: Cold, Forest, Freezing, Haunted, Ominous, Sengoku dark forests, Sengoku snowlands, Snowy, Snowy forest, Spooky
 
-## Common (213)
+## Common (210)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -163,10 +163,7 @@ Groups: Cold, Forest, Freezing, Haunted, Ominous, Sengoku dark forests, Sengoku 
 | 0604 | [Eelektross](../../pokemon/gen-5/0604-eelektross.md) | rain, underground |
 | 0605 | [Elgyem](../../pokemon/gen-5/0605-elgyem.md) | any time |
 | 0606 | [Beheeyem](../../pokemon/gen-5/0606-beheeyem.md) | any time |
-| 0607 | [Litwick](../../pokemon/gen-5/0607-litwick.md) | night |
 | 0661 | [Fletchling](../../pokemon/gen-6/0661-fletchling.md) | any time |
-| 0662 | [Fletchinder](../../pokemon/gen-6/0662-fletchinder.md) | any time |
-| 0663 | [Talonflame](../../pokemon/gen-6/0663-talonflame.md) | any time |
 | 0666 | [Vivillon](../../pokemon/gen-6/0666-vivillon.md) | any time; near builds; villages |
 | 0669 | [Flabebe](../../pokemon/gen-6/0669-flabebe.md) | any time |
 | 0670 | [Floette](../../pokemon/gen-6/0670-floette.md) | any time |
@@ -222,7 +219,7 @@ Groups: Cold, Forest, Freezing, Haunted, Ominous, Sengoku dark forests, Sengoku 
 | 0969 | [Glimmet](../../pokemon/gen-9/0969-glimmet.md) | underground |
 | 0970 | [Glimmora](../../pokemon/gen-9/0970-glimmora.md) | underground |
 
-## Uncommon (131)
+## Uncommon (125)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -232,12 +229,10 @@ Groups: Cold, Forest, Freezing, Haunted, Ominous, Sengoku dark forests, Sengoku 
 | 0026 | [Raichu](../../pokemon/gen-1/0026-raichu.md) | any time |
 | 0027 | [Sandshrew](../../pokemon/gen-1/0027-sandshrew.md) | Alolan form |
 | 0028 | [Sandslash](../../pokemon/gen-1/0028-sandslash.md) | Alolan form |
-| 0037 | [Vulpix](../../pokemon/gen-1/0037-vulpix.md) | Alolan form; any time |
-| 0038 | [Ninetales](../../pokemon/gen-1/0038-ninetales.md) | Alolan form; any time |
+| 0037 | [Vulpix](../../pokemon/gen-1/0037-vulpix.md) | Alolan form |
+| 0038 | [Ninetales](../../pokemon/gen-1/0038-ninetales.md) | Alolan form |
 | 0041 | [Zubat](../../pokemon/gen-1/0041-zubat.md) | underground |
 | 0042 | [Golbat](../../pokemon/gen-1/0042-golbat.md) | underground |
-| 0058 | [Growlithe](../../pokemon/gen-1/0058-growlithe.md) | near builds |
-| 0059 | [Arcanine](../../pokemon/gen-1/0059-arcanine.md) | near builds |
 | 0072 | [Tentacool](../../pokemon/gen-1/0072-tentacool.md) | underground, water |
 | 0073 | [Tentacruel](../../pokemon/gen-1/0073-tentacruel.md) | underground, water |
 | 0081 | [Magnemite](../../pokemon/gen-1/0081-magnemite.md) | any time |
@@ -257,7 +252,6 @@ Groups: Cold, Forest, Freezing, Haunted, Ominous, Sengoku dark forests, Sengoku 
 | 0133 | [Eevee](../../pokemon/gen-1/0133-eevee.md) | villages |
 | 0134 | [Vaporeon](../../pokemon/gen-1/0134-vaporeon.md) | near builds; villages |
 | 0135 | [Jolteon](../../pokemon/gen-1/0135-jolteon.md) | near builds; villages |
-| 0136 | [Flareon](../../pokemon/gen-1/0136-flareon.md) | near builds; villages |
 | 0137 | [Porygon](../../pokemon/gen-1/0137-porygon.md) | any time |
 | 0143 | [Snorlax](../../pokemon/gen-1/0143-snorlax.md) | any time |
 | 0169 | [Crobat](../../pokemon/gen-2/0169-crobat.md) | underground |
@@ -277,7 +271,6 @@ Groups: Cold, Forest, Freezing, Haunted, Ominous, Sengoku dark forests, Sengoku 
 | 0292 | [Shedinja](../../pokemon/gen-3/0292-shedinja.md) | any time |
 | 0299 | [Nosepass](../../pokemon/gen-3/0299-nosepass.md) | underground |
 | 0301 | [Delcatty](../../pokemon/gen-3/0301-delcatty.md) | villages |
-| 0324 | [Torkoal](../../pokemon/gen-3/0324-torkoal.md) | underground |
 | 0333 | [Swablu](../../pokemon/gen-3/0333-swablu.md) | any time |
 | 0334 | [Altaria](../../pokemon/gen-3/0334-altaria.md) | any time |
 | 0339 | [Barboach](../../pokemon/gen-3/0339-barboach.md) | rain, underground, water |
@@ -322,7 +315,6 @@ Groups: Cold, Forest, Freezing, Haunted, Ominous, Sengoku dark forests, Sengoku 
 | 0582 | [Vanillite](../../pokemon/gen-5/0582-vanillite.md) | rain, underground |
 | 0583 | [Vanillish](../../pokemon/gen-5/0583-vanillish.md) | rain, underground |
 | 0584 | [Vanilluxe](../../pokemon/gen-5/0584-vanilluxe.md) | rain, underground |
-| 0608 | [Lampent](../../pokemon/gen-5/0608-lampent.md) | night |
 | 0615 | [Cryogonal](../../pokemon/gen-5/0615-cryogonal.md) | any time |
 | 0628 | [Braviary](../../pokemon/gen-5/0628-braviary.md) | Hisuian form |
 | 0679 | [Honedge](../../pokemon/gen-6/0679-honedge.md) | night |
@@ -339,7 +331,6 @@ Groups: Cold, Forest, Freezing, Haunted, Ominous, Sengoku dark forests, Sengoku 
 | 0774 | [Minior](../../pokemon/gen-7/0774-minior.md) | any time |
 | 0820 | [Greedent](../../pokemon/gen-8/0820-greedent.md) | any time |
 | 0825 | [Dottler](../../pokemon/gen-8/0825-dottler.md) | any time |
-| 0838 | [Carkol](../../pokemon/gen-8/0838-carkol.md) | underground |
 | 0845 | [Cramorant](../../pokemon/gen-8/0845-cramorant.md) | any time |
 | 0848 | [Toxel](../../pokemon/gen-8/0848-toxel.md) | any time; underground |
 | 0849 | [Toxtricity](../../pokemon/gen-8/0849-toxtricity.md) | underground |
@@ -358,7 +349,7 @@ Groups: Cold, Forest, Freezing, Haunted, Ominous, Sengoku dark forests, Sengoku 
 | 1012 | [Poltchageist](../../pokemon/gen-9/1012-poltchageist.md) | underground, villages; villages |
 | 1013 | [Sinistcha](../../pokemon/gen-9/1013-sinistcha.md) | underground, villages; villages |
 
-## Rare (59)
+## Rare (57)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -397,7 +388,6 @@ Groups: Cold, Forest, Freezing, Haunted, Ominous, Sengoku dark forests, Sengoku 
 | 0572 | [Minccino](../../pokemon/gen-5/0572-minccino.md) | any time |
 | 0575 | [Gothorita](../../pokemon/gen-5/0575-gothorita.md) | any time |
 | 0576 | [Gothitelle](../../pokemon/gen-5/0576-gothitelle.md) | any time |
-| 0609 | [Chandelure](../../pokemon/gen-5/0609-chandelure.md) | night |
 | 0621 | [Druddigon](../../pokemon/gen-5/0621-druddigon.md) | underground |
 | 0680 | [Doublade](../../pokemon/gen-6/0680-doublade.md) | night |
 | 0683 | [Aromatisse](../../pokemon/gen-6/0683-aromatisse.md) | any time |
@@ -407,7 +397,6 @@ Groups: Cold, Forest, Freezing, Haunted, Ominous, Sengoku dark forests, Sengoku 
 | 0764 | [Comfey](../../pokemon/gen-7/0764-comfey.md) | any time |
 | 0774 | [Minior](../../pokemon/gen-7/0774-minior.md) | any time |
 | 0778 | [Mimikyu](../../pokemon/gen-7/0778-mimikyu.md) | any time |
-| 0839 | [Coalossal](../../pokemon/gen-8/0839-coalossal.md) | underground |
 | 0840 | [Applin](../../pokemon/gen-8/0840-applin.md) | any time |
 | 0841 | [Flapple](../../pokemon/gen-8/0841-flapple.md) | any time |
 | 0865 | [Sirfetch’d](../../pokemon/gen-8/0865-sirfetch-d.md) | any time |
@@ -422,7 +411,7 @@ Groups: Cold, Forest, Freezing, Haunted, Ominous, Sengoku dark forests, Sengoku 
 | 0978 | [Tatsugiri](../../pokemon/gen-9/0978-tatsugiri.md) | underground |
 | 1012 | [Poltchageist](../../pokemon/gen-9/1012-poltchageist.md) | any time |
 
-## Ultra rare (51)
+## Ultra rare (48)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -460,20 +449,17 @@ Groups: Cold, Forest, Freezing, Haunted, Ominous, Sengoku dark forests, Sengoku 
 | 0716 | [Xerneas](../../pokemon/gen-6/0716-xerneas.md) | any time |
 | 0717 | [Yveltal](../../pokemon/gen-6/0717-yveltal.md) | any time |
 | 0718 | [Zygarde](../../pokemon/gen-6/0718-zygarde.md) | underground |
-| 0721 | [Volcanion](../../pokemon/gen-6/0721-volcanion.md) | underground |
 | 0722 | [Rowlet](../../pokemon/gen-7/0722-rowlet.md) | any time |
 | 0723 | [Dartrix](../../pokemon/gen-7/0723-dartrix.md) | any time |
 | 0724 | [Decidueye](../../pokemon/gen-7/0724-decidueye.md) | any time |
 | 0787 | [Tapu Bulu](../../pokemon/gen-7/0787-tapu-bulu.md) | any time |
 | 0792 | [Lunala](../../pokemon/gen-7/0792-lunala.md) | underground |
-| 0806 | [Blacephalon](../../pokemon/gen-7/0806-blacephalon.md) | any time |
 | 0892 | [Urshifu](../../pokemon/gen-8/0892-urshifu.md) | any time |
 | 0896 | [Glastrier](../../pokemon/gen-8/0896-glastrier.md) | any time |
 | 0897 | [Spectrier](../../pokemon/gen-8/0897-spectrier.md) | any time |
 | 0912 | [Quaxly](../../pokemon/gen-9/0912-quaxly.md) | any time |
 | 0913 | [Quaxwell](../../pokemon/gen-9/0913-quaxwell.md) | any time |
 | 0914 | [Quaquaval](../../pokemon/gen-9/0914-quaquaval.md) | any time |
-| 0937 | [Ceruledge](../../pokemon/gen-9/0937-ceruledge.md) | night |
 | 0987 | [Flutter Mane](../../pokemon/gen-9/0987-flutter-mane.md) | any time |
 | 0991 | [Iron Bundle](../../pokemon/gen-9/0991-iron-bundle.md) | any time |
 | 1002 | [Chien-Pao](../../pokemon/gen-9/1002-chien-pao.md) | any time |

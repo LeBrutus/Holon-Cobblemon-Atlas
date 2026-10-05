@@ -15,11 +15,3 @@ Biome groups: Freezing, Cold
 Biome groups: Glacial
 
 [Frozen Cliffs](../../biomes/overworld/frozen-cliffs.md), [Frozen Peaks](../../biomes/overworld/frozen-peaks.md), [Glacial Chasm](../../biomes/overworld/glacial-chasm.md), [Ice Spikes](../../biomes/overworld/ice-spikes.md), [Icy Heights](../../biomes/overworld/icy-heights.md), [Spires](../../biomes/overworld/spires.md)
-
-## Nether
-
-### Common — any time · Lv 23-47
-
-Biome groups: Nether wastes
-
-[Glistering Meadow](../../biomes/nether/glistering-meadow.md), [Gravel Desert (BetterNether)](../../biomes/nether/gravel-desert-betternether.md), [Nether Grasslands](../../biomes/nether/nether-grasslands.md), [Nether Wastes](../../biomes/nether/nether-wastes.md), [Poor Nether Grasslands](../../biomes/nether/poor-nether-grasslands.md)

@@ -180,7 +180,7 @@ Groups: Fresh water, Lake, Swamp
 | 0970 | [Glimmora](../../pokemon/gen-9/0970-glimmora.md) | underground |
 | 0973 | [Flamigo](../../pokemon/gen-9/0973-flamigo.md) | any time |
 
-## Uncommon (109)
+## Uncommon (104)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -188,8 +188,6 @@ Groups: Fresh water, Lake, Swamp
 | 0020 | [Raticate](../../pokemon/gen-1/0020-raticate.md) | Alolan form, underground; underground |
 | 0041 | [Zubat](../../pokemon/gen-1/0041-zubat.md) | underground |
 | 0042 | [Golbat](../../pokemon/gen-1/0042-golbat.md) | underground |
-| 0058 | [Growlithe](../../pokemon/gen-1/0058-growlithe.md) | near builds |
-| 0059 | [Arcanine](../../pokemon/gen-1/0059-arcanine.md) | near builds |
 | 0072 | [Tentacool](../../pokemon/gen-1/0072-tentacool.md) | underground, water |
 | 0073 | [Tentacruel](../../pokemon/gen-1/0073-tentacruel.md) | underground, water |
 | 0081 | [Magnemite](../../pokemon/gen-1/0081-magnemite.md) | any time |
@@ -209,7 +207,6 @@ Groups: Fresh water, Lake, Swamp
 | 0133 | [Eevee](../../pokemon/gen-1/0133-eevee.md) | villages |
 | 0134 | [Vaporeon](../../pokemon/gen-1/0134-vaporeon.md) | near builds; villages |
 | 0135 | [Jolteon](../../pokemon/gen-1/0135-jolteon.md) | near builds; villages |
-| 0136 | [Flareon](../../pokemon/gen-1/0136-flareon.md) | near builds; villages |
 | 0137 | [Porygon](../../pokemon/gen-1/0137-porygon.md) | any time |
 | 0143 | [Snorlax](../../pokemon/gen-1/0143-snorlax.md) | any time |
 | 0169 | [Crobat](../../pokemon/gen-2/0169-crobat.md) | underground |
@@ -231,7 +228,6 @@ Groups: Fresh water, Lake, Swamp
 | 0314 | [Illumise](../../pokemon/gen-3/0314-illumise.md) | water |
 | 0316 | [Gulpin](../../pokemon/gen-3/0316-gulpin.md) | any time |
 | 0317 | [Swalot](../../pokemon/gen-3/0317-swalot.md) | any time |
-| 0324 | [Torkoal](../../pokemon/gen-3/0324-torkoal.md) | underground |
 | 0333 | [Swablu](../../pokemon/gen-3/0333-swablu.md) | any time |
 | 0334 | [Altaria](../../pokemon/gen-3/0334-altaria.md) | any time |
 | 0339 | [Barboach](../../pokemon/gen-3/0339-barboach.md) | rain, underground, water |
@@ -276,7 +272,6 @@ Groups: Fresh water, Lake, Swamp
 | 0767 | [Wimpod](../../pokemon/gen-7/0767-wimpod.md) | underground |
 | 0768 | [Golisopod](../../pokemon/gen-7/0768-golisopod.md) | underground |
 | 0774 | [Minior](../../pokemon/gen-7/0774-minior.md) | any time |
-| 0838 | [Carkol](../../pokemon/gen-8/0838-carkol.md) | underground |
 | 0845 | [Cramorant](../../pokemon/gen-8/0845-cramorant.md) | any time |
 | 0848 | [Toxel](../../pokemon/gen-8/0848-toxel.md) | any time; underground |
 | 0849 | [Toxtricity](../../pokemon/gen-8/0849-toxtricity.md) | underground |
@@ -294,7 +289,7 @@ Groups: Fresh water, Lake, Swamp
 | 1012 | [Poltchageist](../../pokemon/gen-9/1012-poltchageist.md) | underground, villages; villages |
 | 1013 | [Sinistcha](../../pokemon/gen-9/1013-sinistcha.md) | underground, villages; villages |
 
-## Rare (27)
+## Rare (26)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -321,12 +316,11 @@ Groups: Fresh water, Lake, Swamp
 | 0715 | [Noivern](../../pokemon/gen-6/0715-noivern.md) | underground |
 | 0764 | [Comfey](../../pokemon/gen-7/0764-comfey.md) | any time |
 | 0774 | [Minior](../../pokemon/gen-7/0774-minior.md) | any time |
-| 0839 | [Coalossal](../../pokemon/gen-8/0839-coalossal.md) | underground |
 | 0884 | [Duraludon](../../pokemon/gen-8/0884-duraludon.md) | any time |
 | 0977 | [Dondozo](../../pokemon/gen-9/0977-dondozo.md) | any time; underground; underground, water |
 | 0978 | [Tatsugiri](../../pokemon/gen-9/0978-tatsugiri.md) | any time; underground; underground, water |
 
-## Ultra rare (35)
+## Ultra rare (34)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -356,7 +350,6 @@ Groups: Fresh water, Lake, Swamp
 | 0705 | [Sliggoo](../../pokemon/gen-6/0705-sliggoo.md) | Hisuian form, underground; any time; rain |
 | 0706 | [Goodra](../../pokemon/gen-6/0706-goodra.md) | Hisuian form, underground; any time; rain |
 | 0718 | [Zygarde](../../pokemon/gen-6/0718-zygarde.md) | underground |
-| 0721 | [Volcanion](../../pokemon/gen-6/0721-volcanion.md) | underground |
 | 0793 | [Nihilego](../../pokemon/gen-7/0793-nihilego.md) | any time |
 | 0794 | [Buzzwole](../../pokemon/gen-7/0794-buzzwole.md) | any time |
 | 0803 | [Poipole](../../pokemon/gen-7/0803-poipole.md) | any time |

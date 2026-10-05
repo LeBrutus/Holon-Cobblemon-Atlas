@@ -14,6 +14,14 @@ Biome groups: Sky
 
 All Overworld biomes.
 
+## Nether
+
+### Uncommon — any time · Lv 28-46
+
+Biome groups: Warped forests
+
+[Gloomwood](../../biomes/nether/gloomwood.md), [Nether Jungle](../../biomes/nether/nether-jungle.md), [Old Warped Woods](../../biomes/nether/old-warped-woods.md), [Warped Forest](../../biomes/nether/warped-forest.md)
+
 ## Aether
 
 ### Rare — any time · Lv 28-46

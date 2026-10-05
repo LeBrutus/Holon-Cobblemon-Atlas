@@ -24,6 +24,14 @@ Biome groups: Spider lily fields
 
 [Spider Lily Fields](../../biomes/overworld/spider-lily-fields.md)
 
+## Nether
+
+### Common — any time · Lv 25-49
+
+Biome groups: Warped forests
+
+[Gloomwood](../../biomes/nether/gloomwood.md), [Nether Jungle](../../biomes/nether/nether-jungle.md), [Old Warped Woods](../../biomes/nether/old-warped-woods.md), [Warped Forest](../../biomes/nether/warped-forest.md)
+
 ## Otherside
 
 ### Common — night · Lv 25-41

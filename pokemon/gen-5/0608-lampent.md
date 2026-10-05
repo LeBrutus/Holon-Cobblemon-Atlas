@@ -4,19 +4,19 @@
 
 ## Overworld
 
-### Uncommon — night · Lv 41-55
+### Rare — night · Lv 41-55
 
-Biome groups: Spooky
+Biome groups: Volcanic
 
-[Ashen Woodland](../../biomes/overworld/ashen-woodland.md), [Autumnal Dark Forest](../../biomes/overworld/autumnal-dark-forest.md), [Bayou](../../biomes/overworld/bayou.md), [Blackwood Taiga](../../biomes/overworld/blackwood-taiga.md), [Dark Forest](../../biomes/overworld/dark-forest.md), [Deep Dark](../../biomes/overworld/deep-dark.md), [Infested Caves](../../biomes/overworld/infested-caves.md), [Moonlight Grove](../../biomes/overworld/moonlight-grove.md), [Old Growth Bayou](../../biomes/overworld/old-growth-bayou.md), [Pale Garden](../../biomes/overworld/pale-garden.md), [Pumpkin Fields](../../biomes/overworld/pumpkin-fields.md), [Sengoku Dark Forest](../../biomes/overworld/sengoku-dark-forest.md), [Snowy Dark Forest](../../biomes/overworld/snowy-dark-forest.md), [Spider Lily Fields](../../biomes/overworld/spider-lily-fields.md), [Swamp](../../biomes/overworld/swamp.md)
+[Ashen Savanna](../../biomes/overworld/ashen-savanna.md), [Ashen Woodland](../../biomes/overworld/ashen-woodland.md), [Basalt Cliffs](../../biomes/overworld/basalt-cliffs.md), [Burnt Plains](../../biomes/overworld/burnt-plains.md), [Caldera](../../biomes/overworld/caldera.md), [Frostfire Caves](../../biomes/overworld/frostfire-caves.md), [Inferno](../../biomes/overworld/inferno.md), [Mantle Caves](../../biomes/overworld/mantle-caves.md), [Scorching Caves](../../biomes/overworld/scorching-caves.md), [Sulfur Caves](../../biomes/overworld/sulfur-caves.md), [Thermal Caves](../../biomes/overworld/thermal-caves.md), [Volcanic Crater](../../biomes/overworld/volcanic-crater.md), [Volcanic Peaks](../../biomes/overworld/volcanic-peaks.md), [Yellowstone](../../biomes/overworld/yellowstone.md)
 
 ## Nether
 
 ### Uncommon — any time · Lv 41-55
 
-Biome groups: Warped forests
+Biome groups: Nether wastes
 
-[Gloomwood](../../biomes/nether/gloomwood.md), [Nether Jungle](../../biomes/nether/nether-jungle.md), [Old Warped Woods](../../biomes/nether/old-warped-woods.md), [Warped Forest](../../biomes/nether/warped-forest.md)
+[Glistering Meadow](../../biomes/nether/glistering-meadow.md), [Gravel Desert (BetterNether)](../../biomes/nether/gravel-desert-betternether.md), [Nether Grasslands](../../biomes/nether/nether-grasslands.md), [Nether Wastes](../../biomes/nether/nether-wastes.md), [Poor Nether Grasslands](../../biomes/nether/poor-nether-grasslands.md)
 
 ### Uncommon — any time · Lv 41-55
 

@@ -18,7 +18,7 @@
 | 0429 | [Mismagius](../../pokemon/gen-4/0429-mismagius.md) | night |
 | 0535 | [Tympole](../../pokemon/gen-5/0535-tympole.md) | rain; rain, water |
 
-## Uncommon (37)
+## Uncommon (36)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -36,7 +36,6 @@
 | 0303 | [Mawile](../../pokemon/gen-3/0303-mawile.md) | any time |
 | 0316 | [Gulpin](../../pokemon/gen-3/0316-gulpin.md) | any time |
 | 0317 | [Swalot](../../pokemon/gen-3/0317-swalot.md) | any time |
-| 0324 | [Torkoal](../../pokemon/gen-3/0324-torkoal.md) | any time |
 | 0355 | [Duskull](../../pokemon/gen-3/0355-duskull.md) | night |
 | 0356 | [Dusclops](../../pokemon/gen-3/0356-dusclops.md) | night |
 | 0358 | [Chimecho](../../pokemon/gen-3/0358-chimecho.md) | any time |

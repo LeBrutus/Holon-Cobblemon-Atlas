@@ -4,7 +4,7 @@
 
 Groups: Cold, Freezing, Frozen, Glacial, High mountains, Mountain, Peak, Snowy
 
-## Common (142)
+## Common (138)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -16,7 +16,6 @@ Groups: Cold, Freezing, Frozen, Glacial, High mountains, Mountain, Peak, Snowy
 | 0051 | [Dugtrio](../../pokemon/gen-1/0051-dugtrio.md) | Alolan form, underground; underground |
 | 0052 | [Meowth](../../pokemon/gen-1/0052-meowth.md) | Galarian form, near builds; Galarian form, villages; near builds; villages |
 | 0053 | [Persian](../../pokemon/gen-1/0053-persian.md) | near builds; villages |
-| 0058 | [Growlithe](../../pokemon/gen-1/0058-growlithe.md) | Hisuian form |
 | 0072 | [Tentacool](../../pokemon/gen-1/0072-tentacool.md) | underground |
 | 0073 | [Tentacruel](../../pokemon/gen-1/0073-tentacruel.md) | underground |
 | 0074 | [Geodude](../../pokemon/gen-1/0074-geodude.md) | Alolan form; any time; underground |
@@ -63,7 +62,6 @@ Groups: Cold, Freezing, Frozen, Glacial, High mountains, Mountain, Peak, Snowy
 | 0306 | [Aggron](../../pokemon/gen-3/0306-aggron.md) | any time; underground |
 | 0307 | [Meditite](../../pokemon/gen-3/0307-meditite.md) | any time |
 | 0308 | [Medicham](../../pokemon/gen-3/0308-medicham.md) | any time |
-| 0324 | [Torkoal](../../pokemon/gen-3/0324-torkoal.md) | any time |
 | 0325 | [Spoink](../../pokemon/gen-3/0325-spoink.md) | any time |
 | 0339 | [Barboach](../../pokemon/gen-3/0339-barboach.md) | rain, underground |
 | 0340 | [Whiscash](../../pokemon/gen-3/0340-whiscash.md) | rain, underground |
@@ -122,8 +120,6 @@ Groups: Cold, Freezing, Frozen, Glacial, High mountains, Mountain, Peak, Snowy
 | 0711 | [Gourgeist](../../pokemon/gen-6/0711-gourgeist.md) | any time |
 | 0742 | [Cutiefly](../../pokemon/gen-7/0742-cutiefly.md) | any time |
 | 0743 | [Ribombee](../../pokemon/gen-7/0743-ribombee.md) | any time |
-| 0757 | [Salandit](../../pokemon/gen-7/0757-salandit.md) | underground |
-| 0758 | [Salazzle](../../pokemon/gen-7/0758-salazzle.md) | underground |
 | 0767 | [Wimpod](../../pokemon/gen-7/0767-wimpod.md) | underground |
 | 0768 | [Golisopod](../../pokemon/gen-7/0768-golisopod.md) | underground |
 | 0831 | [Wooloo](../../pokemon/gen-8/0831-wooloo.md) | any time |
@@ -151,7 +147,7 @@ Groups: Cold, Freezing, Frozen, Glacial, High mountains, Mountain, Peak, Snowy
 | 0969 | [Glimmet](../../pokemon/gen-9/0969-glimmet.md) | underground |
 | 0970 | [Glimmora](../../pokemon/gen-9/0970-glimmora.md) | underground |
 
-## Uncommon (115)
+## Uncommon (110)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -161,8 +157,6 @@ Groups: Cold, Freezing, Frozen, Glacial, High mountains, Mountain, Peak, Snowy
 | 0028 | [Sandslash](../../pokemon/gen-1/0028-sandslash.md) | Alolan form |
 | 0041 | [Zubat](../../pokemon/gen-1/0041-zubat.md) | underground |
 | 0042 | [Golbat](../../pokemon/gen-1/0042-golbat.md) | underground |
-| 0058 | [Growlithe](../../pokemon/gen-1/0058-growlithe.md) | near builds |
-| 0059 | [Arcanine](../../pokemon/gen-1/0059-arcanine.md) | near builds |
 | 0072 | [Tentacool](../../pokemon/gen-1/0072-tentacool.md) | underground, water |
 | 0073 | [Tentacruel](../../pokemon/gen-1/0073-tentacruel.md) | underground, water |
 | 0081 | [Magnemite](../../pokemon/gen-1/0081-magnemite.md) | any time |
@@ -181,7 +175,6 @@ Groups: Cold, Freezing, Frozen, Glacial, High mountains, Mountain, Peak, Snowy
 | 0133 | [Eevee](../../pokemon/gen-1/0133-eevee.md) | villages |
 | 0134 | [Vaporeon](../../pokemon/gen-1/0134-vaporeon.md) | near builds; villages |
 | 0135 | [Jolteon](../../pokemon/gen-1/0135-jolteon.md) | near builds; villages |
-| 0136 | [Flareon](../../pokemon/gen-1/0136-flareon.md) | near builds; villages |
 | 0137 | [Porygon](../../pokemon/gen-1/0137-porygon.md) | any time |
 | 0143 | [Snorlax](../../pokemon/gen-1/0143-snorlax.md) | any time |
 | 0169 | [Crobat](../../pokemon/gen-2/0169-crobat.md) | underground |
@@ -199,7 +192,6 @@ Groups: Cold, Freezing, Frozen, Glacial, High mountains, Mountain, Peak, Snowy
 | 0238 | [Smoochum](../../pokemon/gen-2/0238-smoochum.md) | near builds; villages |
 | 0299 | [Nosepass](../../pokemon/gen-3/0299-nosepass.md) | underground |
 | 0301 | [Delcatty](../../pokemon/gen-3/0301-delcatty.md) | villages |
-| 0324 | [Torkoal](../../pokemon/gen-3/0324-torkoal.md) | underground |
 | 0326 | [Grumpig](../../pokemon/gen-3/0326-grumpig.md) | any time |
 | 0333 | [Swablu](../../pokemon/gen-3/0333-swablu.md) | any time |
 | 0334 | [Altaria](../../pokemon/gen-3/0334-altaria.md) | any time |
@@ -252,7 +244,6 @@ Groups: Cold, Freezing, Frozen, Glacial, High mountains, Mountain, Peak, Snowy
 | 0768 | [Golisopod](../../pokemon/gen-7/0768-golisopod.md) | underground |
 | 0774 | [Minior](../../pokemon/gen-7/0774-minior.md) | any time |
 | 0780 | [Drampa](../../pokemon/gen-7/0780-drampa.md) | any time |
-| 0838 | [Carkol](../../pokemon/gen-8/0838-carkol.md) | any time; underground |
 | 0845 | [Cramorant](../../pokemon/gen-8/0845-cramorant.md) | any time |
 | 0848 | [Toxel](../../pokemon/gen-8/0848-toxel.md) | any time; underground |
 | 0849 | [Toxtricity](../../pokemon/gen-8/0849-toxtricity.md) | underground |
@@ -271,13 +262,12 @@ Groups: Cold, Freezing, Frozen, Glacial, High mountains, Mountain, Peak, Snowy
 | 0975 | [Cetitan](../../pokemon/gen-9/0975-cetitan.md) | rain |
 | 0982 | [Dudunsparce](../../pokemon/gen-9/0982-dudunsparce.md) | underground |
 
-## Rare (43)
+## Rare (41)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
 | 0027 | [Sandshrew](../../pokemon/gen-1/0027-sandshrew.md) | Alolan form |
 | 0028 | [Sandslash](../../pokemon/gen-1/0028-sandslash.md) | Alolan form |
-| 0059 | [Arcanine](../../pokemon/gen-1/0059-arcanine.md) | Hisuian form |
 | 0089 | [Muk](../../pokemon/gen-1/0089-muk.md) | near builds; water, near builds |
 | 0095 | [Onix](../../pokemon/gen-1/0095-onix.md) | underground |
 | 0113 | [Chansey](../../pokemon/gen-1/0113-chansey.md) | near builds; villages |
@@ -313,13 +303,12 @@ Groups: Cold, Freezing, Frozen, Glacial, High mountains, Mountain, Peak, Snowy
 | 0715 | [Noivern](../../pokemon/gen-6/0715-noivern.md) | underground |
 | 0764 | [Comfey](../../pokemon/gen-7/0764-comfey.md) | any time |
 | 0774 | [Minior](../../pokemon/gen-7/0774-minior.md) | any time |
-| 0839 | [Coalossal](../../pokemon/gen-8/0839-coalossal.md) | any time; underground |
 | 0866 | [Mr. Rime](../../pokemon/gen-8/0866-mr-rime.md) | any time |
 | 0884 | [Duraludon](../../pokemon/gen-8/0884-duraludon.md) | any time |
 | 0958 | [Tinkatuff](../../pokemon/gen-9/0958-tinkatuff.md) | any time |
 | 0982 | [Dudunsparce](../../pokemon/gen-9/0982-dudunsparce.md) | any time |
 
-## Ultra rare (72)
+## Ultra rare (67)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -343,9 +332,6 @@ Groups: Cold, Freezing, Frozen, Glacial, High mountains, Mountain, Peak, Snowy
 | 0381 | [Latios](../../pokemon/gen-3/0381-latios.md) | any time |
 | 0384 | [Rayquaza](../../pokemon/gen-3/0384-rayquaza.md) | any time |
 | 0386 | [Deoxys](../../pokemon/gen-3/0386-deoxys.md) | any time |
-| 0390 | [Chimchar](../../pokemon/gen-4/0390-chimchar.md) | any time |
-| 0391 | [Monferno](../../pokemon/gen-4/0391-monferno.md) | any time |
-| 0392 | [Infernape](../../pokemon/gen-4/0392-infernape.md) | any time |
 | 0394 | [Prinplup](../../pokemon/gen-4/0394-prinplup.md) | any time |
 | 0395 | [Empoleon](../../pokemon/gen-4/0395-empoleon.md) | any time |
 | 0408 | [Cranidos](../../pokemon/gen-4/0408-cranidos.md) | any time |
@@ -364,7 +350,6 @@ Groups: Cold, Freezing, Frozen, Glacial, High mountains, Mountain, Peak, Snowy
 | 0610 | [Axew](../../pokemon/gen-5/0610-axew.md) | any time |
 | 0611 | [Fraxure](../../pokemon/gen-5/0611-fraxure.md) | any time |
 | 0612 | [Haxorus](../../pokemon/gen-5/0612-haxorus.md) | any time |
-| 0643 | [Reshiram](../../pokemon/gen-5/0643-reshiram.md) | any time |
 | 0644 | [Zekrom](../../pokemon/gen-5/0644-zekrom.md) | any time |
 | 0646 | [Kyurem](../../pokemon/gen-5/0646-kyurem.md) | any time |
 | 0695 | [Heliolisk](../../pokemon/gen-6/0695-heliolisk.md) | day |
@@ -374,7 +359,6 @@ Groups: Cold, Freezing, Frozen, Glacial, High mountains, Mountain, Peak, Snowy
 | 0705 | [Sliggoo](../../pokemon/gen-6/0705-sliggoo.md) | Hisuian form, underground; any time |
 | 0706 | [Goodra](../../pokemon/gen-6/0706-goodra.md) | Hisuian form, underground; any time |
 | 0718 | [Zygarde](../../pokemon/gen-6/0718-zygarde.md) | underground |
-| 0721 | [Volcanion](../../pokemon/gen-6/0721-volcanion.md) | underground |
 | 0782 | [Jangmo-o](../../pokemon/gen-7/0782-jangmo-o.md) | any time |
 | 0790 | [Cosmoem](../../pokemon/gen-7/0790-cosmoem.md) | any time |
 | 0797 | [Celesteela](../../pokemon/gen-7/0797-celesteela.md) | any time |

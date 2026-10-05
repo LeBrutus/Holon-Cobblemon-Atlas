@@ -21,3 +21,11 @@ Biome groups: Snowy forest, Snowy taiga
 Biome groups: Sengoku dark forests
 
 [Autumnal Dark Forest](../../biomes/overworld/autumnal-dark-forest.md), [Sengoku Dark Forest](../../biomes/overworld/sengoku-dark-forest.md), [Snowy Dark Forest](../../biomes/overworld/snowy-dark-forest.md)
+
+## Nether
+
+### Uncommon — any time · Lv 20-34
+
+Biome groups: Crimson forests
+
+[Crimson Forest](../../biomes/nether/crimson-forest.md), [Crimson Glowing Woods](../../biomes/nether/crimson-glowing-woods.md), [Crimson Pinewood](../../biomes/nether/crimson-pinewood.md), [Dead Upside Down Forest](../../biomes/nether/dead-upside-down-forest.md), [Upside Down Forest](../../biomes/nether/upside-down-forest.md), [Wart Forest](../../biomes/nether/wart-forest.md), [Wart Forest Edge](../../biomes/nether/wart-forest-edge.md)

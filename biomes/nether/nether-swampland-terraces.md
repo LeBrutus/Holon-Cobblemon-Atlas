@@ -4,10 +4,11 @@
 
 Groups: Nether swamps
 
-## Common (7)
+## Common (8)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
+| 0023 | [Ekans](../../pokemon/gen-1/0023-ekans.md) | any time |
 | 0088 | [Grimer](../../pokemon/gen-1/0088-grimer.md) | any time |
 | 0109 | [Koffing](../../pokemon/gen-1/0109-koffing.md) | any time |
 | 0218 | [Slugma](../../pokemon/gen-2/0218-slugma.md) | lava |
@@ -16,10 +17,11 @@ Groups: Nether swamps
 | 0543 | [Venipede](../../pokemon/gen-5/0543-venipede.md) | any time |
 | 0757 | [Salandit](../../pokemon/gen-7/0757-salandit.md) | any time |
 
-## Uncommon (7)
+## Uncommon (8)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
+| 0024 | [Arbok](../../pokemon/gen-1/0024-arbok.md) | any time |
 | 0089 | [Muk](../../pokemon/gen-1/0089-muk.md) | any time |
 | 0110 | [Weezing](../../pokemon/gen-1/0110-weezing.md) | any time |
 | 0219 | [Magcargo](../../pokemon/gen-2/0219-magcargo.md) | lava |
@@ -28,10 +30,11 @@ Groups: Nether swamps
 | 0544 | [Whirlipede](../../pokemon/gen-5/0544-whirlipede.md) | any time |
 | 0969 | [Glimmet](../../pokemon/gen-9/0969-glimmet.md) | any time |
 
-## Rare (2)
+## Rare (3)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
+| 0545 | [Scolipede](../../pokemon/gen-5/0545-scolipede.md) | any time |
 | 0758 | [Salazzle](../../pokemon/gen-7/0758-salazzle.md) | any time |
 | 0970 | [Glimmora](../../pokemon/gen-9/0970-glimmora.md) | any time |
 

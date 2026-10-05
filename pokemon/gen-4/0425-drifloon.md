@@ -16,7 +16,7 @@ All Overworld biomes.
 
 ## Nether
 
-### Uncommon — any time · Lv 20-35
+### Common — any time · Lv 20-35
 
 Biome groups: Warped forests
 

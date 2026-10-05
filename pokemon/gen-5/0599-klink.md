@@ -11,11 +11,3 @@ All Overworld biomes.
 ### Common — any time · Lv 26-42
 
 All Overworld biomes.
-
-## Nether
-
-### Common — any time · Lv 26-42
-
-Biome groups: Redstone abyss
-
-[Redstone Abyss](../../biomes/nether/redstone-abyss.md)

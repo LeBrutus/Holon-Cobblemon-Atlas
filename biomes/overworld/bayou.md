@@ -4,7 +4,7 @@
 
 Groups: Fresh water, Haunted, Lake, Ominous, Spooky, Swamp
 
-## Common (181)
+## Common (180)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -139,7 +139,6 @@ Groups: Fresh water, Haunted, Lake, Ominous, Spooky, Swamp
 | 0604 | [Eelektross](../../pokemon/gen-5/0604-eelektross.md) | rain, underground |
 | 0605 | [Elgyem](../../pokemon/gen-5/0605-elgyem.md) | any time |
 | 0606 | [Beheeyem](../../pokemon/gen-5/0606-beheeyem.md) | any time |
-| 0607 | [Litwick](../../pokemon/gen-5/0607-litwick.md) | night |
 | 0616 | [Shelmet](../../pokemon/gen-5/0616-shelmet.md) | any time |
 | 0617 | [Accelgor](../../pokemon/gen-5/0617-accelgor.md) | any time |
 | 0618 | [Stunfisk](../../pokemon/gen-5/0618-stunfisk.md) | any time |
@@ -190,7 +189,7 @@ Groups: Fresh water, Haunted, Lake, Ominous, Spooky, Swamp
 | 0970 | [Glimmora](../../pokemon/gen-9/0970-glimmora.md) | underground |
 | 0973 | [Flamigo](../../pokemon/gen-9/0973-flamigo.md) | any time |
 
-## Uncommon (115)
+## Uncommon (109)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -198,8 +197,6 @@ Groups: Fresh water, Haunted, Lake, Ominous, Spooky, Swamp
 | 0020 | [Raticate](../../pokemon/gen-1/0020-raticate.md) | Alolan form, underground; underground |
 | 0041 | [Zubat](../../pokemon/gen-1/0041-zubat.md) | underground |
 | 0042 | [Golbat](../../pokemon/gen-1/0042-golbat.md) | underground |
-| 0058 | [Growlithe](../../pokemon/gen-1/0058-growlithe.md) | near builds |
-| 0059 | [Arcanine](../../pokemon/gen-1/0059-arcanine.md) | near builds |
 | 0072 | [Tentacool](../../pokemon/gen-1/0072-tentacool.md) | underground, water |
 | 0073 | [Tentacruel](../../pokemon/gen-1/0073-tentacruel.md) | underground, water |
 | 0081 | [Magnemite](../../pokemon/gen-1/0081-magnemite.md) | any time |
@@ -220,7 +217,6 @@ Groups: Fresh water, Haunted, Lake, Ominous, Spooky, Swamp
 | 0133 | [Eevee](../../pokemon/gen-1/0133-eevee.md) | villages |
 | 0134 | [Vaporeon](../../pokemon/gen-1/0134-vaporeon.md) | near builds; villages |
 | 0135 | [Jolteon](../../pokemon/gen-1/0135-jolteon.md) | near builds; villages |
-| 0136 | [Flareon](../../pokemon/gen-1/0136-flareon.md) | near builds; villages |
 | 0137 | [Porygon](../../pokemon/gen-1/0137-porygon.md) | any time |
 | 0143 | [Snorlax](../../pokemon/gen-1/0143-snorlax.md) | any time |
 | 0169 | [Crobat](../../pokemon/gen-2/0169-crobat.md) | underground |
@@ -242,7 +238,6 @@ Groups: Fresh water, Haunted, Lake, Ominous, Spooky, Swamp
 | 0314 | [Illumise](../../pokemon/gen-3/0314-illumise.md) | water |
 | 0316 | [Gulpin](../../pokemon/gen-3/0316-gulpin.md) | any time |
 | 0317 | [Swalot](../../pokemon/gen-3/0317-swalot.md) | any time |
-| 0324 | [Torkoal](../../pokemon/gen-3/0324-torkoal.md) | underground |
 | 0333 | [Swablu](../../pokemon/gen-3/0333-swablu.md) | any time |
 | 0334 | [Altaria](../../pokemon/gen-3/0334-altaria.md) | any time |
 | 0339 | [Barboach](../../pokemon/gen-3/0339-barboach.md) | rain, underground, water |
@@ -280,7 +275,6 @@ Groups: Fresh water, Haunted, Lake, Ominous, Spooky, Swamp
 | 0579 | [Reuniclus](../../pokemon/gen-5/0579-reuniclus.md) | any time |
 | 0580 | [Ducklett](../../pokemon/gen-5/0580-ducklett.md) | water |
 | 0581 | [Swanna](../../pokemon/gen-5/0581-swanna.md) | water |
-| 0608 | [Lampent](../../pokemon/gen-5/0608-lampent.md) | night |
 | 0618 | [Stunfisk](../../pokemon/gen-5/0618-stunfisk.md) | Galarian form, water; any time |
 | 0679 | [Honedge](../../pokemon/gen-6/0679-honedge.md) | night |
 | 0700 | [Sylveon](../../pokemon/gen-6/0700-sylveon.md) | near builds; villages |
@@ -290,7 +284,6 @@ Groups: Fresh water, Haunted, Lake, Ominous, Spooky, Swamp
 | 0767 | [Wimpod](../../pokemon/gen-7/0767-wimpod.md) | underground |
 | 0768 | [Golisopod](../../pokemon/gen-7/0768-golisopod.md) | underground |
 | 0774 | [Minior](../../pokemon/gen-7/0774-minior.md) | any time |
-| 0838 | [Carkol](../../pokemon/gen-8/0838-carkol.md) | underground |
 | 0845 | [Cramorant](../../pokemon/gen-8/0845-cramorant.md) | any time |
 | 0848 | [Toxel](../../pokemon/gen-8/0848-toxel.md) | any time; underground |
 | 0849 | [Toxtricity](../../pokemon/gen-8/0849-toxtricity.md) | underground |
@@ -310,7 +303,7 @@ Groups: Fresh water, Haunted, Lake, Ominous, Spooky, Swamp
 | 1012 | [Poltchageist](../../pokemon/gen-9/1012-poltchageist.md) | underground, villages; villages |
 | 1013 | [Sinistcha](../../pokemon/gen-9/1013-sinistcha.md) | underground, villages; villages |
 
-## Rare (36)
+## Rare (34)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -334,7 +327,6 @@ Groups: Fresh water, Haunted, Lake, Ominous, Spooky, Swamp
 | 0518 | [Musharna](../../pokemon/gen-5/0518-musharna.md) | any time |
 | 0575 | [Gothorita](../../pokemon/gen-5/0575-gothorita.md) | any time |
 | 0576 | [Gothitelle](../../pokemon/gen-5/0576-gothitelle.md) | any time |
-| 0609 | [Chandelure](../../pokemon/gen-5/0609-chandelure.md) | night |
 | 0621 | [Druddigon](../../pokemon/gen-5/0621-druddigon.md) | underground |
 | 0680 | [Doublade](../../pokemon/gen-6/0680-doublade.md) | night |
 | 0714 | [Noibat](../../pokemon/gen-6/0714-noibat.md) | underground |
@@ -342,7 +334,6 @@ Groups: Fresh water, Haunted, Lake, Ominous, Spooky, Swamp
 | 0764 | [Comfey](../../pokemon/gen-7/0764-comfey.md) | any time |
 | 0774 | [Minior](../../pokemon/gen-7/0774-minior.md) | any time |
 | 0778 | [Mimikyu](../../pokemon/gen-7/0778-mimikyu.md) | any time |
-| 0839 | [Coalossal](../../pokemon/gen-8/0839-coalossal.md) | underground |
 | 0884 | [Duraludon](../../pokemon/gen-8/0884-duraludon.md) | any time |
 | 0901 | [Ursaluna](../../pokemon/gen-8/0901-ursaluna.md) | any time |
 | 0971 | [Greavard](../../pokemon/gen-9/0971-greavard.md) | any time |
@@ -351,7 +342,7 @@ Groups: Fresh water, Haunted, Lake, Ominous, Spooky, Swamp
 | 0978 | [Tatsugiri](../../pokemon/gen-9/0978-tatsugiri.md) | any time; underground; underground, water |
 | 1012 | [Poltchageist](../../pokemon/gen-9/1012-poltchageist.md) | any time |
 
-## Ultra rare (44)
+## Ultra rare (41)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -384,17 +375,14 @@ Groups: Fresh water, Haunted, Lake, Ominous, Spooky, Swamp
 | 0706 | [Goodra](../../pokemon/gen-6/0706-goodra.md) | Hisuian form, underground; any time; rain |
 | 0717 | [Yveltal](../../pokemon/gen-6/0717-yveltal.md) | any time |
 | 0718 | [Zygarde](../../pokemon/gen-6/0718-zygarde.md) | underground |
-| 0721 | [Volcanion](../../pokemon/gen-6/0721-volcanion.md) | underground |
 | 0792 | [Lunala](../../pokemon/gen-7/0792-lunala.md) | underground |
 | 0793 | [Nihilego](../../pokemon/gen-7/0793-nihilego.md) | any time |
 | 0794 | [Buzzwole](../../pokemon/gen-7/0794-buzzwole.md) | any time |
 | 0803 | [Poipole](../../pokemon/gen-7/0803-poipole.md) | any time |
 | 0804 | [Naganadel](../../pokemon/gen-7/0804-naganadel.md) | any time |
-| 0806 | [Blacephalon](../../pokemon/gen-7/0806-blacephalon.md) | any time |
 | 0892 | [Urshifu](../../pokemon/gen-8/0892-urshifu.md) | any time |
 | 0897 | [Spectrier](../../pokemon/gen-8/0897-spectrier.md) | any time |
 | 0905 | [Enamorus](../../pokemon/gen-8/0905-enamorus.md) | any time |
-| 0937 | [Ceruledge](../../pokemon/gen-9/0937-ceruledge.md) | night |
 | 0986 | [Brute Bonnet](../../pokemon/gen-9/0986-brute-bonnet.md) | any time |
 | 0987 | [Flutter Mane](../../pokemon/gen-9/0987-flutter-mane.md) | any time |
 | 1019 | [Hydrapple](../../pokemon/gen-9/1019-hydrapple.md) | any time |

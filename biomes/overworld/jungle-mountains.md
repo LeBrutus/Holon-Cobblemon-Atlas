@@ -4,7 +4,7 @@
 
 Groups: Jungle, Lush, Lush land, Mountain
 
-## Common (208)
+## Common (203)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -27,7 +27,6 @@ Groups: Jungle, Lush, Lush land, Mountain
 | 0053 | [Persian](../../pokemon/gen-1/0053-persian.md) | near builds; villages |
 | 0056 | [Mankey](../../pokemon/gen-1/0056-mankey.md) | any time |
 | 0057 | [Primeape](../../pokemon/gen-1/0057-primeape.md) | any time |
-| 0058 | [Growlithe](../../pokemon/gen-1/0058-growlithe.md) | Hisuian form |
 | 0060 | [Poliwag](../../pokemon/gen-1/0060-poliwag.md) | rain; rain, water; underground |
 | 0061 | [Poliwhirl](../../pokemon/gen-1/0061-poliwhirl.md) | rain; rain, water; underground |
 | 0062 | [Poliwrath](../../pokemon/gen-1/0062-poliwrath.md) | rain; rain, water; underground |
@@ -99,7 +98,6 @@ Groups: Jungle, Lush, Lush land, Mountain
 | 0305 | [Lairon](../../pokemon/gen-3/0305-lairon.md) | any time; underground |
 | 0306 | [Aggron](../../pokemon/gen-3/0306-aggron.md) | any time; underground |
 | 0318 | [Carvanha](../../pokemon/gen-3/0318-carvanha.md) | any time; underground |
-| 0324 | [Torkoal](../../pokemon/gen-3/0324-torkoal.md) | any time |
 | 0325 | [Spoink](../../pokemon/gen-3/0325-spoink.md) | any time |
 | 0339 | [Barboach](../../pokemon/gen-3/0339-barboach.md) | rain; rain, underground |
 | 0340 | [Whiscash](../../pokemon/gen-3/0340-whiscash.md) | rain; rain, underground |
@@ -160,7 +158,6 @@ Groups: Jungle, Lush, Lush land, Mountain
 | 0606 | [Beheeyem](../../pokemon/gen-5/0606-beheeyem.md) | any time |
 | 0618 | [Stunfisk](../../pokemon/gen-5/0618-stunfisk.md) | any time |
 | 0666 | [Vivillon](../../pokemon/gen-6/0666-vivillon.md) | any time; near builds; villages |
-| 0667 | [Litleo](../../pokemon/gen-6/0667-litleo.md) | any time |
 | 0672 | [Skiddo](../../pokemon/gen-6/0672-skiddo.md) | any time |
 | 0673 | [Gogoat](../../pokemon/gen-6/0673-gogoat.md) | any time |
 | 0676 | [Furfrou](../../pokemon/gen-6/0676-furfrou.md) | near builds; villages |
@@ -182,8 +179,6 @@ Groups: Jungle, Lush, Lush land, Mountain
 | 0754 | [Lurantis](../../pokemon/gen-7/0754-lurantis.md) | day |
 | 0755 | [Morelull](../../pokemon/gen-7/0755-morelull.md) | night; night, underground |
 | 0756 | [Shiinotic](../../pokemon/gen-7/0756-shiinotic.md) | night; night, underground |
-| 0757 | [Salandit](../../pokemon/gen-7/0757-salandit.md) | underground |
-| 0758 | [Salazzle](../../pokemon/gen-7/0758-salazzle.md) | underground |
 | 0761 | [Bounsweet](../../pokemon/gen-7/0761-bounsweet.md) | any time |
 | 0762 | [Steenee](../../pokemon/gen-7/0762-steenee.md) | any time |
 | 0763 | [Tsareena](../../pokemon/gen-7/0763-tsareena.md) | any time |
@@ -217,7 +212,7 @@ Groups: Jungle, Lush, Lush land, Mountain
 | 0970 | [Glimmora](../../pokemon/gen-9/0970-glimmora.md) | underground |
 | 0973 | [Flamigo](../../pokemon/gen-9/0973-flamigo.md) | any time |
 
-## Uncommon (125)
+## Uncommon (118)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -227,8 +222,6 @@ Groups: Jungle, Lush, Lush land, Mountain
 | 0042 | [Golbat](../../pokemon/gen-1/0042-golbat.md) | underground |
 | 0046 | [Paras](../../pokemon/gen-1/0046-paras.md) | underground |
 | 0047 | [Parasect](../../pokemon/gen-1/0047-parasect.md) | underground |
-| 0058 | [Growlithe](../../pokemon/gen-1/0058-growlithe.md) | near builds |
-| 0059 | [Arcanine](../../pokemon/gen-1/0059-arcanine.md) | near builds |
 | 0072 | [Tentacool](../../pokemon/gen-1/0072-tentacool.md) | underground, water |
 | 0073 | [Tentacruel](../../pokemon/gen-1/0073-tentacruel.md) | underground, water |
 | 0081 | [Magnemite](../../pokemon/gen-1/0081-magnemite.md) | any time |
@@ -247,7 +240,6 @@ Groups: Jungle, Lush, Lush land, Mountain
 | 0133 | [Eevee](../../pokemon/gen-1/0133-eevee.md) | villages |
 | 0134 | [Vaporeon](../../pokemon/gen-1/0134-vaporeon.md) | near builds; villages |
 | 0135 | [Jolteon](../../pokemon/gen-1/0135-jolteon.md) | near builds; villages |
-| 0136 | [Flareon](../../pokemon/gen-1/0136-flareon.md) | near builds; villages |
 | 0137 | [Porygon](../../pokemon/gen-1/0137-porygon.md) | any time |
 | 0143 | [Snorlax](../../pokemon/gen-1/0143-snorlax.md) | any time |
 | 0169 | [Crobat](../../pokemon/gen-2/0169-crobat.md) | underground |
@@ -267,7 +259,6 @@ Groups: Jungle, Lush, Lush land, Mountain
 | 0292 | [Shedinja](../../pokemon/gen-3/0292-shedinja.md) | any time |
 | 0299 | [Nosepass](../../pokemon/gen-3/0299-nosepass.md) | underground |
 | 0301 | [Delcatty](../../pokemon/gen-3/0301-delcatty.md) | villages |
-| 0324 | [Torkoal](../../pokemon/gen-3/0324-torkoal.md) | underground |
 | 0326 | [Grumpig](../../pokemon/gen-3/0326-grumpig.md) | any time |
 | 0333 | [Swablu](../../pokemon/gen-3/0333-swablu.md) | any time |
 | 0334 | [Altaria](../../pokemon/gen-3/0334-altaria.md) | any time |
@@ -299,8 +290,6 @@ Groups: Jungle, Lush, Lush land, Mountain
 | 0476 | [Probopass](../../pokemon/gen-4/0476-probopass.md) | underground |
 | 0511 | [Pansage](../../pokemon/gen-5/0511-pansage.md) | any time |
 | 0512 | [Simisage](../../pokemon/gen-5/0512-simisage.md) | any time |
-| 0513 | [Pansear](../../pokemon/gen-5/0513-pansear.md) | any time |
-| 0514 | [Simisear](../../pokemon/gen-5/0514-simisear.md) | any time |
 | 0515 | [Panpour](../../pokemon/gen-5/0515-panpour.md) | any time |
 | 0516 | [Simipour](../../pokemon/gen-5/0516-simipour.md) | any time |
 | 0517 | [Munna](../../pokemon/gen-5/0517-munna.md) | any time |
@@ -328,7 +317,6 @@ Groups: Jungle, Lush, Lush land, Mountain
 | 0767 | [Wimpod](../../pokemon/gen-7/0767-wimpod.md) | underground |
 | 0768 | [Golisopod](../../pokemon/gen-7/0768-golisopod.md) | underground |
 | 0774 | [Minior](../../pokemon/gen-7/0774-minior.md) | any time |
-| 0838 | [Carkol](../../pokemon/gen-8/0838-carkol.md) | any time; underground |
 | 0845 | [Cramorant](../../pokemon/gen-8/0845-cramorant.md) | any time |
 | 0848 | [Toxel](../../pokemon/gen-8/0848-toxel.md) | any time; underground |
 | 0849 | [Toxtricity](../../pokemon/gen-8/0849-toxtricity.md) | underground |
@@ -347,11 +335,10 @@ Groups: Jungle, Lush, Lush land, Mountain
 | 1012 | [Poltchageist](../../pokemon/gen-9/1012-poltchageist.md) | underground, villages; villages |
 | 1013 | [Sinistcha](../../pokemon/gen-9/1013-sinistcha.md) | underground, villages; villages |
 
-## Rare (40)
+## Rare (38)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
-| 0059 | [Arcanine](../../pokemon/gen-1/0059-arcanine.md) | Hisuian form |
 | 0089 | [Muk](../../pokemon/gen-1/0089-muk.md) | near builds; water, near builds |
 | 0095 | [Onix](../../pokemon/gen-1/0095-onix.md) | underground |
 | 0113 | [Chansey](../../pokemon/gen-1/0113-chansey.md) | near builds; villages |
@@ -384,7 +371,6 @@ Groups: Jungle, Lush, Lush land, Mountain
 | 0715 | [Noivern](../../pokemon/gen-6/0715-noivern.md) | underground |
 | 0764 | [Comfey](../../pokemon/gen-7/0764-comfey.md) | any time |
 | 0774 | [Minior](../../pokemon/gen-7/0774-minior.md) | any time |
-| 0839 | [Coalossal](../../pokemon/gen-8/0839-coalossal.md) | any time; underground |
 | 0842 | [Appletun](../../pokemon/gen-8/0842-appletun.md) | any time |
 | 0884 | [Duraludon](../../pokemon/gen-8/0884-duraludon.md) | any time |
 | 0958 | [Tinkatuff](../../pokemon/gen-9/0958-tinkatuff.md) | any time |
@@ -392,7 +378,7 @@ Groups: Jungle, Lush, Lush land, Mountain
 | 0978 | [Tatsugiri](../../pokemon/gen-9/0978-tatsugiri.md) | underground |
 | 0982 | [Dudunsparce](../../pokemon/gen-9/0982-dudunsparce.md) | any time |
 
-## Ultra rare (81)
+## Ultra rare (74)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -423,9 +409,6 @@ Groups: Jungle, Lush, Lush land, Mountain
 | 0260 | [Swampert](../../pokemon/gen-3/0260-swampert.md) | any time |
 | 0380 | [Latias](../../pokemon/gen-3/0380-latias.md) | any time |
 | 0381 | [Latios](../../pokemon/gen-3/0381-latios.md) | any time |
-| 0390 | [Chimchar](../../pokemon/gen-4/0390-chimchar.md) | any time |
-| 0391 | [Monferno](../../pokemon/gen-4/0391-monferno.md) | any time |
-| 0392 | [Infernape](../../pokemon/gen-4/0392-infernape.md) | any time |
 | 0408 | [Cranidos](../../pokemon/gen-4/0408-cranidos.md) | any time |
 | 0409 | [Rampardos](../../pokemon/gen-4/0409-rampardos.md) | any time |
 | 0410 | [Shieldon](../../pokemon/gen-4/0410-shieldon.md) | any time |
@@ -452,10 +435,6 @@ Groups: Jungle, Lush, Lush land, Mountain
 | 0705 | [Sliggoo](../../pokemon/gen-6/0705-sliggoo.md) | Hisuian form, rain, underground; Hisuian form, underground; any time |
 | 0706 | [Goodra](../../pokemon/gen-6/0706-goodra.md) | Hisuian form, rain, underground; Hisuian form, underground; any time |
 | 0718 | [Zygarde](../../pokemon/gen-6/0718-zygarde.md) | underground |
-| 0721 | [Volcanion](../../pokemon/gen-6/0721-volcanion.md) | underground |
-| 0725 | [Litten](../../pokemon/gen-7/0725-litten.md) | any time |
-| 0726 | [Torracat](../../pokemon/gen-7/0726-torracat.md) | any time |
-| 0727 | [Incineroar](../../pokemon/gen-7/0727-incineroar.md) | any time |
 | 0782 | [Jangmo-o](../../pokemon/gen-7/0782-jangmo-o.md) | any time |
 | 0783 | [Hakamo-o](../../pokemon/gen-7/0783-hakamo-o.md) | any time |
 | 0784 | [Kommo-o](../../pokemon/gen-7/0784-kommo-o.md) | any time |

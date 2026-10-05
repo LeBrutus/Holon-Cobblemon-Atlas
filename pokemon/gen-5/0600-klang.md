@@ -11,11 +11,3 @@ All Overworld biomes.
 ### Common — any time · Lv 38-53
 
 All Overworld biomes.
-
-## Nether
-
-### Uncommon — any time · Lv 38-53
-
-Biome groups: Redstone abyss
-
-[Redstone Abyss](../../biomes/nether/redstone-abyss.md)

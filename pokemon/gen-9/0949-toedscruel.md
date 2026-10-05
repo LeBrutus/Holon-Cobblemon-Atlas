@@ -23,9 +23,3 @@ Biome groups: Swamp
 Biome groups: Warped forests
 
 [Gloomwood](../../biomes/nether/gloomwood.md), [Nether Jungle](../../biomes/nether/nether-jungle.md), [Old Warped Woods](../../biomes/nether/old-warped-woods.md), [Warped Forest](../../biomes/nether/warped-forest.md)
-
-### Uncommon — any time · Lv 30-48
-
-Biome groups: Nether mushroom forests
-
-[Mycotoxic Undergrowth](../../biomes/nether/mycotoxic-undergrowth.md), [Nether Mushroom Forest](../../biomes/nether/nether-mushroom-forest.md), [Nether Mushroom Forest Edge](../../biomes/nether/nether-mushroom-forest-edge.md), [Old Fungiwoods](../../biomes/nether/old-fungiwoods.md)

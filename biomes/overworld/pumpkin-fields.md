@@ -4,7 +4,7 @@
 
 Groups: Haunted, Ominous, Plains, Spooky, Temperate
 
-## Common (192)
+## Common (191)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -149,7 +149,6 @@ Groups: Haunted, Ominous, Plains, Spooky, Temperate
 | 0604 | [Eelektross](../../pokemon/gen-5/0604-eelektross.md) | rain, underground |
 | 0605 | [Elgyem](../../pokemon/gen-5/0605-elgyem.md) | any time |
 | 0606 | [Beheeyem](../../pokemon/gen-5/0606-beheeyem.md) | any time |
-| 0607 | [Litwick](../../pokemon/gen-5/0607-litwick.md) | night |
 | 0626 | [Bouffalant](../../pokemon/gen-5/0626-bouffalant.md) | any time |
 | 0659 | [Bunnelby](../../pokemon/gen-6/0659-bunnelby.md) | any time |
 | 0664 | [Scatterbug](../../pokemon/gen-6/0664-scatterbug.md) | any time |
@@ -201,7 +200,7 @@ Groups: Haunted, Ominous, Plains, Spooky, Temperate
 | 0969 | [Glimmet](../../pokemon/gen-9/0969-glimmet.md) | underground |
 | 0970 | [Glimmora](../../pokemon/gen-9/0970-glimmora.md) | underground |
 
-## Uncommon (100)
+## Uncommon (93)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -209,8 +208,6 @@ Groups: Haunted, Ominous, Plains, Spooky, Temperate
 | 0020 | [Raticate](../../pokemon/gen-1/0020-raticate.md) | Alolan form, underground; underground |
 | 0041 | [Zubat](../../pokemon/gen-1/0041-zubat.md) | underground |
 | 0042 | [Golbat](../../pokemon/gen-1/0042-golbat.md) | underground |
-| 0058 | [Growlithe](../../pokemon/gen-1/0058-growlithe.md) | near builds |
-| 0059 | [Arcanine](../../pokemon/gen-1/0059-arcanine.md) | near builds |
 | 0072 | [Tentacool](../../pokemon/gen-1/0072-tentacool.md) | underground, water |
 | 0073 | [Tentacruel](../../pokemon/gen-1/0073-tentacruel.md) | underground, water |
 | 0081 | [Magnemite](../../pokemon/gen-1/0081-magnemite.md) | any time |
@@ -230,7 +227,6 @@ Groups: Haunted, Ominous, Plains, Spooky, Temperate
 | 0133 | [Eevee](../../pokemon/gen-1/0133-eevee.md) | villages |
 | 0134 | [Vaporeon](../../pokemon/gen-1/0134-vaporeon.md) | near builds; villages |
 | 0135 | [Jolteon](../../pokemon/gen-1/0135-jolteon.md) | near builds; villages |
-| 0136 | [Flareon](../../pokemon/gen-1/0136-flareon.md) | near builds; villages |
 | 0137 | [Porygon](../../pokemon/gen-1/0137-porygon.md) | any time |
 | 0143 | [Snorlax](../../pokemon/gen-1/0143-snorlax.md) | any time |
 | 0169 | [Crobat](../../pokemon/gen-2/0169-crobat.md) | underground |
@@ -250,7 +246,6 @@ Groups: Haunted, Ominous, Plains, Spooky, Temperate
 | 0301 | [Delcatty](../../pokemon/gen-3/0301-delcatty.md) | villages |
 | 0311 | [Plusle](../../pokemon/gen-3/0311-plusle.md) | any time |
 | 0312 | [Minun](../../pokemon/gen-3/0312-minun.md) | any time |
-| 0324 | [Torkoal](../../pokemon/gen-3/0324-torkoal.md) | underground |
 | 0333 | [Swablu](../../pokemon/gen-3/0333-swablu.md) | any time |
 | 0334 | [Altaria](../../pokemon/gen-3/0334-altaria.md) | any time |
 | 0335 | [Zangoose](../../pokemon/gen-3/0335-zangoose.md) | any time |
@@ -277,18 +272,15 @@ Groups: Haunted, Ominous, Plains, Spooky, Temperate
 | 0577 | [Solosis](../../pokemon/gen-5/0577-solosis.md) | any time |
 | 0578 | [Duosion](../../pokemon/gen-5/0578-duosion.md) | any time |
 | 0579 | [Reuniclus](../../pokemon/gen-5/0579-reuniclus.md) | any time |
-| 0608 | [Lampent](../../pokemon/gen-5/0608-lampent.md) | night |
 | 0679 | [Honedge](../../pokemon/gen-6/0679-honedge.md) | night |
 | 0700 | [Sylveon](../../pokemon/gen-6/0700-sylveon.md) | near builds; villages |
 | 0707 | [Klefki](../../pokemon/gen-6/0707-klefki.md) | near builds; villages |
-| 0741 | [Oricorio](../../pokemon/gen-7/0741-oricorio.md) | any time |
 | 0767 | [Wimpod](../../pokemon/gen-7/0767-wimpod.md) | underground |
 | 0768 | [Golisopod](../../pokemon/gen-7/0768-golisopod.md) | underground |
 | 0774 | [Minior](../../pokemon/gen-7/0774-minior.md) | any time |
 | 0825 | [Dottler](../../pokemon/gen-8/0825-dottler.md) | any time |
 | 0827 | [Nickit](../../pokemon/gen-8/0827-nickit.md) | night |
 | 0828 | [Thievul](../../pokemon/gen-8/0828-thievul.md) | night |
-| 0838 | [Carkol](../../pokemon/gen-8/0838-carkol.md) | underground |
 | 0845 | [Cramorant](../../pokemon/gen-8/0845-cramorant.md) | any time |
 | 0848 | [Toxel](../../pokemon/gen-8/0848-toxel.md) | any time; underground |
 | 0849 | [Toxtricity](../../pokemon/gen-8/0849-toxtricity.md) | underground |
@@ -306,7 +298,7 @@ Groups: Haunted, Ominous, Plains, Spooky, Temperate
 | 0968 | [Orthworm](../../pokemon/gen-9/0968-orthworm.md) | underground |
 | 0982 | [Dudunsparce](../../pokemon/gen-9/0982-dudunsparce.md) | underground |
 
-## Rare (42)
+## Rare (40)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -334,7 +326,6 @@ Groups: Haunted, Ominous, Plains, Spooky, Temperate
 | 0531 | [Audino](../../pokemon/gen-5/0531-audino.md) | any time |
 | 0575 | [Gothorita](../../pokemon/gen-5/0575-gothorita.md) | any time |
 | 0576 | [Gothitelle](../../pokemon/gen-5/0576-gothitelle.md) | any time |
-| 0609 | [Chandelure](../../pokemon/gen-5/0609-chandelure.md) | night |
 | 0621 | [Druddigon](../../pokemon/gen-5/0621-druddigon.md) | underground |
 | 0680 | [Doublade](../../pokemon/gen-6/0680-doublade.md) | night |
 | 0714 | [Noibat](../../pokemon/gen-6/0714-noibat.md) | underground |
@@ -343,7 +334,6 @@ Groups: Haunted, Ominous, Plains, Spooky, Temperate
 | 0774 | [Minior](../../pokemon/gen-7/0774-minior.md) | any time |
 | 0778 | [Mimikyu](../../pokemon/gen-7/0778-mimikyu.md) | any time |
 | 0826 | [Orbeetle](../../pokemon/gen-8/0826-orbeetle.md) | any time |
-| 0839 | [Coalossal](../../pokemon/gen-8/0839-coalossal.md) | underground |
 | 0874 | [Stonjourner](../../pokemon/gen-8/0874-stonjourner.md) | any time |
 | 0884 | [Duraludon](../../pokemon/gen-8/0884-duraludon.md) | any time |
 | 0901 | [Ursaluna](../../pokemon/gen-8/0901-ursaluna.md) | any time |
@@ -353,7 +343,7 @@ Groups: Haunted, Ominous, Plains, Spooky, Temperate
 | 0972 | [Houndstone](../../pokemon/gen-9/0972-houndstone.md) | any time |
 | 1012 | [Poltchageist](../../pokemon/gen-9/1012-poltchageist.md) | any time |
 
-## Ultra rare (42)
+## Ultra rare (29)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -366,20 +356,10 @@ Groups: Haunted, Ominous, Plains, Spooky, Temperate
 | 0147 | [Dratini](../../pokemon/gen-1/0147-dratini.md) | underground; underground, water |
 | 0148 | [Dragonair](../../pokemon/gen-1/0148-dragonair.md) | underground; underground, water |
 | 0149 | [Dragonite](../../pokemon/gen-1/0149-dragonite.md) | underground |
-| 0155 | [Cyndaquil](../../pokemon/gen-2/0155-cyndaquil.md) | any time |
-| 0156 | [Quilava](../../pokemon/gen-2/0156-quilava.md) | any time |
-| 0157 | [Typhlosion](../../pokemon/gen-2/0157-typhlosion.md) | any time |
 | 0197 | [Umbreon](../../pokemon/gen-2/0197-umbreon.md) | night |
 | 0243 | [Raikou](../../pokemon/gen-2/0243-raikou.md) | any time |
-| 0250 | [Ho-Oh](../../pokemon/gen-2/0250-ho-oh.md) | any time |
-| 0255 | [Torchic](../../pokemon/gen-3/0255-torchic.md) | any time |
-| 0256 | [Combusken](../../pokemon/gen-3/0256-combusken.md) | any time |
-| 0257 | [Blaziken](../../pokemon/gen-3/0257-blaziken.md) | any time |
 | 0380 | [Latias](../../pokemon/gen-3/0380-latias.md) | any time |
 | 0381 | [Latios](../../pokemon/gen-3/0381-latios.md) | any time |
-| 0498 | [Tepig](../../pokemon/gen-5/0498-tepig.md) | any time |
-| 0499 | [Pignite](../../pokemon/gen-5/0499-pignite.md) | any time |
-| 0500 | [Emboar](../../pokemon/gen-5/0500-emboar.md) | any time |
 | 0641 | [Tornadus](../../pokemon/gen-5/0641-tornadus.md) | any time |
 | 0642 | [Thundurus](../../pokemon/gen-5/0642-thundurus.md) | any time |
 | 0648 | [Meloetta](../../pokemon/gen-5/0648-meloetta.md) | any time |
@@ -389,13 +369,10 @@ Groups: Haunted, Ominous, Plains, Spooky, Temperate
 | 0706 | [Goodra](../../pokemon/gen-6/0706-goodra.md) | Hisuian form, underground; any time |
 | 0717 | [Yveltal](../../pokemon/gen-6/0717-yveltal.md) | any time |
 | 0718 | [Zygarde](../../pokemon/gen-6/0718-zygarde.md) | underground |
-| 0721 | [Volcanion](../../pokemon/gen-6/0721-volcanion.md) | underground |
 | 0792 | [Lunala](../../pokemon/gen-7/0792-lunala.md) | underground |
-| 0806 | [Blacephalon](../../pokemon/gen-7/0806-blacephalon.md) | any time |
 | 0892 | [Urshifu](../../pokemon/gen-8/0892-urshifu.md) | any time |
 | 0894 | [Regieleki](../../pokemon/gen-8/0894-regieleki.md) | any time |
 | 0897 | [Spectrier](../../pokemon/gen-8/0897-spectrier.md) | any time |
-| 0937 | [Ceruledge](../../pokemon/gen-9/0937-ceruledge.md) | night |
 | 0985 | [Scream Tail](../../pokemon/gen-9/0985-scream-tail.md) | any time |
 | 0987 | [Flutter Mane](../../pokemon/gen-9/0987-flutter-mane.md) | any time |
 | 1006 | [Iron Valiant](../../pokemon/gen-9/1006-iron-valiant.md) | any time |

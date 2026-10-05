@@ -8,29 +8,29 @@ Groups: Redstone abyss
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
-| 0081 | [Magnemite](../../pokemon/gen-1/0081-magnemite.md) | any time |
-| 0100 | [Voltorb](../../pokemon/gen-1/0100-voltorb.md) | any time |
-| 0218 | [Slugma](../../pokemon/gen-2/0218-slugma.md) | lava |
-| 0599 | [Klink](../../pokemon/gen-5/0599-klink.md) | any time |
-| 0602 | [Tynamo](../../pokemon/gen-5/0602-tynamo.md) | any time |
+| 0218 | [Slugma](../../pokemon/gen-2/0218-slugma.md) | any time; lava |
+| 0228 | [Houndour](../../pokemon/gen-2/0228-houndour.md) | any time |
+| 0240 | [Magby](../../pokemon/gen-2/0240-magby.md) | any time |
+| 0827 | [Nickit](../../pokemon/gen-8/0827-nickit.md) | any time |
+| 0850 | [Sizzlipede](../../pokemon/gen-8/0850-sizzlipede.md) | any time |
 
 ## Uncommon (5)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
-| 0082 | [Magneton](../../pokemon/gen-1/0082-magneton.md) | any time |
-| 0101 | [Electrode](../../pokemon/gen-1/0101-electrode.md) | any time |
-| 0219 | [Magcargo](../../pokemon/gen-2/0219-magcargo.md) | lava |
-| 0600 | [Klang](../../pokemon/gen-5/0600-klang.md) | any time |
-| 0603 | [Eelektrik](../../pokemon/gen-5/0603-eelektrik.md) | any time |
+| 0126 | [Magmar](../../pokemon/gen-1/0126-magmar.md) | any time |
+| 0219 | [Magcargo](../../pokemon/gen-2/0219-magcargo.md) | any time; lava |
+| 0302 | [Sableye](../../pokemon/gen-3/0302-sableye.md) | any time |
+| 0828 | [Thievul](../../pokemon/gen-8/0828-thievul.md) | any time |
+| 0851 | [Centiskorch](../../pokemon/gen-8/0851-centiskorch.md) | any time |
 
 ## Rare (3)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
-| 0462 | [Magnezone](../../pokemon/gen-4/0462-magnezone.md) | any time |
+| 0229 | [Houndoom](../../pokemon/gen-2/0229-houndoom.md) | any time |
+| 0467 | [Magmortar](../../pokemon/gen-4/0467-magmortar.md) | any time |
 | 0479 | [Rotom](../../pokemon/gen-4/0479-rotom.md) | any time |
-| 0601 | [Klinklang](../../pokemon/gen-5/0601-klinklang.md) | any time |
 
 ## Ultra rare (2)
 

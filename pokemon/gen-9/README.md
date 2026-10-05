@@ -11,8 +11,8 @@
 | 0912 | [Quaxly](0912-quaxly.md) | Water | Overworld |
 | 0913 | [Quaxwell](0913-quaxwell.md) | Water | Overworld |
 | 0914 | [Quaquaval](0914-quaquaval.md) | Water / Fighting | Overworld |
-| 0915 | [Lechonk](0915-lechonk.md) | Normal | Overworld, Nether |
-| 0916 | [Oinkologne](0916-oinkologne.md) | Normal | Overworld, Nether |
+| 0915 | [Lechonk](0915-lechonk.md) | Normal | Overworld |
+| 0916 | [Oinkologne](0916-oinkologne.md) | Normal | Overworld |
 | 0917 | [Tarountula](0917-tarountula.md) | Bug | Overworld |
 | 0918 | [Spidops](0918-spidops.md) | Bug | Overworld |
 | 0919 | [Nymble](0919-nymble.md) | Bug | Overworld |
@@ -32,7 +32,7 @@
 | 0933 | [Naclstack](0933-naclstack.md) | Rock | Overworld |
 | 0934 | [Garganacl](0934-garganacl.md) | Rock | Overworld |
 | 0935 | [Charcadet](0935-charcadet.md) | Fire | Nether, Overworld |
-| 0936 | [Armarouge](0936-armarouge.md) | Fire / Psychic | Nether, Overworld |
+| 0936 | [Armarouge](0936-armarouge.md) | Fire / Psychic | Overworld |
 | 0937 | [Ceruledge](0937-ceruledge.md) | Fire / Ghost | Nether, Overworld |
 | 0938 | [Tadbulb](0938-tadbulb.md) | Electric | Overworld |
 | 0939 | [Bellibolt](0939-bellibolt.md) | Electric | Overworld |
@@ -67,8 +67,8 @@
 | 0968 | [Orthworm](0968-orthworm.md) | Steel | Overworld |
 | 0969 | [Glimmet](0969-glimmet.md) | Rock / Poison | Overworld, Nether |
 | 0970 | [Glimmora](0970-glimmora.md) | Rock / Poison | Overworld, Nether |
-| 0971 | [Greavard](0971-greavard.md) | Ghost | Overworld |
-| 0972 | [Houndstone](0972-houndstone.md) | Ghost | Overworld |
+| 0971 | [Greavard](0971-greavard.md) | Ghost | Overworld, Nether |
+| 0972 | [Houndstone](0972-houndstone.md) | Ghost | Overworld, Nether |
 | 0973 | [Flamigo](0973-flamigo.md) | Flying / Fighting | Overworld |
 | 0974 | [Cetoddle](0974-cetoddle.md) | Ice | Overworld |
 | 0975 | [Cetitan](0975-cetitan.md) | Ice | Overworld |
@@ -90,7 +90,7 @@
 | 0991 | [Iron Bundle](0991-iron-bundle.md) | Ice / Water | Overworld |
 | 0992 | [Iron Hands](0992-iron-hands.md) | Fighting / Electric | Overworld |
 | 0993 | [Iron Jugulis](0993-iron-jugulis.md) | Dark / Flying | Overworld |
-| 0994 | [Iron Moth](0994-iron-moth.md) | Fire / Poison | Nether |
+| 0994 | [Iron Moth](0994-iron-moth.md) | Fire / Poison | Nether, Overworld |
 | 0995 | [Iron Thorns](0995-iron-thorns.md) | Rock / Electric | Overworld |
 | 0996 | [Frigibax](0996-frigibax.md) | Dragon / Ice | Overworld |
 | 0997 | [Arctibax](0997-arctibax.md) | Dragon / Ice | Overworld |
@@ -116,9 +116,9 @@
 | 1017 | [Ogerpon](1017-ogerpon.md) | Grass | Overworld |
 | 1018 | [Archaludon](1018-archaludon.md) | Steel / Dragon | Overworld |
 | 1019 | [Hydrapple](1019-hydrapple.md) | Grass / Dragon | Overworld |
-| 1020 | [Gouging Fire](1020-gouging-fire.md) | Fire / Dragon | Otherside, Overworld, Nether |
+| 1020 | [Gouging Fire](1020-gouging-fire.md) | Fire / Dragon | Overworld, Nether |
 | 1021 | [Raging Bolt](1021-raging-bolt.md) | Electric / Dragon | Otherside, Overworld |
 | 1022 | [Iron Boulder](1022-iron-boulder.md) | Rock / Psychic | Overworld |
 | 1023 | [Iron Crown](1023-iron-crown.md) | Steel / Psychic | Overworld, Otherside |
 | 1024 | [Terapagos](1024-terapagos.md) | Normal | Overworld |
-| 1025 | [Pecharunt](1025-pecharunt.md) | Poison / Ghost | Overworld |
+| 1025 | [Pecharunt](1025-pecharunt.md) | Poison / Ghost | Overworld, Nether |

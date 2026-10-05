@@ -17,3 +17,9 @@ Biome groups: Badlands, Volcanic
 Biome groups: Nether wastes
 
 [Glistering Meadow](../../biomes/nether/glistering-meadow.md), [Gravel Desert (BetterNether)](../../biomes/nether/gravel-desert-betternether.md), [Nether Grasslands](../../biomes/nether/nether-grasslands.md), [Nether Wastes](../../biomes/nether/nether-wastes.md), [Poor Nether Grasslands](../../biomes/nether/poor-nether-grasslands.md)
+
+### Common — any time · Lv 20-32
+
+Biome groups: Redstone abyss
+
+[Redstone Abyss](../../biomes/nether/redstone-abyss.md)

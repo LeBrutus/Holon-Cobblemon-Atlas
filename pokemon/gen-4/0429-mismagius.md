@@ -26,9 +26,9 @@ Biome groups: Swamp
 
 ### Rare — any time · Lv 25-51
 
-Biome groups: Soul sand valleys
+Biome groups: Warped forests
 
-[Bone Reef](../../biomes/nether/bone-reef.md), [Soul Plain](../../biomes/nether/soul-plain.md), [Soul Sand Valley](../../biomes/nether/soul-sand-valley.md), [Sulfuric Bone Reef](../../biomes/nether/sulfuric-bone-reef.md)
+[Gloomwood](../../biomes/nether/gloomwood.md), [Nether Jungle](../../biomes/nether/nether-jungle.md), [Old Warped Woods](../../biomes/nether/old-warped-woods.md), [Warped Forest](../../biomes/nether/warped-forest.md)
 
 ## Otherside
 

@@ -19,8 +19,8 @@
 | 0664 | [Scatterbug](0664-scatterbug.md) | Bug | Overworld, Aether |
 | 0665 | [Spewpa](0665-spewpa.md) | Bug | Overworld, Aether |
 | 0666 | [Vivillon](0666-vivillon.md) | Bug / Flying | Overworld, Aether |
-| 0667 | [Litleo](0667-litleo.md) | Fire / Normal | Overworld |
-| 0668 | [Pyroar](0668-pyroar.md) | Fire / Normal | Overworld |
+| 0667 | [Litleo](0667-litleo.md) | Fire / Normal | Overworld, Nether |
+| 0668 | [Pyroar](0668-pyroar.md) | Fire / Normal | Overworld, Nether |
 | 0669 | [Flabebe](0669-flabebe.md) | Fairy | Overworld, Aether |
 | 0670 | [Floette](0670-floette.md) | Fairy | Overworld, Aether |
 | 0671 | [Florges](0671-florges.md) | Fairy | Overworld, Aether |

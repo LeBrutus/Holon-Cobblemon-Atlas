@@ -19,9 +19,3 @@ Biome groups: Badlands, Savanna
 Biome groups: Basalt deltas
 
 [Basalt Deltas](../../biomes/nether/basalt-deltas.md), [Blackstone Basin](../../biomes/nether/blackstone-basin.md), [Flooded Deltas](../../biomes/nether/flooded-deltas.md), [Infernal Holt](../../biomes/nether/infernal-holt.md), [Magma Land](../../biomes/nether/magma-land.md)
-
-## Otherside
-
-### Ultra rare — any time · Lv 70-75
-
-All Otherside biomes.

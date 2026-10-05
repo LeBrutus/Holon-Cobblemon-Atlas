@@ -4,12 +4,6 @@
 
 ## Overworld
 
-### Common — not in volcanic · Lv 30-44
-
-Biome groups: Hills
-
-[Chalk Cliffs](../../biomes/overworld/chalk-cliffs.md), [Fractured Savanna](../../biomes/overworld/fractured-savanna.md), [Granite Cliffs](../../biomes/overworld/granite-cliffs.md), [Mauve Hills](../../biomes/overworld/mauve-hills.md), [Pine Slopes](../../biomes/overworld/pine-slopes.md), [Rocky Jungle](../../biomes/overworld/rocky-jungle.md), [Savanna Slopes](../../biomes/overworld/savanna-slopes.md), [Towering Cliffs](../../biomes/overworld/towering-cliffs.md), [Windswept Forest](../../biomes/overworld/windswept-forest.md), [Windswept Gravelly Hills](../../biomes/overworld/windswept-gravelly-hills.md), [Windswept Hills](../../biomes/overworld/windswept-hills.md), [Windswept Maple Forest](../../biomes/overworld/windswept-maple-forest.md), [Windswept Savanna](../../biomes/overworld/windswept-savanna.md), [Windswept Spires](../../biomes/overworld/windswept-spires.md)
-
 ### Common — any time · Lv 30-44
 
 Biome groups: Volcanic
@@ -29,3 +23,9 @@ Biome groups: Nether wastes
 Biome groups: Basalt deltas
 
 [Basalt Deltas](../../biomes/nether/basalt-deltas.md), [Blackstone Basin](../../biomes/nether/blackstone-basin.md), [Flooded Deltas](../../biomes/nether/flooded-deltas.md), [Infernal Holt](../../biomes/nether/infernal-holt.md), [Magma Land](../../biomes/nether/magma-land.md)
+
+### Uncommon — any time · Lv 30-44
+
+Biome groups: Redstone abyss
+
+[Redstone Abyss](../../biomes/nether/redstone-abyss.md)

@@ -24,8 +24,8 @@
 | 0020 | [Raticate](0020-raticate.md) | Normal | Overworld |
 | 0021 | [Spearow](0021-spearow.md) | Normal / Flying | Overworld |
 | 0022 | [Fearow](0022-fearow.md) | Normal / Flying | Overworld |
-| 0023 | [Ekans](0023-ekans.md) | Poison | Overworld |
-| 0024 | [Arbok](0024-arbok.md) | Poison | Overworld |
+| 0023 | [Ekans](0023-ekans.md) | Poison | Overworld, Nether |
+| 0024 | [Arbok](0024-arbok.md) | Poison | Overworld, Nether |
 | 0025 | [Pikachu](0025-pikachu.md) | Electric | Overworld |
 | 0026 | [Raichu](0026-raichu.md) | Electric | Overworld |
 | 0027 | [Sandshrew](0027-sandshrew.md) | Ground | Overworld |
@@ -49,8 +49,8 @@
 | 0045 | [Vileplume](0045-vileplume.md) | Grass / Poison | Overworld |
 | 0046 | [Paras](0046-paras.md) | Bug / Grass | Overworld, Nether |
 | 0047 | [Parasect](0047-parasect.md) | Bug / Grass | Overworld, Nether |
-| 0048 | [Venonat](0048-venonat.md) | Bug / Poison | Overworld, End |
-| 0049 | [Venomoth](0049-venomoth.md) | Bug / Poison | Overworld, End |
+| 0048 | [Venonat](0048-venonat.md) | Bug / Poison | Overworld, Nether, End |
+| 0049 | [Venomoth](0049-venomoth.md) | Bug / Poison | Overworld, Nether, End |
 | 0050 | [Diglett](0050-diglett.md) | Ground | Overworld |
 | 0051 | [Dugtrio](0051-dugtrio.md) | Ground | Overworld |
 | 0052 | [Meowth](0052-meowth.md) | Normal | Overworld |
@@ -82,8 +82,8 @@
 | 0078 | [Rapidash](0078-rapidash.md) | Fire | Overworld |
 | 0079 | [Slowpoke](0079-slowpoke.md) | Water / Psychic | Overworld, End |
 | 0080 | [Slowbro](0080-slowbro.md) | Water / Psychic | Overworld, End |
-| 0081 | [Magnemite](0081-magnemite.md) | Electric / Steel | Overworld, Nether |
-| 0082 | [Magneton](0082-magneton.md) | Electric / Steel | Overworld, Nether |
+| 0081 | [Magnemite](0081-magnemite.md) | Electric / Steel | Overworld |
+| 0082 | [Magneton](0082-magneton.md) | Electric / Steel | Overworld |
 | 0083 | [Farfetch’d](0083-farfetch-d.md) | Normal / Flying | Overworld |
 | 0084 | [Doduo](0084-doduo.md) | Normal / Flying | Overworld, Aether |
 | 0085 | [Dodrio](0085-dodrio.md) | Normal / Flying | Overworld, Aether |
@@ -96,13 +96,13 @@
 | 0092 | [Gastly](0092-gastly.md) | Ghost / Poison | Overworld, Otherside, Nether |
 | 0093 | [Haunter](0093-haunter.md) | Ghost / Poison | Overworld, Otherside, Nether |
 | 0094 | [Gengar](0094-gengar.md) | Ghost / Poison | Overworld, Otherside, Nether |
-| 0095 | [Onix](0095-onix.md) | Rock / Ground | Overworld, Nether |
+| 0095 | [Onix](0095-onix.md) | Rock / Ground | Overworld |
 | 0096 | [Drowzee](0096-drowzee.md) | Psychic | Overworld |
 | 0097 | [Hypno](0097-hypno.md) | Psychic | Overworld |
 | 0098 | [Krabby](0098-krabby.md) | Water | Overworld |
 | 0099 | [Kingler](0099-kingler.md) | Water | Overworld |
-| 0100 | [Voltorb](0100-voltorb.md) | Electric | Overworld, Nether |
-| 0101 | [Electrode](0101-electrode.md) | Electric | Overworld, Nether |
+| 0100 | [Voltorb](0100-voltorb.md) | Electric | Overworld |
+| 0101 | [Electrode](0101-electrode.md) | Electric | Overworld |
 | 0102 | [Exeggcute](0102-exeggcute.md) | Grass / Psychic | Overworld |
 | 0103 | [Exeggutor](0103-exeggutor.md) | Grass / Psychic | Overworld |
 | 0104 | [Cubone](0104-cubone.md) | Ground | Overworld, Nether, End |

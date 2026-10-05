@@ -190,7 +190,7 @@ Groups: Arid, Badlands, Enchanted, Magical
 | 0969 | [Glimmet](../../pokemon/gen-9/0969-glimmet.md) | underground |
 | 0970 | [Glimmora](../../pokemon/gen-9/0970-glimmora.md) | underground |
 
-## Uncommon (120)
+## Uncommon (116)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -200,8 +200,6 @@ Groups: Arid, Badlands, Enchanted, Magical
 | 0036 | [Clefable](../../pokemon/gen-1/0036-clefable.md) | any time |
 | 0041 | [Zubat](../../pokemon/gen-1/0041-zubat.md) | underground |
 | 0042 | [Golbat](../../pokemon/gen-1/0042-golbat.md) | underground |
-| 0058 | [Growlithe](../../pokemon/gen-1/0058-growlithe.md) | near builds |
-| 0059 | [Arcanine](../../pokemon/gen-1/0059-arcanine.md) | near builds |
 | 0063 | [Abra](../../pokemon/gen-1/0063-abra.md) | any time |
 | 0064 | [Kadabra](../../pokemon/gen-1/0064-kadabra.md) | any time |
 | 0065 | [Alakazam](../../pokemon/gen-1/0065-alakazam.md) | any time |
@@ -225,7 +223,6 @@ Groups: Arid, Badlands, Enchanted, Magical
 | 0133 | [Eevee](../../pokemon/gen-1/0133-eevee.md) | villages |
 | 0134 | [Vaporeon](../../pokemon/gen-1/0134-vaporeon.md) | near builds; villages |
 | 0135 | [Jolteon](../../pokemon/gen-1/0135-jolteon.md) | near builds; villages |
-| 0136 | [Flareon](../../pokemon/gen-1/0136-flareon.md) | near builds; villages |
 | 0137 | [Porygon](../../pokemon/gen-1/0137-porygon.md) | any time |
 | 0143 | [Snorlax](../../pokemon/gen-1/0143-snorlax.md) | any time |
 | 0169 | [Crobat](../../pokemon/gen-2/0169-crobat.md) | underground |
@@ -244,7 +241,6 @@ Groups: Arid, Badlands, Enchanted, Magical
 | 0233 | [Porygon2](../../pokemon/gen-2/0233-porygon2.md) | any time |
 | 0299 | [Nosepass](../../pokemon/gen-3/0299-nosepass.md) | underground |
 | 0301 | [Delcatty](../../pokemon/gen-3/0301-delcatty.md) | near builds; villages |
-| 0324 | [Torkoal](../../pokemon/gen-3/0324-torkoal.md) | underground |
 | 0333 | [Swablu](../../pokemon/gen-3/0333-swablu.md) | any time |
 | 0334 | [Altaria](../../pokemon/gen-3/0334-altaria.md) | any time |
 | 0339 | [Barboach](../../pokemon/gen-3/0339-barboach.md) | rain, underground, water |
@@ -272,6 +268,7 @@ Groups: Arid, Badlands, Enchanted, Magical
 | 0577 | [Solosis](../../pokemon/gen-5/0577-solosis.md) | any time |
 | 0578 | [Duosion](../../pokemon/gen-5/0578-duosion.md) | any time |
 | 0579 | [Reuniclus](../../pokemon/gen-5/0579-reuniclus.md) | any time |
+| 0607 | [Litwick](../../pokemon/gen-5/0607-litwick.md) | night |
 | 0618 | [Stunfisk](../../pokemon/gen-5/0618-stunfisk.md) | any time |
 | 0627 | [Rufflet](../../pokemon/gen-5/0627-rufflet.md) | any time |
 | 0628 | [Braviary](../../pokemon/gen-5/0628-braviary.md) | any time |
@@ -288,7 +285,6 @@ Groups: Arid, Badlands, Enchanted, Magical
 | 0768 | [Golisopod](../../pokemon/gen-7/0768-golisopod.md) | underground |
 | 0776 | [Turtonator](../../pokemon/gen-7/0776-turtonator.md) | any time |
 | 0777 | [Togedemaru](../../pokemon/gen-7/0777-togedemaru.md) | any time |
-| 0838 | [Carkol](../../pokemon/gen-8/0838-carkol.md) | underground |
 | 0845 | [Cramorant](../../pokemon/gen-8/0845-cramorant.md) | any time |
 | 0848 | [Toxel](../../pokemon/gen-8/0848-toxel.md) | any time; underground |
 | 0849 | [Toxtricity](../../pokemon/gen-8/0849-toxtricity.md) | underground |
@@ -315,7 +311,7 @@ Groups: Arid, Badlands, Enchanted, Magical
 | 1012 | [Poltchageist](../../pokemon/gen-9/1012-poltchageist.md) | underground, villages; villages |
 | 1013 | [Sinistcha](../../pokemon/gen-9/1013-sinistcha.md) | underground, villages; villages |
 
-## Rare (29)
+## Rare (28)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -345,11 +341,10 @@ Groups: Arid, Badlands, Enchanted, Magical
 | 0715 | [Noivern](../../pokemon/gen-6/0715-noivern.md) | underground |
 | 0764 | [Comfey](../../pokemon/gen-7/0764-comfey.md) | any time |
 | 0774 | [Minior](../../pokemon/gen-7/0774-minior.md) | any time |
-| 0839 | [Coalossal](../../pokemon/gen-8/0839-coalossal.md) | underground |
 | 0884 | [Duraludon](../../pokemon/gen-8/0884-duraludon.md) | any time |
 | 0967 | [Cyclizar](../../pokemon/gen-9/0967-cyclizar.md) | any time |
 
-## Ultra rare (58)
+## Ultra rare (57)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -392,7 +387,6 @@ Groups: Arid, Badlands, Enchanted, Magical
 | 0705 | [Sliggoo](../../pokemon/gen-6/0705-sliggoo.md) | Hisuian form, underground; any time |
 | 0706 | [Goodra](../../pokemon/gen-6/0706-goodra.md) | Hisuian form, underground; any time |
 | 0718 | [Zygarde](../../pokemon/gen-6/0718-zygarde.md) | underground |
-| 0721 | [Volcanion](../../pokemon/gen-6/0721-volcanion.md) | underground |
 | 0790 | [Cosmoem](../../pokemon/gen-7/0790-cosmoem.md) | any time |
 | 0792 | [Lunala](../../pokemon/gen-7/0792-lunala.md) | underground |
 | 0796 | [Xurkitree](../../pokemon/gen-7/0796-xurkitree.md) | any time |

@@ -15,3 +15,11 @@ Biome groups: Swamp
 Biome groups: Spider lily fields
 
 [Spider Lily Fields](../../biomes/overworld/spider-lily-fields.md)
+
+## Nether
+
+### Ultra rare — any time · Lv 85-88
+
+Biome groups: Nether mushroom forests
+
+[Mycotoxic Undergrowth](../../biomes/nether/mycotoxic-undergrowth.md), [Nether Mushroom Forest](../../biomes/nether/nether-mushroom-forest.md), [Nether Mushroom Forest Edge](../../biomes/nether/nether-mushroom-forest-edge.md), [Old Fungiwoods](../../biomes/nether/old-fungiwoods.md)

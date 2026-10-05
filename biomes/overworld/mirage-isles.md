@@ -170,7 +170,7 @@ Groups: Enchanted, Island, Islands, Magical, Tropical islands
 | 0970 | [Glimmora](../../pokemon/gen-9/0970-glimmora.md) | underground |
 | 0973 | [Flamigo](../../pokemon/gen-9/0973-flamigo.md) | any time |
 
-## Uncommon (116)
+## Uncommon (109)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -182,8 +182,6 @@ Groups: Enchanted, Island, Islands, Magical, Tropical islands
 | 0036 | [Clefable](../../pokemon/gen-1/0036-clefable.md) | any time |
 | 0041 | [Zubat](../../pokemon/gen-1/0041-zubat.md) | underground |
 | 0042 | [Golbat](../../pokemon/gen-1/0042-golbat.md) | underground |
-| 0058 | [Growlithe](../../pokemon/gen-1/0058-growlithe.md) | near builds |
-| 0059 | [Arcanine](../../pokemon/gen-1/0059-arcanine.md) | near builds |
 | 0063 | [Abra](../../pokemon/gen-1/0063-abra.md) | any time |
 | 0064 | [Kadabra](../../pokemon/gen-1/0064-kadabra.md) | any time |
 | 0065 | [Alakazam](../../pokemon/gen-1/0065-alakazam.md) | any time |
@@ -211,7 +209,6 @@ Groups: Enchanted, Island, Islands, Magical, Tropical islands
 | 0133 | [Eevee](../../pokemon/gen-1/0133-eevee.md) | villages |
 | 0134 | [Vaporeon](../../pokemon/gen-1/0134-vaporeon.md) | near builds; villages |
 | 0135 | [Jolteon](../../pokemon/gen-1/0135-jolteon.md) | near builds; villages |
-| 0136 | [Flareon](../../pokemon/gen-1/0136-flareon.md) | near builds; villages |
 | 0137 | [Porygon](../../pokemon/gen-1/0137-porygon.md) | any time |
 | 0143 | [Snorlax](../../pokemon/gen-1/0143-snorlax.md) | any time |
 | 0169 | [Crobat](../../pokemon/gen-2/0169-crobat.md) | underground |
@@ -228,7 +225,6 @@ Groups: Enchanted, Island, Islands, Magical, Tropical islands
 | 0233 | [Porygon2](../../pokemon/gen-2/0233-porygon2.md) | any time |
 | 0299 | [Nosepass](../../pokemon/gen-3/0299-nosepass.md) | underground |
 | 0301 | [Delcatty](../../pokemon/gen-3/0301-delcatty.md) | villages |
-| 0324 | [Torkoal](../../pokemon/gen-3/0324-torkoal.md) | underground |
 | 0333 | [Swablu](../../pokemon/gen-3/0333-swablu.md) | any time |
 | 0334 | [Altaria](../../pokemon/gen-3/0334-altaria.md) | any time |
 | 0339 | [Barboach](../../pokemon/gen-3/0339-barboach.md) | rain, underground, water |
@@ -251,8 +247,6 @@ Groups: Enchanted, Island, Islands, Magical, Tropical islands
 | 0476 | [Probopass](../../pokemon/gen-4/0476-probopass.md) | underground |
 | 0511 | [Pansage](../../pokemon/gen-5/0511-pansage.md) | any time |
 | 0512 | [Simisage](../../pokemon/gen-5/0512-simisage.md) | any time |
-| 0513 | [Pansear](../../pokemon/gen-5/0513-pansear.md) | any time |
-| 0514 | [Simisear](../../pokemon/gen-5/0514-simisear.md) | any time |
 | 0515 | [Panpour](../../pokemon/gen-5/0515-panpour.md) | any time |
 | 0516 | [Simipour](../../pokemon/gen-5/0516-simipour.md) | any time |
 | 0517 | [Munna](../../pokemon/gen-5/0517-munna.md) | any time |
@@ -267,7 +261,6 @@ Groups: Enchanted, Island, Islands, Magical, Tropical islands
 | 0764 | [Comfey](../../pokemon/gen-7/0764-comfey.md) | any time |
 | 0767 | [Wimpod](../../pokemon/gen-7/0767-wimpod.md) | any time; underground |
 | 0768 | [Golisopod](../../pokemon/gen-7/0768-golisopod.md) | any time; underground |
-| 0838 | [Carkol](../../pokemon/gen-8/0838-carkol.md) | underground |
 | 0845 | [Cramorant](../../pokemon/gen-8/0845-cramorant.md) | any time; water |
 | 0848 | [Toxel](../../pokemon/gen-8/0848-toxel.md) | any time; underground |
 | 0849 | [Toxtricity](../../pokemon/gen-8/0849-toxtricity.md) | underground |
@@ -291,7 +284,7 @@ Groups: Enchanted, Island, Islands, Magical, Tropical islands
 | 1012 | [Poltchageist](../../pokemon/gen-9/1012-poltchageist.md) | underground, villages; villages |
 | 1013 | [Sinistcha](../../pokemon/gen-9/1013-sinistcha.md) | underground, villages; villages |
 
-## Rare (30)
+## Rare (29)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -323,10 +316,9 @@ Groups: Enchanted, Island, Islands, Magical, Tropical islands
 | 0715 | [Noivern](../../pokemon/gen-6/0715-noivern.md) | underground |
 | 0764 | [Comfey](../../pokemon/gen-7/0764-comfey.md) | any time |
 | 0774 | [Minior](../../pokemon/gen-7/0774-minior.md) | any time |
-| 0839 | [Coalossal](../../pokemon/gen-8/0839-coalossal.md) | underground |
 | 0884 | [Duraludon](../../pokemon/gen-8/0884-duraludon.md) | any time |
 
-## Ultra rare (34)
+## Ultra rare (32)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -344,13 +336,11 @@ Groups: Enchanted, Island, Islands, Magical, Tropical islands
 | 0381 | [Latios](../../pokemon/gen-3/0381-latios.md) | any time |
 | 0385 | [Jirachi](../../pokemon/gen-3/0385-jirachi.md) | underground |
 | 0493 | [Arceus](../../pokemon/gen-4/0493-arceus.md) | any time |
-| 0494 | [Victini](../../pokemon/gen-5/0494-victini.md) | any time |
 | 0700 | [Sylveon](../../pokemon/gen-6/0700-sylveon.md) | any time |
 | 0704 | [Goomy](../../pokemon/gen-6/0704-goomy.md) | Hisuian form, underground; any time |
 | 0705 | [Sliggoo](../../pokemon/gen-6/0705-sliggoo.md) | Hisuian form, underground; any time |
 | 0706 | [Goodra](../../pokemon/gen-6/0706-goodra.md) | Hisuian form, underground; any time |
 | 0718 | [Zygarde](../../pokemon/gen-6/0718-zygarde.md) | underground |
-| 0721 | [Volcanion](../../pokemon/gen-6/0721-volcanion.md) | underground |
 | 0782 | [Jangmo-o](../../pokemon/gen-7/0782-jangmo-o.md) | any time |
 | 0784 | [Kommo-o](../../pokemon/gen-7/0784-kommo-o.md) | any time |
 | 0785 | [Tapu Koko](../../pokemon/gen-7/0785-tapu-koko.md) | any time |

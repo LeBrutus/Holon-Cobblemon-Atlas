@@ -4,7 +4,7 @@
 
 Groups: Enchanted, Floral, Hills, Magical, Temperate
 
-## Common (196)
+## Common (193)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -54,7 +54,6 @@ Groups: Enchanted, Floral, Hills, Magical, Temperate
 | 0110 | [Weezing](../../pokemon/gen-1/0110-weezing.md) | near builds |
 | 0118 | [Goldeen](../../pokemon/gen-1/0118-goldeen.md) | any time; underground |
 | 0119 | [Seaking](../../pokemon/gen-1/0119-seaking.md) | any time; underground |
-| 0126 | [Magmar](../../pokemon/gen-1/0126-magmar.md) | any time |
 | 0129 | [Magikarp](../../pokemon/gen-1/0129-magikarp.md) | any time; underground |
 | 0130 | [Gyarados](../../pokemon/gen-1/0130-gyarados.md) | any time; underground |
 | 0161 | [Sentret](../../pokemon/gen-2/0161-sentret.md) | any time |
@@ -78,7 +77,6 @@ Groups: Enchanted, Floral, Hills, Magical, Temperate
 | 0217 | [Ursaring](../../pokemon/gen-2/0217-ursaring.md) | any time |
 | 0218 | [Slugma](../../pokemon/gen-2/0218-slugma.md) | water, lava |
 | 0219 | [Magcargo](../../pokemon/gen-2/0219-magcargo.md) | water, lava |
-| 0240 | [Magby](../../pokemon/gen-2/0240-magby.md) | any time |
 | 0263 | [Zigzagoon](../../pokemon/gen-3/0263-zigzagoon.md) | any time |
 | 0264 | [Linoone](../../pokemon/gen-3/0264-linoone.md) | any time |
 | 0276 | [Taillow](../../pokemon/gen-3/0276-taillow.md) | any time |
@@ -115,7 +113,6 @@ Groups: Enchanted, Floral, Hills, Magical, Temperate
 | 0431 | [Glameow](../../pokemon/gen-4/0431-glameow.md) | near builds; villages |
 | 0432 | [Purugly](../../pokemon/gen-4/0432-purugly.md) | near builds; villages |
 | 0462 | [Magnezone](../../pokemon/gen-4/0462-magnezone.md) | any time |
-| 0467 | [Magmortar](../../pokemon/gen-4/0467-magmortar.md) | any time |
 | 0506 | [Lillipup](../../pokemon/gen-5/0506-lillipup.md) | near builds; villages |
 | 0507 | [Herdier](../../pokemon/gen-5/0507-herdier.md) | near builds; villages |
 | 0508 | [Stoutland](../../pokemon/gen-5/0508-stoutland.md) | near builds; villages |
@@ -205,7 +202,7 @@ Groups: Enchanted, Floral, Hills, Magical, Temperate
 | 0970 | [Glimmora](../../pokemon/gen-9/0970-glimmora.md) | underground |
 | 0979 | [Annihilape](../../pokemon/gen-9/0979-annihilape.md) | any time |
 
-## Uncommon (117)
+## Uncommon (111)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -215,8 +212,6 @@ Groups: Enchanted, Floral, Hills, Magical, Temperate
 | 0036 | [Clefable](../../pokemon/gen-1/0036-clefable.md) | any time |
 | 0041 | [Zubat](../../pokemon/gen-1/0041-zubat.md) | underground |
 | 0042 | [Golbat](../../pokemon/gen-1/0042-golbat.md) | underground |
-| 0058 | [Growlithe](../../pokemon/gen-1/0058-growlithe.md) | near builds |
-| 0059 | [Arcanine](../../pokemon/gen-1/0059-arcanine.md) | near builds |
 | 0063 | [Abra](../../pokemon/gen-1/0063-abra.md) | any time |
 | 0064 | [Kadabra](../../pokemon/gen-1/0064-kadabra.md) | any time |
 | 0065 | [Alakazam](../../pokemon/gen-1/0065-alakazam.md) | any time |
@@ -243,7 +238,6 @@ Groups: Enchanted, Floral, Hills, Magical, Temperate
 | 0133 | [Eevee](../../pokemon/gen-1/0133-eevee.md) | villages |
 | 0134 | [Vaporeon](../../pokemon/gen-1/0134-vaporeon.md) | near builds; villages |
 | 0135 | [Jolteon](../../pokemon/gen-1/0135-jolteon.md) | near builds; villages |
-| 0136 | [Flareon](../../pokemon/gen-1/0136-flareon.md) | near builds; villages |
 | 0137 | [Porygon](../../pokemon/gen-1/0137-porygon.md) | any time |
 | 0143 | [Snorlax](../../pokemon/gen-1/0143-snorlax.md) | any time |
 | 0169 | [Crobat](../../pokemon/gen-2/0169-crobat.md) | underground |
@@ -263,7 +257,6 @@ Groups: Enchanted, Floral, Hills, Magical, Temperate
 | 0299 | [Nosepass](../../pokemon/gen-3/0299-nosepass.md) | underground |
 | 0300 | [Skitty](../../pokemon/gen-3/0300-skitty.md) | any time |
 | 0301 | [Delcatty](../../pokemon/gen-3/0301-delcatty.md) | any time; villages |
-| 0324 | [Torkoal](../../pokemon/gen-3/0324-torkoal.md) | underground |
 | 0327 | [Spinda](../../pokemon/gen-3/0327-spinda.md) | any time |
 | 0333 | [Swablu](../../pokemon/gen-3/0333-swablu.md) | any time |
 | 0334 | [Altaria](../../pokemon/gen-3/0334-altaria.md) | any time |
@@ -292,7 +285,6 @@ Groups: Enchanted, Floral, Hills, Magical, Temperate
 | 0579 | [Reuniclus](../../pokemon/gen-5/0579-reuniclus.md) | any time |
 | 0627 | [Rufflet](../../pokemon/gen-5/0627-rufflet.md) | any time |
 | 0628 | [Braviary](../../pokemon/gen-5/0628-braviary.md) | any time |
-| 0631 | [Heatmor](../../pokemon/gen-5/0631-heatmor.md) | any time |
 | 0673 | [Gogoat](../../pokemon/gen-6/0673-gogoat.md) | any time |
 | 0682 | [Spritzee](../../pokemon/gen-6/0682-spritzee.md) | any time |
 | 0684 | [Swirlix](../../pokemon/gen-6/0684-swirlix.md) | any time |
@@ -307,7 +299,6 @@ Groups: Enchanted, Floral, Hills, Magical, Temperate
 | 0768 | [Golisopod](../../pokemon/gen-7/0768-golisopod.md) | underground |
 | 0774 | [Minior](../../pokemon/gen-7/0774-minior.md) | any time |
 | 0777 | [Togedemaru](../../pokemon/gen-7/0777-togedemaru.md) | any time |
-| 0838 | [Carkol](../../pokemon/gen-8/0838-carkol.md) | underground |
 | 0840 | [Applin](../../pokemon/gen-8/0840-applin.md) | any time |
 | 0845 | [Cramorant](../../pokemon/gen-8/0845-cramorant.md) | any time |
 | 0848 | [Toxel](../../pokemon/gen-8/0848-toxel.md) | any time; underground |
@@ -327,7 +318,7 @@ Groups: Enchanted, Floral, Hills, Magical, Temperate
 | 0968 | [Orthworm](../../pokemon/gen-9/0968-orthworm.md) | underground |
 | 0982 | [Dudunsparce](../../pokemon/gen-9/0982-dudunsparce.md) | underground |
 
-## Rare (39)
+## Rare (38)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -365,19 +356,15 @@ Groups: Enchanted, Floral, Hills, Magical, Temperate
 | 0764 | [Comfey](../../pokemon/gen-7/0764-comfey.md) | any time |
 | 0774 | [Minior](../../pokemon/gen-7/0774-minior.md) | any time |
 | 0826 | [Orbeetle](../../pokemon/gen-8/0826-orbeetle.md) | any time |
-| 0839 | [Coalossal](../../pokemon/gen-8/0839-coalossal.md) | underground |
 | 0842 | [Appletun](../../pokemon/gen-8/0842-appletun.md) | any time |
 | 0884 | [Duraludon](../../pokemon/gen-8/0884-duraludon.md) | any time |
 | 0900 | [Kleavor](../../pokemon/gen-8/0900-kleavor.md) | any time |
 | 1011 | [Dipplin](../../pokemon/gen-9/1011-dipplin.md) | any time |
 
-## Ultra rare (44)
+## Ultra rare (37)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
-| 0004 | [Charmander](../../pokemon/gen-1/0004-charmander.md) | any time |
-| 0005 | [Charmeleon](../../pokemon/gen-1/0005-charmeleon.md) | any time |
-| 0006 | [Charizard](../../pokemon/gen-1/0006-charizard.md) | any time |
 | 0007 | [Squirtle](../../pokemon/gen-1/0007-squirtle.md) | any time |
 | 0008 | [Wartortle](../../pokemon/gen-1/0008-wartortle.md) | any time |
 | 0009 | [Blastoise](../../pokemon/gen-1/0009-blastoise.md) | any time |
@@ -390,9 +377,6 @@ Groups: Enchanted, Floral, Hills, Magical, Temperate
 | 0152 | [Chikorita](../../pokemon/gen-2/0152-chikorita.md) | any time |
 | 0153 | [Bayleef](../../pokemon/gen-2/0153-bayleef.md) | any time |
 | 0154 | [Meganium](../../pokemon/gen-2/0154-meganium.md) | any time |
-| 0155 | [Cyndaquil](../../pokemon/gen-2/0155-cyndaquil.md) | any time |
-| 0156 | [Quilava](../../pokemon/gen-2/0156-quilava.md) | any time |
-| 0157 | [Typhlosion](../../pokemon/gen-2/0157-typhlosion.md) | any time |
 | 0196 | [Espeon](../../pokemon/gen-2/0196-espeon.md) | day |
 | 0380 | [Latias](../../pokemon/gen-3/0380-latias.md) | any time |
 | 0381 | [Latios](../../pokemon/gen-3/0381-latios.md) | any time |
@@ -408,7 +392,6 @@ Groups: Enchanted, Floral, Hills, Magical, Temperate
 | 0706 | [Goodra](../../pokemon/gen-6/0706-goodra.md) | Hisuian form, underground; any time |
 | 0716 | [Xerneas](../../pokemon/gen-6/0716-xerneas.md) | any time |
 | 0718 | [Zygarde](../../pokemon/gen-6/0718-zygarde.md) | underground |
-| 0721 | [Volcanion](../../pokemon/gen-6/0721-volcanion.md) | underground |
 | 0786 | [Tapu Lele](../../pokemon/gen-7/0786-tapu-lele.md) | any time |
 | 0790 | [Cosmoem](../../pokemon/gen-7/0790-cosmoem.md) | any time |
 | 0792 | [Lunala](../../pokemon/gen-7/0792-lunala.md) | underground |

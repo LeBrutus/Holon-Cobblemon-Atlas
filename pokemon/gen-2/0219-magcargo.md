@@ -18,9 +18,15 @@ Biome groups: Volcanic
 
 ### Uncommon — any time · Lv 38-56
 
-Biome groups: Nether wastes
+Biome groups: Basalt deltas
 
-[Glistering Meadow](../../biomes/nether/glistering-meadow.md), [Gravel Desert (BetterNether)](../../biomes/nether/gravel-desert-betternether.md), [Nether Grasslands](../../biomes/nether/nether-grasslands.md), [Nether Wastes](../../biomes/nether/nether-wastes.md), [Poor Nether Grasslands](../../biomes/nether/poor-nether-grasslands.md)
+[Basalt Deltas](../../biomes/nether/basalt-deltas.md), [Blackstone Basin](../../biomes/nether/blackstone-basin.md), [Flooded Deltas](../../biomes/nether/flooded-deltas.md), [Infernal Holt](../../biomes/nether/infernal-holt.md), [Magma Land](../../biomes/nether/magma-land.md)
+
+### Uncommon — any time · Lv 38-56
+
+Biome groups: Redstone abyss
+
+[Redstone Abyss](../../biomes/nether/redstone-abyss.md)
 
 ### Uncommon — lava · Lv 38-56
 

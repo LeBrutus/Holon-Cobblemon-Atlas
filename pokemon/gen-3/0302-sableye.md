@@ -22,11 +22,17 @@ Biome groups: Deep Dark
 
 ## Nether
 
-### Uncommon — any time · Lv 20-38
+### Common — any time · Lv 20-38
 
 Biome groups: Basalt deltas
 
 [Basalt Deltas](../../biomes/nether/basalt-deltas.md), [Blackstone Basin](../../biomes/nether/blackstone-basin.md), [Flooded Deltas](../../biomes/nether/flooded-deltas.md), [Infernal Holt](../../biomes/nether/infernal-holt.md), [Magma Land](../../biomes/nether/magma-land.md)
+
+### Uncommon — any time · Lv 20-38
+
+Biome groups: Redstone abyss
+
+[Redstone Abyss](../../biomes/nether/redstone-abyss.md)
 
 ## End
 

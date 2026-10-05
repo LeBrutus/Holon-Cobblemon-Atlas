@@ -21,3 +21,11 @@ Biome groups: Plains
 Biome groups: Sengoku silver grass
 
 [Pampas Fields](../../biomes/overworld/pampas-fields.md), [Silver Grass Fields](../../biomes/overworld/silver-grass-fields.md)
+
+## Nether
+
+### Uncommon — any time · Lv 20-36
+
+Biome groups: Redstone abyss
+
+[Redstone Abyss](../../biomes/nether/redstone-abyss.md)

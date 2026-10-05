@@ -19,8 +19,8 @@
 | 0824 | [Blipbug](0824-blipbug.md) | Bug | Overworld |
 | 0825 | [Dottler](0825-dottler.md) | Bug / Psychic | Overworld |
 | 0826 | [Orbeetle](0826-orbeetle.md) | Bug / Psychic | Overworld |
-| 0827 | [Nickit](0827-nickit.md) | Dark | Overworld |
-| 0828 | [Thievul](0828-thievul.md) | Dark | Overworld |
+| 0827 | [Nickit](0827-nickit.md) | Dark | Overworld, Nether |
+| 0828 | [Thievul](0828-thievul.md) | Dark | Overworld, Nether |
 | 0829 | [Gossifleur](0829-gossifleur.md) | Grass | Overworld |
 | 0830 | [Eldegoss](0830-eldegoss.md) | Grass | Overworld |
 | 0831 | [Wooloo](0831-wooloo.md) | Normal | Overworld, Aether |
@@ -30,8 +30,8 @@
 | 0835 | [Yamper](0835-yamper.md) | Electric | Overworld |
 | 0836 | [Boltund](0836-boltund.md) | Electric | Overworld |
 | 0837 | [Rolycoly](0837-rolycoly.md) | Rock | Overworld, Nether |
-| 0838 | [Carkol](0838-carkol.md) | Rock / Fire | Overworld, Nether |
-| 0839 | [Coalossal](0839-coalossal.md) | Rock / Fire | Overworld, Nether |
+| 0838 | [Carkol](0838-carkol.md) | Rock / Fire | Nether, Overworld |
+| 0839 | [Coalossal](0839-coalossal.md) | Rock / Fire | Nether, Overworld |
 | 0840 | [Applin](0840-applin.md) | Grass / Dragon | Overworld |
 | 0841 | [Flapple](0841-flapple.md) | Grass / Dragon | Overworld |
 | 0842 | [Appletun](0842-appletun.md) | Grass / Dragon | Overworld |
@@ -46,8 +46,8 @@
 | 0851 | [Centiskorch](0851-centiskorch.md) | Fire / Bug | Overworld, Nether |
 | 0852 | [Clobbopus](0852-clobbopus.md) | Fighting | Overworld |
 | 0853 | [Grapploct](0853-grapploct.md) | Fighting | Overworld |
-| 0854 | [Sinistea](0854-sinistea.md) | Ghost | Overworld, End |
-| 0855 | [Polteageist](0855-polteageist.md) | Ghost | Overworld, End |
+| 0854 | [Sinistea](0854-sinistea.md) | Ghost | Overworld, Nether, End |
+| 0855 | [Polteageist](0855-polteageist.md) | Ghost | Overworld, Nether, End |
 | 0856 | [Hatenna](0856-hatenna.md) | Psychic | Overworld, End |
 | 0857 | [Hattrem](0857-hattrem.md) | Psychic | Overworld, End |
 | 0858 | [Hatterene](0858-hatterene.md) | Psychic / Fairy | Overworld, End |
@@ -89,7 +89,7 @@
 | 0894 | [Regieleki](0894-regieleki.md) | Electric | Overworld |
 | 0895 | [Regidrago](0895-regidrago.md) | Dragon | Overworld, Otherside |
 | 0896 | [Glastrier](0896-glastrier.md) | Ice | Overworld |
-| 0897 | [Spectrier](0897-spectrier.md) | Ghost | Overworld |
+| 0897 | [Spectrier](0897-spectrier.md) | Ghost | Overworld, Nether |
 | 0898 | [Calyrex](0898-calyrex.md) | Psychic / Grass | Overworld |
 | 0899 | [Wyrdeer](0899-wyrdeer.md) | Normal / Psychic | Overworld |
 | 0900 | [Kleavor](0900-kleavor.md) | Bug / Rock | Overworld |

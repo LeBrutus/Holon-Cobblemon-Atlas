@@ -20,12 +20,6 @@ Biome groups: Badlands, Dripstone
 
 ### Ultra rare — any time · Lv 70
 
-Biome groups: Nether wastes
-
-[Glistering Meadow](../../biomes/nether/glistering-meadow.md), [Gravel Desert (BetterNether)](../../biomes/nether/gravel-desert-betternether.md), [Nether Grasslands](../../biomes/nether/nether-grasslands.md), [Nether Wastes](../../biomes/nether/nether-wastes.md), [Poor Nether Grasslands](../../biomes/nether/poor-nether-grasslands.md)
-
-### Ultra rare — any time · Lv 70
-
 All Nether biomes.
 
 ### Ultra rare — lava · Lv 70

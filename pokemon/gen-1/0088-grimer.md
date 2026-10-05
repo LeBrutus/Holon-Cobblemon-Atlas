@@ -34,6 +34,12 @@ All Overworld biomes.
 
 ### Common — any time · Lv 26-42
 
+Biome groups: Nether mushroom forests
+
+[Mycotoxic Undergrowth](../../biomes/nether/mycotoxic-undergrowth.md), [Nether Mushroom Forest](../../biomes/nether/nether-mushroom-forest.md), [Nether Mushroom Forest Edge](../../biomes/nether/nether-mushroom-forest-edge.md), [Old Fungiwoods](../../biomes/nether/old-fungiwoods.md)
+
+### Common — any time · Lv 26-42
+
 Biome groups: Nether swamps
 
 [Nether Swampland](../../biomes/nether/nether-swampland.md), [Nether Swampland Terraces](../../biomes/nether/nether-swampland-terraces.md), [Old Swampland](../../biomes/nether/old-swampland.md)

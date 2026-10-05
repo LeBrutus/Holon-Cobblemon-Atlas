@@ -11,8 +11,8 @@
 | 0258 | [Mudkip](0258-mudkip.md) | Water | Overworld |
 | 0259 | [Marshtomp](0259-marshtomp.md) | Water / Ground | Overworld |
 | 0260 | [Swampert](0260-swampert.md) | Water / Ground | Overworld |
-| 0261 | [Poochyena](0261-poochyena.md) | Dark | Overworld |
-| 0262 | [Mightyena](0262-mightyena.md) | Dark | Overworld |
+| 0261 | [Poochyena](0261-poochyena.md) | Dark | Overworld, Nether |
+| 0262 | [Mightyena](0262-mightyena.md) | Dark | Overworld, Nether |
 | 0263 | [Zigzagoon](0263-zigzagoon.md) | Normal | Overworld |
 | 0264 | [Linoone](0264-linoone.md) | Normal | Overworld |
 | 0265 | [Wurmple](0265-wurmple.md) | Bug | Overworld |
@@ -74,7 +74,7 @@
 | 0321 | [Wailord](0321-wailord.md) | Water | Overworld, Aether |
 | 0322 | [Numel](0322-numel.md) | Fire / Ground | Overworld, Nether |
 | 0323 | [Camerupt](0323-camerupt.md) | Fire / Ground | Overworld, Nether |
-| 0324 | [Torkoal](0324-torkoal.md) | Fire | Overworld, Otherside, Nether |
+| 0324 | [Torkoal](0324-torkoal.md) | Fire | Overworld, Nether |
 | 0325 | [Spoink](0325-spoink.md) | Psychic | Overworld |
 | 0326 | [Grumpig](0326-grumpig.md) | Psychic | Overworld |
 | 0327 | [Spinda](0327-spinda.md) | Normal | Overworld |
@@ -103,8 +103,8 @@
 | 0350 | [Milotic](0350-milotic.md) | Water | Overworld |
 | 0351 | [Castform](0351-castform.md) | Normal | Overworld, Aether |
 | 0352 | [Kecleon](0352-kecleon.md) | Normal | Overworld |
-| 0353 | [Shuppet](0353-shuppet.md) | Ghost | Overworld, Otherside |
-| 0354 | [Banette](0354-banette.md) | Ghost | Overworld, Otherside |
+| 0353 | [Shuppet](0353-shuppet.md) | Ghost | Overworld, Otherside, Nether |
+| 0354 | [Banette](0354-banette.md) | Ghost | Overworld, Otherside, Nether |
 | 0355 | [Duskull](0355-duskull.md) | Ghost | Overworld, Otherside, Nether |
 | 0356 | [Dusclops](0356-dusclops.md) | Ghost | Overworld, Otherside, Nether |
 | 0357 | [Tropius](0357-tropius.md) | Grass / Flying | Overworld, Aether |

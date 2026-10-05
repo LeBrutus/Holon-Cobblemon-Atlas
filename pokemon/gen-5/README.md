@@ -53,16 +53,16 @@
 | 0542 | [Leavanny](0542-leavanny.md) | Bug / Grass | Overworld |
 | 0543 | [Venipede](0543-venipede.md) | Bug / Poison | Overworld, Nether |
 | 0544 | [Whirlipede](0544-whirlipede.md) | Bug / Poison | Overworld, Nether |
-| 0545 | [Scolipede](0545-scolipede.md) | Bug / Poison | Overworld |
+| 0545 | [Scolipede](0545-scolipede.md) | Bug / Poison | Overworld, Nether |
 | 0546 | [Cottonee](0546-cottonee.md) | Grass / Fairy | Overworld, Aether |
 | 0547 | [Whimsicott](0547-whimsicott.md) | Grass / Fairy | Overworld, Aether |
 | 0548 | [Petilil](0548-petilil.md) | Grass | Overworld |
 | 0549 | [Lilligant](0549-lilligant.md) | Grass | Overworld |
 | 0550 | [Basculin](0550-basculin.md) | Water | Overworld |
-| 0551 | [Sandile](0551-sandile.md) | Ground / Dark | Overworld |
-| 0552 | [Krokorok](0552-krokorok.md) | Ground / Dark | Overworld |
-| 0553 | [Krookodile](0553-krookodile.md) | Ground / Dark | Overworld |
-| 0554 | [Darumaka](0554-darumaka.md) | Fire | Overworld, Nether |
+| 0551 | [Sandile](0551-sandile.md) | Ground / Dark | Overworld, Nether |
+| 0552 | [Krokorok](0552-krokorok.md) | Ground / Dark | Overworld, Nether |
+| 0553 | [Krookodile](0553-krookodile.md) | Ground / Dark | Overworld, Nether |
+| 0554 | [Darumaka](0554-darumaka.md) | Fire | Overworld |
 | 0555 | [Darmanitan](0555-darmanitan.md) | Fire | Overworld, Nether |
 | 0556 | [Maractus](0556-maractus.md) | Grass | Overworld |
 | 0557 | [Dwebble](0557-dwebble.md) | Bug / Rock | Overworld |
@@ -78,8 +78,8 @@
 | 0567 | [Archeops](0567-archeops.md) | Rock / Flying | Overworld |
 | 0568 | [Trubbish](0568-trubbish.md) | Poison | Overworld |
 | 0569 | [Garbodor](0569-garbodor.md) | Poison | Overworld |
-| 0570 | [Zorua](0570-zorua.md) | Dark | Overworld |
-| 0571 | [Zoroark](0571-zoroark.md) | Dark | Overworld |
+| 0570 | [Zorua](0570-zorua.md) | Dark | Overworld, Nether |
+| 0571 | [Zoroark](0571-zoroark.md) | Dark | Overworld, Nether |
 | 0572 | [Minccino](0572-minccino.md) | Normal | Overworld |
 | 0573 | [Cinccino](0573-cinccino.md) | Normal | Overworld |
 | 0574 | [Gothita](0574-gothita.md) | Psychic | Overworld, End |
@@ -107,11 +107,11 @@
 | 0596 | [Galvantula](0596-galvantula.md) | Bug / Electric | Overworld, End |
 | 0597 | [Ferroseed](0597-ferroseed.md) | Grass / Steel | Overworld |
 | 0598 | [Ferrothorn](0598-ferrothorn.md) | Grass / Steel | Overworld |
-| 0599 | [Klink](0599-klink.md) | Steel | Overworld, Nether |
-| 0600 | [Klang](0600-klang.md) | Steel | Overworld, Nether |
-| 0601 | [Klinklang](0601-klinklang.md) | Steel | Overworld, Nether |
-| 0602 | [Tynamo](0602-tynamo.md) | Electric | Overworld, Nether |
-| 0603 | [Eelektrik](0603-eelektrik.md) | Electric | Overworld, Nether |
+| 0599 | [Klink](0599-klink.md) | Steel | Overworld |
+| 0600 | [Klang](0600-klang.md) | Steel | Overworld |
+| 0601 | [Klinklang](0601-klinklang.md) | Steel | Overworld |
+| 0602 | [Tynamo](0602-tynamo.md) | Electric | Overworld |
+| 0603 | [Eelektrik](0603-eelektrik.md) | Electric | Overworld |
 | 0604 | [Eelektross](0604-eelektross.md) | Electric | Overworld |
 | 0605 | [Elgyem](0605-elgyem.md) | Psychic | Overworld, End |
 | 0606 | [Beheeyem](0606-beheeyem.md) | Psychic | Overworld, End |
@@ -140,7 +140,7 @@
 | 0629 | [Vullaby](0629-vullaby.md) | Dark / Flying | Overworld, Nether, End |
 | 0630 | [Mandibuzz](0630-mandibuzz.md) | Dark / Flying | Overworld, Nether, End |
 | 0631 | [Heatmor](0631-heatmor.md) | Fire | Overworld, Nether |
-| 0632 | [Durant](0632-durant.md) | Bug / Steel | Overworld, Nether |
+| 0632 | [Durant](0632-durant.md) | Bug / Steel | Overworld |
 | 0633 | [Deino](0633-deino.md) | Dark / Dragon | Overworld, End |
 | 0634 | [Zweilous](0634-zweilous.md) | Dark / Dragon | Overworld, End |
 | 0635 | [Hydreigon](0635-hydreigon.md) | Dark / Dragon | Overworld, End |

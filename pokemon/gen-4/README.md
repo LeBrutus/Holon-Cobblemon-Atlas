@@ -41,7 +41,7 @@
 | 0423 | [Gastrodon](0423-gastrodon.md) | Water / Ground | Overworld |
 | 0424 | [Ambipom](0424-ambipom.md) | Normal | Overworld |
 | 0425 | [Drifloon](0425-drifloon.md) | Ghost / Flying | Overworld, Nether, Aether |
-| 0426 | [Drifblim](0426-drifblim.md) | Ghost / Flying | Overworld, Aether |
+| 0426 | [Drifblim](0426-drifblim.md) | Ghost / Flying | Overworld, Nether, Aether |
 | 0427 | [Buneary](0427-buneary.md) | Normal | Overworld |
 | 0428 | [Lopunny](0428-lopunny.md) | Normal | Overworld |
 | 0429 | [Mismagius](0429-mismagius.md) | Ghost | Overworld, Otherside, Nether |
@@ -77,7 +77,7 @@
 | 0459 | [Snover](0459-snover.md) | Grass / Ice | Overworld |
 | 0460 | [Abomasnow](0460-abomasnow.md) | Grass / Ice | Overworld |
 | 0461 | [Weavile](0461-weavile.md) | Dark / Ice | Overworld |
-| 0462 | [Magnezone](0462-magnezone.md) | Electric / Steel | Overworld, Nether |
+| 0462 | [Magnezone](0462-magnezone.md) | Electric / Steel | Overworld |
 | 0463 | [Lickilicky](0463-lickilicky.md) | Normal | Overworld |
 | 0464 | [Rhyperior](0464-rhyperior.md) | Ground / Rock | Overworld |
 | 0465 | [Tangrowth](0465-tangrowth.md) | Grass | Overworld |

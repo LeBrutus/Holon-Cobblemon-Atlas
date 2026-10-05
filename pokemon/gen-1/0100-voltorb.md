@@ -19,11 +19,3 @@ All Overworld biomes.
 ### Uncommon — Hisuian form · Lv 18-34
 
 All Overworld biomes.
-
-## Nether
-
-### Common — any time · Lv 20-42
-
-Biome groups: Redstone abyss
-
-[Redstone Abyss](../../biomes/nether/redstone-abyss.md)

@@ -35,9 +35,3 @@ Biome groups: Sengoku hot springs
 Biome groups: Nether wastes
 
 [Glistering Meadow](../../biomes/nether/glistering-meadow.md), [Gravel Desert (BetterNether)](../../biomes/nether/gravel-desert-betternether.md), [Nether Grasslands](../../biomes/nether/nether-grasslands.md), [Nether Wastes](../../biomes/nether/nether-wastes.md), [Poor Nether Grasslands](../../biomes/nether/poor-nether-grasslands.md)
-
-### Common — any time · Lv 21-37
-
-Biome groups: Basalt deltas
-
-[Basalt Deltas](../../biomes/nether/basalt-deltas.md), [Blackstone Basin](../../biomes/nether/blackstone-basin.md), [Flooded Deltas](../../biomes/nether/flooded-deltas.md), [Infernal Holt](../../biomes/nether/infernal-holt.md), [Magma Land](../../biomes/nether/magma-land.md)

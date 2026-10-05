@@ -4,7 +4,7 @@
 
 Groups: Enchanted, High mountains, Magical, Mountain, Sky
 
-## Common (181)
+## Common (175)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -23,7 +23,6 @@ Groups: Enchanted, High mountains, Magical, Mountain, Sky
 | 0053 | [Persian](../../pokemon/gen-1/0053-persian.md) | near builds; villages |
 | 0054 | [Psyduck](../../pokemon/gen-1/0054-psyduck.md) | any time; water |
 | 0055 | [Golduck](../../pokemon/gen-1/0055-golduck.md) | any time; water |
-| 0058 | [Growlithe](../../pokemon/gen-1/0058-growlithe.md) | Hisuian form |
 | 0060 | [Poliwag](../../pokemon/gen-1/0060-poliwag.md) | rain; rain, water |
 | 0061 | [Poliwhirl](../../pokemon/gen-1/0061-poliwhirl.md) | rain; rain, water |
 | 0062 | [Poliwrath](../../pokemon/gen-1/0062-poliwrath.md) | rain; rain, water |
@@ -82,7 +81,6 @@ Groups: Enchanted, High mountains, Magical, Mountain, Sky
 | 0304 | [Aron](../../pokemon/gen-3/0304-aron.md) | any time; underground |
 | 0305 | [Lairon](../../pokemon/gen-3/0305-lairon.md) | any time; underground |
 | 0306 | [Aggron](../../pokemon/gen-3/0306-aggron.md) | any time; underground |
-| 0324 | [Torkoal](../../pokemon/gen-3/0324-torkoal.md) | any time |
 | 0325 | [Spoink](../../pokemon/gen-3/0325-spoink.md) | any time |
 | 0339 | [Barboach](../../pokemon/gen-3/0339-barboach.md) | rain, underground |
 | 0340 | [Whiscash](../../pokemon/gen-3/0340-whiscash.md) | rain, underground |
@@ -137,8 +135,6 @@ Groups: Enchanted, High mountains, Magical, Mountain, Sky
 | 0606 | [Beheeyem](../../pokemon/gen-5/0606-beheeyem.md) | any time |
 | 0627 | [Rufflet](../../pokemon/gen-5/0627-rufflet.md) | Hisuian form; any time |
 | 0661 | [Fletchling](../../pokemon/gen-6/0661-fletchling.md) | any time |
-| 0662 | [Fletchinder](../../pokemon/gen-6/0662-fletchinder.md) | any time |
-| 0663 | [Talonflame](../../pokemon/gen-6/0663-talonflame.md) | any time |
 | 0666 | [Vivillon](../../pokemon/gen-6/0666-vivillon.md) | any time; near builds; villages |
 | 0672 | [Skiddo](../../pokemon/gen-6/0672-skiddo.md) | any time |
 | 0673 | [Gogoat](../../pokemon/gen-6/0673-gogoat.md) | any time |
@@ -155,8 +151,6 @@ Groups: Enchanted, High mountains, Magical, Mountain, Sky
 | 0743 | [Ribombee](../../pokemon/gen-7/0743-ribombee.md) | any time |
 | 0755 | [Morelull](../../pokemon/gen-7/0755-morelull.md) | night |
 | 0756 | [Shiinotic](../../pokemon/gen-7/0756-shiinotic.md) | night |
-| 0757 | [Salandit](../../pokemon/gen-7/0757-salandit.md) | underground |
-| 0758 | [Salazzle](../../pokemon/gen-7/0758-salazzle.md) | underground |
 | 0767 | [Wimpod](../../pokemon/gen-7/0767-wimpod.md) | underground |
 | 0768 | [Golisopod](../../pokemon/gen-7/0768-golisopod.md) | underground |
 | 0821 | [Rookidee](../../pokemon/gen-8/0821-rookidee.md) | any time |
@@ -190,7 +184,7 @@ Groups: Enchanted, High mountains, Magical, Mountain, Sky
 | 0969 | [Glimmet](../../pokemon/gen-9/0969-glimmet.md) | underground |
 | 0970 | [Glimmora](../../pokemon/gen-9/0970-glimmora.md) | underground |
 
-## Uncommon (112)
+## Uncommon (107)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -200,8 +194,6 @@ Groups: Enchanted, High mountains, Magical, Mountain, Sky
 | 0036 | [Clefable](../../pokemon/gen-1/0036-clefable.md) | any time |
 | 0041 | [Zubat](../../pokemon/gen-1/0041-zubat.md) | underground |
 | 0042 | [Golbat](../../pokemon/gen-1/0042-golbat.md) | underground |
-| 0058 | [Growlithe](../../pokemon/gen-1/0058-growlithe.md) | near builds |
-| 0059 | [Arcanine](../../pokemon/gen-1/0059-arcanine.md) | near builds |
 | 0063 | [Abra](../../pokemon/gen-1/0063-abra.md) | any time |
 | 0064 | [Kadabra](../../pokemon/gen-1/0064-kadabra.md) | any time |
 | 0065 | [Alakazam](../../pokemon/gen-1/0065-alakazam.md) | any time |
@@ -225,7 +217,6 @@ Groups: Enchanted, High mountains, Magical, Mountain, Sky
 | 0133 | [Eevee](../../pokemon/gen-1/0133-eevee.md) | villages |
 | 0134 | [Vaporeon](../../pokemon/gen-1/0134-vaporeon.md) | near builds; villages |
 | 0135 | [Jolteon](../../pokemon/gen-1/0135-jolteon.md) | near builds; villages |
-| 0136 | [Flareon](../../pokemon/gen-1/0136-flareon.md) | near builds; villages |
 | 0137 | [Porygon](../../pokemon/gen-1/0137-porygon.md) | any time |
 | 0143 | [Snorlax](../../pokemon/gen-1/0143-snorlax.md) | any time |
 | 0169 | [Crobat](../../pokemon/gen-2/0169-crobat.md) | underground |
@@ -242,7 +233,6 @@ Groups: Enchanted, High mountains, Magical, Mountain, Sky
 | 0233 | [Porygon2](../../pokemon/gen-2/0233-porygon2.md) | any time |
 | 0299 | [Nosepass](../../pokemon/gen-3/0299-nosepass.md) | underground |
 | 0301 | [Delcatty](../../pokemon/gen-3/0301-delcatty.md) | villages |
-| 0324 | [Torkoal](../../pokemon/gen-3/0324-torkoal.md) | underground |
 | 0326 | [Grumpig](../../pokemon/gen-3/0326-grumpig.md) | any time |
 | 0333 | [Swablu](../../pokemon/gen-3/0333-swablu.md) | any time |
 | 0334 | [Altaria](../../pokemon/gen-3/0334-altaria.md) | any time |
@@ -286,7 +276,6 @@ Groups: Enchanted, High mountains, Magical, Mountain, Sky
 | 0768 | [Golisopod](../../pokemon/gen-7/0768-golisopod.md) | underground |
 | 0774 | [Minior](../../pokemon/gen-7/0774-minior.md) | any time |
 | 0780 | [Drampa](../../pokemon/gen-7/0780-drampa.md) | any time |
-| 0838 | [Carkol](../../pokemon/gen-8/0838-carkol.md) | any time; underground |
 | 0845 | [Cramorant](../../pokemon/gen-8/0845-cramorant.md) | any time; water |
 | 0848 | [Toxel](../../pokemon/gen-8/0848-toxel.md) | any time; underground |
 | 0849 | [Toxtricity](../../pokemon/gen-8/0849-toxtricity.md) | underground |
@@ -307,11 +296,10 @@ Groups: Enchanted, High mountains, Magical, Mountain, Sky
 | 0968 | [Orthworm](../../pokemon/gen-9/0968-orthworm.md) | underground |
 | 0982 | [Dudunsparce](../../pokemon/gen-9/0982-dudunsparce.md) | underground |
 
-## Rare (38)
+## Rare (36)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
-| 0059 | [Arcanine](../../pokemon/gen-1/0059-arcanine.md) | Hisuian form |
 | 0089 | [Muk](../../pokemon/gen-1/0089-muk.md) | near builds; water, near builds |
 | 0095 | [Onix](../../pokemon/gen-1/0095-onix.md) | underground |
 | 0113 | [Chansey](../../pokemon/gen-1/0113-chansey.md) | near builds; villages |
@@ -345,12 +333,11 @@ Groups: Enchanted, High mountains, Magical, Mountain, Sky
 | 0715 | [Noivern](../../pokemon/gen-6/0715-noivern.md) | underground |
 | 0764 | [Comfey](../../pokemon/gen-7/0764-comfey.md) | any time |
 | 0774 | [Minior](../../pokemon/gen-7/0774-minior.md) | any time |
-| 0839 | [Coalossal](../../pokemon/gen-8/0839-coalossal.md) | any time; underground |
 | 0884 | [Duraludon](../../pokemon/gen-8/0884-duraludon.md) | any time |
 | 0958 | [Tinkatuff](../../pokemon/gen-9/0958-tinkatuff.md) | any time |
 | 0982 | [Dudunsparce](../../pokemon/gen-9/0982-dudunsparce.md) | any time |
 
-## Ultra rare (61)
+## Ultra rare (56)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -371,9 +358,6 @@ Groups: Enchanted, High mountains, Magical, Mountain, Sky
 | 0381 | [Latios](../../pokemon/gen-3/0381-latios.md) | any time |
 | 0385 | [Jirachi](../../pokemon/gen-3/0385-jirachi.md) | underground |
 | 0386 | [Deoxys](../../pokemon/gen-3/0386-deoxys.md) | any time |
-| 0390 | [Chimchar](../../pokemon/gen-4/0390-chimchar.md) | any time |
-| 0391 | [Monferno](../../pokemon/gen-4/0391-monferno.md) | any time |
-| 0392 | [Infernape](../../pokemon/gen-4/0392-infernape.md) | any time |
 | 0408 | [Cranidos](../../pokemon/gen-4/0408-cranidos.md) | any time |
 | 0409 | [Rampardos](../../pokemon/gen-4/0409-rampardos.md) | any time |
 | 0410 | [Shieldon](../../pokemon/gen-4/0410-shieldon.md) | any time |
@@ -386,7 +370,6 @@ Groups: Enchanted, High mountains, Magical, Mountain, Sky
 | 0610 | [Axew](../../pokemon/gen-5/0610-axew.md) | any time |
 | 0611 | [Fraxure](../../pokemon/gen-5/0611-fraxure.md) | any time |
 | 0612 | [Haxorus](../../pokemon/gen-5/0612-haxorus.md) | any time |
-| 0643 | [Reshiram](../../pokemon/gen-5/0643-reshiram.md) | any time |
 | 0644 | [Zekrom](../../pokemon/gen-5/0644-zekrom.md) | any time |
 | 0695 | [Heliolisk](../../pokemon/gen-6/0695-heliolisk.md) | day |
 | 0698 | [Amaura](../../pokemon/gen-6/0698-amaura.md) | underground |
@@ -396,7 +379,6 @@ Groups: Enchanted, High mountains, Magical, Mountain, Sky
 | 0705 | [Sliggoo](../../pokemon/gen-6/0705-sliggoo.md) | Hisuian form, underground; any time |
 | 0706 | [Goodra](../../pokemon/gen-6/0706-goodra.md) | Hisuian form, underground; any time |
 | 0718 | [Zygarde](../../pokemon/gen-6/0718-zygarde.md) | underground |
-| 0721 | [Volcanion](../../pokemon/gen-6/0721-volcanion.md) | underground |
 | 0782 | [Jangmo-o](../../pokemon/gen-7/0782-jangmo-o.md) | any time |
 | 0790 | [Cosmoem](../../pokemon/gen-7/0790-cosmoem.md) | any time |
 | 0792 | [Lunala](../../pokemon/gen-7/0792-lunala.md) | underground |

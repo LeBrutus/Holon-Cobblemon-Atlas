@@ -35,8 +35,8 @@
 | 0752 | [Araquanid](0752-araquanid.md) | Water / Bug | Overworld |
 | 0753 | [Fomantis](0753-fomantis.md) | Grass | Overworld |
 | 0754 | [Lurantis](0754-lurantis.md) | Grass | Overworld |
-| 0755 | [Morelull](0755-morelull.md) | Grass / Fairy | Overworld, Nether, End |
-| 0756 | [Shiinotic](0756-shiinotic.md) | Grass / Fairy | Overworld, Nether, End |
+| 0755 | [Morelull](0755-morelull.md) | Grass / Fairy | Overworld, End |
+| 0756 | [Shiinotic](0756-shiinotic.md) | Grass / Fairy | Overworld, End |
 | 0757 | [Salandit](0757-salandit.md) | Poison / Fire | Overworld, Nether |
 | 0758 | [Salazzle](0758-salazzle.md) | Poison / Fire | Overworld, Nether |
 | 0759 | [Stufful](0759-stufful.md) | Normal / Fighting | Overworld |
@@ -49,8 +49,8 @@
 | 0766 | [Passimian](0766-passimian.md) | Fighting | Overworld |
 | 0767 | [Wimpod](0767-wimpod.md) | Bug / Water | Overworld |
 | 0768 | [Golisopod](0768-golisopod.md) | Bug / Water | Overworld |
-| 0769 | [Sandygast](0769-sandygast.md) | Ghost / Ground | Overworld |
-| 0770 | [Palossand](0770-palossand.md) | Ghost / Ground | Overworld |
+| 0769 | [Sandygast](0769-sandygast.md) | Ghost / Ground | Overworld, Nether |
+| 0770 | [Palossand](0770-palossand.md) | Ghost / Ground | Overworld, Nether |
 | 0771 | [Pyukumuku](0771-pyukumuku.md) | Water | Overworld |
 | 0772 | [Type: Null](0772-type-null.md) | Normal | Overworld |
 | 0773 | [Silvally](0773-silvally.md) | Normal | Overworld |

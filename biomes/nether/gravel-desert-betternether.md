@@ -4,39 +4,43 @@
 
 Groups: Nether wastes
 
-## Common (6)
+## Common (8)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
-| 0218 | [Slugma](../../pokemon/gen-2/0218-slugma.md) | any time; lava |
+| 0041 | [Zubat](../../pokemon/gen-1/0041-zubat.md) | any time |
+| 0109 | [Koffing](../../pokemon/gen-1/0109-koffing.md) | any time |
+| 0218 | [Slugma](../../pokemon/gen-2/0218-slugma.md) | lava |
 | 0228 | [Houndour](../../pokemon/gen-2/0228-houndour.md) | any time |
 | 0322 | [Numel](../../pokemon/gen-3/0322-numel.md) | any time |
-| 0554 | [Darumaka](../../pokemon/gen-5/0554-darumaka.md) | any time |
-| 0837 | [Rolycoly](../../pokemon/gen-8/0837-rolycoly.md) | any time |
+| 0551 | [Sandile](../../pokemon/gen-5/0551-sandile.md) | any time |
+| 0607 | [Litwick](../../pokemon/gen-5/0607-litwick.md) | any time |
 | 0850 | [Sizzlipede](../../pokemon/gen-8/0850-sizzlipede.md) | any time |
 
-## Uncommon (8)
+## Uncommon (10)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
+| 0042 | [Golbat](../../pokemon/gen-1/0042-golbat.md) | any time |
+| 0110 | [Weezing](../../pokemon/gen-1/0110-weezing.md) | any time |
 | 0126 | [Magmar](../../pokemon/gen-1/0126-magmar.md) | any time |
-| 0219 | [Magcargo](../../pokemon/gen-2/0219-magcargo.md) | any time; lava |
+| 0219 | [Magcargo](../../pokemon/gen-2/0219-magcargo.md) | lava |
 | 0229 | [Houndoom](../../pokemon/gen-2/0229-houndoom.md) | any time |
 | 0323 | [Camerupt](../../pokemon/gen-3/0323-camerupt.md) | any time |
-| 0324 | [Torkoal](../../pokemon/gen-3/0324-torkoal.md) | any time |
+| 0552 | [Krokorok](../../pokemon/gen-5/0552-krokorok.md) | any time |
+| 0608 | [Lampent](../../pokemon/gen-5/0608-lampent.md) | any time |
 | 0631 | [Heatmor](../../pokemon/gen-5/0631-heatmor.md) | any time |
-| 0632 | [Durant](../../pokemon/gen-5/0632-durant.md) | any time |
 | 0851 | [Centiskorch](../../pokemon/gen-8/0851-centiskorch.md) | any time |
 
 ## Rare (5)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
+| 0169 | [Crobat](../../pokemon/gen-2/0169-crobat.md) | any time |
 | 0467 | [Magmortar](../../pokemon/gen-4/0467-magmortar.md) | any time |
+| 0553 | [Krookodile](../../pokemon/gen-5/0553-krookodile.md) | any time |
 | 0555 | [Darmanitan](../../pokemon/gen-5/0555-darmanitan.md) | any time |
-| 0758 | [Salazzle](../../pokemon/gen-7/0758-salazzle.md) | any time |
-| 0839 | [Coalossal](../../pokemon/gen-8/0839-coalossal.md) | any time |
-| 0936 | [Armarouge](../../pokemon/gen-9/0936-armarouge.md) | any time |
+| 0609 | [Chandelure](../../pokemon/gen-5/0609-chandelure.md) | any time |
 
 ## Ultra rare (3)
 

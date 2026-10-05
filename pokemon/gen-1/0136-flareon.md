@@ -4,14 +4,6 @@
 
 ## Overworld
 
-### Uncommon — near builds · Lv 25-43
-
-All Overworld biomes.
-
-### Uncommon — villages · Lv 30-51
-
-All Overworld biomes.
-
 ### Ultra rare — any time · Lv 25-43
 
 Biome groups: Badlands, Desert

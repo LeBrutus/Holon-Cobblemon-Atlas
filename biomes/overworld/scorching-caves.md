@@ -4,7 +4,7 @@
 
 Groups: Cave, Hot desert, Thermal, Volcanic
 
-## Common (130)
+## Common (132)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -104,6 +104,8 @@ Groups: Cave, Hot desert, Thermal, Volcanic
 | 0604 | [Eelektross](../../pokemon/gen-5/0604-eelektross.md) | rain, underground |
 | 0605 | [Elgyem](../../pokemon/gen-5/0605-elgyem.md) | any time |
 | 0606 | [Beheeyem](../../pokemon/gen-5/0606-beheeyem.md) | any time |
+| 0662 | [Fletchinder](../../pokemon/gen-6/0662-fletchinder.md) | any time |
+| 0663 | [Talonflame](../../pokemon/gen-6/0663-talonflame.md) | any time |
 | 0666 | [Vivillon](../../pokemon/gen-6/0666-vivillon.md) | near builds; villages |
 | 0676 | [Furfrou](../../pokemon/gen-6/0676-furfrou.md) | near builds; villages |
 | 0677 | [Espurr](../../pokemon/gen-6/0677-espurr.md) | near builds; villages |
@@ -139,7 +141,7 @@ Groups: Cave, Hot desert, Thermal, Volcanic
 | 0969 | [Glimmet](../../pokemon/gen-9/0969-glimmet.md) | underground |
 | 0970 | [Glimmora](../../pokemon/gen-9/0970-glimmora.md) | underground |
 
-## Uncommon (83)
+## Uncommon (80)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -147,8 +149,6 @@ Groups: Cave, Hot desert, Thermal, Volcanic
 | 0020 | [Raticate](../../pokemon/gen-1/0020-raticate.md) | Alolan form, underground; underground |
 | 0041 | [Zubat](../../pokemon/gen-1/0041-zubat.md) | underground |
 | 0042 | [Golbat](../../pokemon/gen-1/0042-golbat.md) | underground |
-| 0058 | [Growlithe](../../pokemon/gen-1/0058-growlithe.md) | near builds |
-| 0059 | [Arcanine](../../pokemon/gen-1/0059-arcanine.md) | near builds |
 | 0072 | [Tentacool](../../pokemon/gen-1/0072-tentacool.md) | underground, water |
 | 0073 | [Tentacruel](../../pokemon/gen-1/0073-tentacruel.md) | underground, water |
 | 0081 | [Magnemite](../../pokemon/gen-1/0081-magnemite.md) | any time |
@@ -166,7 +166,6 @@ Groups: Cave, Hot desert, Thermal, Volcanic
 | 0133 | [Eevee](../../pokemon/gen-1/0133-eevee.md) | villages |
 | 0134 | [Vaporeon](../../pokemon/gen-1/0134-vaporeon.md) | near builds; villages |
 | 0135 | [Jolteon](../../pokemon/gen-1/0135-jolteon.md) | near builds; villages |
-| 0136 | [Flareon](../../pokemon/gen-1/0136-flareon.md) | near builds; villages |
 | 0137 | [Porygon](../../pokemon/gen-1/0137-porygon.md) | any time |
 | 0143 | [Snorlax](../../pokemon/gen-1/0143-snorlax.md) | any time |
 | 0169 | [Crobat](../../pokemon/gen-2/0169-crobat.md) | underground |
@@ -181,7 +180,6 @@ Groups: Cave, Hot desert, Thermal, Volcanic
 | 0233 | [Porygon2](../../pokemon/gen-2/0233-porygon2.md) | any time |
 | 0299 | [Nosepass](../../pokemon/gen-3/0299-nosepass.md) | underground |
 | 0301 | [Delcatty](../../pokemon/gen-3/0301-delcatty.md) | villages |
-| 0324 | [Torkoal](../../pokemon/gen-3/0324-torkoal.md) | underground |
 | 0333 | [Swablu](../../pokemon/gen-3/0333-swablu.md) | any time |
 | 0334 | [Altaria](../../pokemon/gen-3/0334-altaria.md) | any time |
 | 0339 | [Barboach](../../pokemon/gen-3/0339-barboach.md) | rain, underground, water |
@@ -208,11 +206,12 @@ Groups: Cave, Hot desert, Thermal, Volcanic
 | 0578 | [Duosion](../../pokemon/gen-5/0578-duosion.md) | any time |
 | 0579 | [Reuniclus](../../pokemon/gen-5/0579-reuniclus.md) | any time |
 | 0602 | [Tynamo](../../pokemon/gen-5/0602-tynamo.md) | rain, underground |
+| 0607 | [Litwick](../../pokemon/gen-5/0607-litwick.md) | night |
 | 0700 | [Sylveon](../../pokemon/gen-6/0700-sylveon.md) | near builds; villages |
 | 0707 | [Klefki](../../pokemon/gen-6/0707-klefki.md) | near builds; villages |
 | 0767 | [Wimpod](../../pokemon/gen-7/0767-wimpod.md) | underground |
 | 0768 | [Golisopod](../../pokemon/gen-7/0768-golisopod.md) | underground |
-| 0838 | [Carkol](../../pokemon/gen-8/0838-carkol.md) | underground |
+| 0838 | [Carkol](../../pokemon/gen-8/0838-carkol.md) | any time |
 | 0845 | [Cramorant](../../pokemon/gen-8/0845-cramorant.md) | any time |
 | 0848 | [Toxel](../../pokemon/gen-8/0848-toxel.md) | any time; underground |
 | 0849 | [Toxtricity](../../pokemon/gen-8/0849-toxtricity.md) | underground |
@@ -227,7 +226,7 @@ Groups: Cave, Hot desert, Thermal, Volcanic
 | 1012 | [Poltchageist](../../pokemon/gen-9/1012-poltchageist.md) | underground, villages; villages |
 | 1013 | [Sinistcha](../../pokemon/gen-9/1013-sinistcha.md) | underground, villages; villages |
 
-## Rare (32)
+## Rare (33)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -254,17 +253,18 @@ Groups: Cave, Hot desert, Thermal, Volcanic
 | 0602 | [Tynamo](../../pokemon/gen-5/0602-tynamo.md) | rain, underground, water |
 | 0603 | [Eelektrik](../../pokemon/gen-5/0603-eelektrik.md) | rain, underground; rain, underground, water |
 | 0604 | [Eelektross](../../pokemon/gen-5/0604-eelektross.md) | rain, underground; rain, underground, water |
+| 0608 | [Lampent](../../pokemon/gen-5/0608-lampent.md) | night |
 | 0621 | [Druddigon](../../pokemon/gen-5/0621-druddigon.md) | underground |
 | 0636 | [Larvesta](../../pokemon/gen-5/0636-larvesta.md) | any time |
 | 0714 | [Noibat](../../pokemon/gen-6/0714-noibat.md) | underground |
 | 0715 | [Noivern](../../pokemon/gen-6/0715-noivern.md) | underground |
 | 0764 | [Comfey](../../pokemon/gen-7/0764-comfey.md) | any time |
 | 0774 | [Minior](../../pokemon/gen-7/0774-minior.md) | any time |
-| 0839 | [Coalossal](../../pokemon/gen-8/0839-coalossal.md) | underground |
+| 0839 | [Coalossal](../../pokemon/gen-8/0839-coalossal.md) | any time |
 | 0884 | [Duraludon](../../pokemon/gen-8/0884-duraludon.md) | any time |
 | 0935 | [Charcadet](../../pokemon/gen-9/0935-charcadet.md) | any time |
 
-## Ultra rare (33)
+## Ultra rare (55)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -277,13 +277,27 @@ Groups: Cave, Hot desert, Thermal, Volcanic
 | 0148 | [Dragonair](../../pokemon/gen-1/0148-dragonair.md) | underground; underground, water |
 | 0149 | [Dragonite](../../pokemon/gen-1/0149-dragonite.md) | underground |
 | 0150 | [Mewtwo](../../pokemon/gen-1/0150-mewtwo.md) | underground |
+| 0155 | [Cyndaquil](../../pokemon/gen-2/0155-cyndaquil.md) | any time |
+| 0156 | [Quilava](../../pokemon/gen-2/0156-quilava.md) | any time |
+| 0157 | [Typhlosion](../../pokemon/gen-2/0157-typhlosion.md) | any time |
 | 0244 | [Entei](../../pokemon/gen-2/0244-entei.md) | any time |
+| 0250 | [Ho-Oh](../../pokemon/gen-2/0250-ho-oh.md) | any time |
+| 0255 | [Torchic](../../pokemon/gen-3/0255-torchic.md) | any time |
+| 0256 | [Combusken](../../pokemon/gen-3/0256-combusken.md) | any time |
+| 0257 | [Blaziken](../../pokemon/gen-3/0257-blaziken.md) | any time |
 | 0380 | [Latias](../../pokemon/gen-3/0380-latias.md) | any time |
 | 0381 | [Latios](../../pokemon/gen-3/0381-latios.md) | any time |
 | 0383 | [Groudon](../../pokemon/gen-3/0383-groudon.md) | any time |
+| 0390 | [Chimchar](../../pokemon/gen-4/0390-chimchar.md) | any time |
+| 0391 | [Monferno](../../pokemon/gen-4/0391-monferno.md) | any time |
+| 0392 | [Infernape](../../pokemon/gen-4/0392-infernape.md) | any time |
 | 0408 | [Cranidos](../../pokemon/gen-4/0408-cranidos.md) | any time |
 | 0485 | [Heatran](../../pokemon/gen-4/0485-heatran.md) | any time |
 | 0494 | [Victini](../../pokemon/gen-5/0494-victini.md) | any time |
+| 0498 | [Tepig](../../pokemon/gen-5/0498-tepig.md) | any time |
+| 0499 | [Pignite](../../pokemon/gen-5/0499-pignite.md) | any time |
+| 0500 | [Emboar](../../pokemon/gen-5/0500-emboar.md) | any time |
+| 0609 | [Chandelure](../../pokemon/gen-5/0609-chandelure.md) | night |
 | 0634 | [Zweilous](../../pokemon/gen-5/0634-zweilous.md) | underground |
 | 0635 | [Hydreigon](../../pokemon/gen-5/0635-hydreigon.md) | underground |
 | 0637 | [Volcarona](../../pokemon/gen-5/0637-volcarona.md) | any time |
@@ -293,11 +307,19 @@ Groups: Cave, Hot desert, Thermal, Volcanic
 | 0706 | [Goodra](../../pokemon/gen-6/0706-goodra.md) | Hisuian form, underground; any time |
 | 0718 | [Zygarde](../../pokemon/gen-6/0718-zygarde.md) | underground |
 | 0719 | [Diancie](../../pokemon/gen-6/0719-diancie.md) | any time |
-| 0721 | [Volcanion](../../pokemon/gen-6/0721-volcanion.md) | any time; underground |
+| 0721 | [Volcanion](../../pokemon/gen-6/0721-volcanion.md) | any time |
+| 0725 | [Litten](../../pokemon/gen-7/0725-litten.md) | any time |
+| 0726 | [Torracat](../../pokemon/gen-7/0726-torracat.md) | any time |
+| 0727 | [Incineroar](../../pokemon/gen-7/0727-incineroar.md) | any time |
 | 0791 | [Solgaleo](../../pokemon/gen-7/0791-solgaleo.md) | any time |
 | 0808 | [Meltan](../../pokemon/gen-7/0808-meltan.md) | underground |
+| 0813 | [Scorbunny](../../pokemon/gen-8/0813-scorbunny.md) | any time |
+| 0814 | [Raboot](../../pokemon/gen-8/0814-raboot.md) | any time |
+| 0815 | [Cinderace](../../pokemon/gen-8/0815-cinderace.md) | any time |
 | 0936 | [Armarouge](../../pokemon/gen-9/0936-armarouge.md) | any time |
+| 0937 | [Ceruledge](../../pokemon/gen-9/0937-ceruledge.md) | night |
 | 0990 | [Iron Treads](../../pokemon/gen-9/0990-iron-treads.md) | any time |
+| 0994 | [Iron Moth](../../pokemon/gen-9/0994-iron-moth.md) | any time |
 | 1000 | [Gholdengo](../../pokemon/gen-9/1000-gholdengo.md) | underground |
 | 1004 | [Chi-Yu](../../pokemon/gen-9/1004-chi-yu.md) | any time |
 | 1005 | [Roaring Moon](../../pokemon/gen-9/1005-roaring-moon.md) | any time |

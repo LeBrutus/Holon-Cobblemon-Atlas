@@ -4,7 +4,7 @@
 
 Groups: Cherry blossom, Floral, Forest, Highlands, Sengoku early-spring lands, Sengoku sakura groves, Temperate
 
-## Common (236)
+## Common (234)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -182,8 +182,6 @@ Groups: Cherry blossom, Floral, Forest, Highlands, Sengoku early-spring lands, S
 | 0606 | [Beheeyem](../../pokemon/gen-5/0606-beheeyem.md) | any time |
 | 0659 | [Bunnelby](../../pokemon/gen-6/0659-bunnelby.md) | any time |
 | 0661 | [Fletchling](../../pokemon/gen-6/0661-fletchling.md) | any time |
-| 0662 | [Fletchinder](../../pokemon/gen-6/0662-fletchinder.md) | any time |
-| 0663 | [Talonflame](../../pokemon/gen-6/0663-talonflame.md) | any time |
 | 0664 | [Scatterbug](../../pokemon/gen-6/0664-scatterbug.md) | any time |
 | 0665 | [Spewpa](../../pokemon/gen-6/0665-spewpa.md) | any time |
 | 0666 | [Vivillon](../../pokemon/gen-6/0666-vivillon.md) | any time; near builds; villages |
@@ -245,7 +243,7 @@ Groups: Cherry blossom, Floral, Forest, Highlands, Sengoku early-spring lands, S
 | 0969 | [Glimmet](../../pokemon/gen-9/0969-glimmet.md) | underground |
 | 0970 | [Glimmora](../../pokemon/gen-9/0970-glimmora.md) | underground |
 
-## Uncommon (114)
+## Uncommon (107)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -253,12 +251,8 @@ Groups: Cherry blossom, Floral, Forest, Highlands, Sengoku early-spring lands, S
 | 0020 | [Raticate](../../pokemon/gen-1/0020-raticate.md) | Alolan form, underground; underground |
 | 0025 | [Pikachu](../../pokemon/gen-1/0025-pikachu.md) | any time |
 | 0026 | [Raichu](../../pokemon/gen-1/0026-raichu.md) | any time |
-| 0037 | [Vulpix](../../pokemon/gen-1/0037-vulpix.md) | any time |
-| 0038 | [Ninetales](../../pokemon/gen-1/0038-ninetales.md) | any time |
 | 0041 | [Zubat](../../pokemon/gen-1/0041-zubat.md) | underground |
 | 0042 | [Golbat](../../pokemon/gen-1/0042-golbat.md) | underground |
-| 0058 | [Growlithe](../../pokemon/gen-1/0058-growlithe.md) | near builds |
-| 0059 | [Arcanine](../../pokemon/gen-1/0059-arcanine.md) | near builds |
 | 0072 | [Tentacool](../../pokemon/gen-1/0072-tentacool.md) | underground, water |
 | 0073 | [Tentacruel](../../pokemon/gen-1/0073-tentacruel.md) | underground, water |
 | 0077 | [Ponyta](../../pokemon/gen-1/0077-ponyta.md) | Galarian form |
@@ -278,7 +272,6 @@ Groups: Cherry blossom, Floral, Forest, Highlands, Sengoku early-spring lands, S
 | 0133 | [Eevee](../../pokemon/gen-1/0133-eevee.md) | villages |
 | 0134 | [Vaporeon](../../pokemon/gen-1/0134-vaporeon.md) | near builds; villages |
 | 0135 | [Jolteon](../../pokemon/gen-1/0135-jolteon.md) | near builds; villages |
-| 0136 | [Flareon](../../pokemon/gen-1/0136-flareon.md) | near builds; villages |
 | 0137 | [Porygon](../../pokemon/gen-1/0137-porygon.md) | any time |
 | 0143 | [Snorlax](../../pokemon/gen-1/0143-snorlax.md) | any time |
 | 0169 | [Crobat](../../pokemon/gen-2/0169-crobat.md) | underground |
@@ -297,7 +290,6 @@ Groups: Cherry blossom, Floral, Forest, Highlands, Sengoku early-spring lands, S
 | 0299 | [Nosepass](../../pokemon/gen-3/0299-nosepass.md) | underground |
 | 0300 | [Skitty](../../pokemon/gen-3/0300-skitty.md) | any time |
 | 0301 | [Delcatty](../../pokemon/gen-3/0301-delcatty.md) | any time; villages |
-| 0324 | [Torkoal](../../pokemon/gen-3/0324-torkoal.md) | underground |
 | 0333 | [Swablu](../../pokemon/gen-3/0333-swablu.md) | any time |
 | 0334 | [Altaria](../../pokemon/gen-3/0334-altaria.md) | any time |
 | 0339 | [Barboach](../../pokemon/gen-3/0339-barboach.md) | rain, underground, water |
@@ -345,7 +337,6 @@ Groups: Cherry blossom, Floral, Forest, Highlands, Sengoku early-spring lands, S
 | 0768 | [Golisopod](../../pokemon/gen-7/0768-golisopod.md) | underground |
 | 0820 | [Greedent](../../pokemon/gen-8/0820-greedent.md) | any time |
 | 0825 | [Dottler](../../pokemon/gen-8/0825-dottler.md) | any time |
-| 0838 | [Carkol](../../pokemon/gen-8/0838-carkol.md) | underground |
 | 0840 | [Applin](../../pokemon/gen-8/0840-applin.md) | any time |
 | 0845 | [Cramorant](../../pokemon/gen-8/0845-cramorant.md) | any time |
 | 0848 | [Toxel](../../pokemon/gen-8/0848-toxel.md) | any time; underground |
@@ -364,7 +355,7 @@ Groups: Cherry blossom, Floral, Forest, Highlands, Sengoku early-spring lands, S
 | 1012 | [Poltchageist](../../pokemon/gen-9/1012-poltchageist.md) | underground, villages; villages |
 | 1013 | [Sinistcha](../../pokemon/gen-9/1013-sinistcha.md) | underground, villages; villages |
 
-## Rare (50)
+## Rare (49)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -408,7 +399,6 @@ Groups: Cherry blossom, Floral, Forest, Highlands, Sengoku early-spring lands, S
 | 0764 | [Comfey](../../pokemon/gen-7/0764-comfey.md) | any time |
 | 0774 | [Minior](../../pokemon/gen-7/0774-minior.md) | any time |
 | 0826 | [Orbeetle](../../pokemon/gen-8/0826-orbeetle.md) | any time |
-| 0839 | [Coalossal](../../pokemon/gen-8/0839-coalossal.md) | underground |
 | 0840 | [Applin](../../pokemon/gen-8/0840-applin.md) | any time |
 | 0841 | [Flapple](../../pokemon/gen-8/0841-flapple.md) | any time |
 | 0842 | [Appletun](../../pokemon/gen-8/0842-appletun.md) | any time |
@@ -419,7 +409,7 @@ Groups: Cherry blossom, Floral, Forest, Highlands, Sengoku early-spring lands, S
 | 0978 | [Tatsugiri](../../pokemon/gen-9/0978-tatsugiri.md) | underground |
 | 1011 | [Dipplin](../../pokemon/gen-9/1011-dipplin.md) | any time |
 
-## Ultra rare (63)
+## Ultra rare (59)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
@@ -436,9 +426,6 @@ Groups: Cherry blossom, Floral, Forest, Highlands, Sengoku early-spring lands, S
 | 0152 | [Chikorita](../../pokemon/gen-2/0152-chikorita.md) | any time |
 | 0153 | [Bayleef](../../pokemon/gen-2/0153-bayleef.md) | any time |
 | 0154 | [Meganium](../../pokemon/gen-2/0154-meganium.md) | any time |
-| 0155 | [Cyndaquil](../../pokemon/gen-2/0155-cyndaquil.md) | any time |
-| 0156 | [Quilava](../../pokemon/gen-2/0156-quilava.md) | any time |
-| 0157 | [Typhlosion](../../pokemon/gen-2/0157-typhlosion.md) | any time |
 | 0251 | [Celebi](../../pokemon/gen-2/0251-celebi.md) | any time |
 | 0258 | [Mudkip](../../pokemon/gen-3/0258-mudkip.md) | any time |
 | 0259 | [Marshtomp](../../pokemon/gen-3/0259-marshtomp.md) | any time |
@@ -466,7 +453,6 @@ Groups: Cherry blossom, Floral, Forest, Highlands, Sengoku early-spring lands, S
 | 0706 | [Goodra](../../pokemon/gen-6/0706-goodra.md) | Hisuian form, underground; any time |
 | 0716 | [Xerneas](../../pokemon/gen-6/0716-xerneas.md) | any time |
 | 0718 | [Zygarde](../../pokemon/gen-6/0718-zygarde.md) | underground |
-| 0721 | [Volcanion](../../pokemon/gen-6/0721-volcanion.md) | underground |
 | 0722 | [Rowlet](../../pokemon/gen-7/0722-rowlet.md) | any time |
 | 0723 | [Dartrix](../../pokemon/gen-7/0723-dartrix.md) | any time |
 | 0724 | [Decidueye](../../pokemon/gen-7/0724-decidueye.md) | any time |
