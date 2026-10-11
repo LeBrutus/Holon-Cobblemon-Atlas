@@ -28,6 +28,18 @@ Biome groups: Tropical islands
 
 [Mirage Isles](../../biomes/overworld/mirage-isles.md), [Mushroom Fields](../../biomes/overworld/mushroom-fields.md), [Tropics](../../biomes/overworld/tropics.md)
 
+### Alpha — with an alpha · Lv 35-100
+
+Biome groups: Beach
+
+[Beach](../../biomes/overworld/beach.md), [Grassy Beach](../../biomes/overworld/grassy-beach.md), [Gravel Beach (RU)](../../biomes/overworld/gravel-beach-ru.md), [Gravel Beach (Terralith)](../../biomes/overworld/gravel-beach-terralith.md), [Snowy Beach](../../biomes/overworld/snowy-beach.md)
+
+### Alpha — Galarian form, with an alpha · Lv 35-100
+
+Biome groups: Tropical islands
+
+[Mirage Isles](../../biomes/overworld/mirage-isles.md), [Mushroom Fields](../../biomes/overworld/mushroom-fields.md), [Tropics](../../biomes/overworld/tropics.md)
+
 ## End
 
 ### Rare — any time · Lv 35-48

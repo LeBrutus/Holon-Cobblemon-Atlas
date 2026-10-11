@@ -29,3 +29,11 @@ Biome groups: Nether wastes
 Biome groups: Soul sand valleys
 
 [Bone Reef](../../biomes/nether/bone-reef.md), [Soul Plain](../../biomes/nether/soul-plain.md), [Soul Sand Valley](../../biomes/nether/soul-sand-valley.md), [Sulfuric Bone Reef](../../biomes/nether/sulfuric-bone-reef.md)
+
+### Common — herd · Lv 3-28
+
+Biome groups: Soul fire
+
+### Alpha — with an alpha · Lv 39-100
+
+Biome groups: Soul fire

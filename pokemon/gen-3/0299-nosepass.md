@@ -8,6 +8,10 @@
 
 All Overworld biomes.
 
+### Alpha — with an alpha, underground, not in deep dark · Lv 31-100
+
+All Overworld biomes.
+
 ## End
 
 ### Common — any time · Lv 35-45

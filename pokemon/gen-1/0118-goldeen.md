@@ -34,6 +34,30 @@ Biome groups: Sengoku rivers
 
 [Autumnal River](../../biomes/overworld/autumnal-river.md), [Marshlands](../../biomes/overworld/marshlands.md), [Sengoku Frozen River](../../biomes/overworld/sengoku-frozen-river.md), [Sengoku River](../../biomes/overworld/sengoku-river.md)
 
+### Common — herd, water · Lv 7-45
+
+Biome groups: River
+
+[Autumnal River](../../biomes/overworld/autumnal-river.md), [Cold River](../../biomes/overworld/cold-river.md), [Frozen River](../../biomes/overworld/frozen-river.md), [Muddy River](../../biomes/overworld/muddy-river.md), [River](../../biomes/overworld/river.md), [Sengoku Frozen River](../../biomes/overworld/sengoku-frozen-river.md), [Sengoku River](../../biomes/overworld/sengoku-river.md), [Stream](../../biomes/overworld/stream.md), [Tropical River](../../biomes/overworld/tropical-river.md), [Warm River](../../biomes/overworld/warm-river.md)
+
+### Common — herd, underground, water · Lv 7-45
+
+Biome groups: River
+
+[Autumnal River](../../biomes/overworld/autumnal-river.md), [Cold River](../../biomes/overworld/cold-river.md), [Frozen River](../../biomes/overworld/frozen-river.md), [Muddy River](../../biomes/overworld/muddy-river.md), [River](../../biomes/overworld/river.md), [Sengoku Frozen River](../../biomes/overworld/sengoku-frozen-river.md), [Sengoku River](../../biomes/overworld/sengoku-river.md), [Stream](../../biomes/overworld/stream.md), [Tropical River](../../biomes/overworld/tropical-river.md), [Warm River](../../biomes/overworld/warm-river.md)
+
+### Alpha — with an alpha, water · Lv 31-100
+
+Biome groups: River
+
+[Autumnal River](../../biomes/overworld/autumnal-river.md), [Cold River](../../biomes/overworld/cold-river.md), [Frozen River](../../biomes/overworld/frozen-river.md), [Muddy River](../../biomes/overworld/muddy-river.md), [River](../../biomes/overworld/river.md), [Sengoku Frozen River](../../biomes/overworld/sengoku-frozen-river.md), [Sengoku River](../../biomes/overworld/sengoku-river.md), [Stream](../../biomes/overworld/stream.md), [Tropical River](../../biomes/overworld/tropical-river.md), [Warm River](../../biomes/overworld/warm-river.md)
+
+### Alpha — with an alpha, underground, water · Lv 31-100
+
+Biome groups: River
+
+[Autumnal River](../../biomes/overworld/autumnal-river.md), [Cold River](../../biomes/overworld/cold-river.md), [Frozen River](../../biomes/overworld/frozen-river.md), [Muddy River](../../biomes/overworld/muddy-river.md), [River](../../biomes/overworld/river.md), [Sengoku Frozen River](../../biomes/overworld/sengoku-frozen-river.md), [Sengoku River](../../biomes/overworld/sengoku-river.md), [Stream](../../biomes/overworld/stream.md), [Tropical River](../../biomes/overworld/tropical-river.md), [Warm River](../../biomes/overworld/warm-river.md)
+
 ## Aether
 
 ### Common — water · Lv 25-37

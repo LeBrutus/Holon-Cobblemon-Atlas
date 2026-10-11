@@ -22,6 +22,42 @@ Biome groups: Frozen ocean
 
 [Deep Frozen Ocean](../../biomes/overworld/deep-frozen-ocean.md), [Frozen Ocean](../../biomes/overworld/frozen-ocean.md)
 
+### Common — herd · Lv 5-51
+
+Biome groups: Frozen ocean
+
+[Deep Frozen Ocean](../../biomes/overworld/deep-frozen-ocean.md), [Frozen Ocean](../../biomes/overworld/frozen-ocean.md)
+
+### Common — herd, water · Lv 5-51
+
+Biome groups: Frozen ocean
+
+[Deep Frozen Ocean](../../biomes/overworld/deep-frozen-ocean.md), [Frozen Ocean](../../biomes/overworld/frozen-ocean.md)
+
+### Common — herd, not in frozen ocean · Lv 5-51
+
+Biome groups: Glacial
+
+[Frozen Cliffs](../../biomes/overworld/frozen-cliffs.md), [Frozen Peaks](../../biomes/overworld/frozen-peaks.md), [Glacial Chasm](../../biomes/overworld/glacial-chasm.md), [Ice Spikes](../../biomes/overworld/ice-spikes.md), [Icy Heights](../../biomes/overworld/icy-heights.md), [Spires](../../biomes/overworld/spires.md)
+
+### Alpha — with an alpha · Lv 35-100
+
+Biome groups: Frozen ocean
+
+[Deep Frozen Ocean](../../biomes/overworld/deep-frozen-ocean.md), [Frozen Ocean](../../biomes/overworld/frozen-ocean.md)
+
+### Alpha — with an alpha, water · Lv 35-100
+
+Biome groups: Frozen ocean
+
+[Deep Frozen Ocean](../../biomes/overworld/deep-frozen-ocean.md), [Frozen Ocean](../../biomes/overworld/frozen-ocean.md)
+
+### Alpha — with an alpha · Lv 35-100
+
+Biome groups: Glacial
+
+[Frozen Cliffs](../../biomes/overworld/frozen-cliffs.md), [Frozen Peaks](../../biomes/overworld/frozen-peaks.md), [Glacial Chasm](../../biomes/overworld/glacial-chasm.md), [Ice Spikes](../../biomes/overworld/ice-spikes.md), [Icy Heights](../../biomes/overworld/icy-heights.md), [Spires](../../biomes/overworld/spires.md)
+
 ## End
 
 ### Common — any time · Lv 35-45

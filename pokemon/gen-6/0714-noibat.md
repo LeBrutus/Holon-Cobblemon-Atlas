@@ -10,7 +10,27 @@ Biome groups: Deep Dark
 
 [Deep Dark](../../biomes/overworld/deep-dark.md)
 
+### Uncommon — herd, underground · Lv 1-54
+
+Biome groups: Deep Dark
+
+[Deep Dark](../../biomes/overworld/deep-dark.md)
+
 ### Rare — underground, not in deep dark · Lv 36-52
+
+All Overworld biomes.
+
+### Rare — herd, underground, not in deep dark · Lv 1-54
+
+All Overworld biomes.
+
+### Alpha — with an alpha, underground · Lv 46-100
+
+Biome groups: Deep Dark
+
+[Deep Dark](../../biomes/overworld/deep-dark.md)
+
+### Alpha — with an alpha, underground, not in deep dark · Lv 46-100
 
 All Overworld biomes.
 

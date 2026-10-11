@@ -20,6 +20,26 @@ Biome groups: Suisho caves
 
 [Suisho Caves](../../biomes/overworld/suisho-caves.md)
 
+### Alpha — alpha, underground, not in deep dark · Lv 32-100
+
+All Overworld biomes.
+
+### Alpha — with an alpha, underground, not in deep dark · Lv 32-100
+
+All Overworld biomes.
+
+### Alpha — alpha, underground · Lv 32-100
+
+Biome groups: Deep Dark
+
+[Deep Dark](../../biomes/overworld/deep-dark.md)
+
+### Alpha — with an alpha, underground · Lv 32-100
+
+Biome groups: Deep Dark
+
+[Deep Dark](../../biomes/overworld/deep-dark.md)
+
 ## End
 
 ### Rare — any time · Lv 35-52

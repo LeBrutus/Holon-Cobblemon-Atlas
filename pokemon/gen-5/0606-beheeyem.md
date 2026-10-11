@@ -8,6 +8,18 @@
 
 All Overworld biomes.
 
+### Common — herd, night · Lv 9-49
+
+All Overworld biomes.
+
+### Alpha — alpha, night · Lv 40-100
+
+All Overworld biomes.
+
+### Alpha — with an alpha, night · Lv 40-100
+
+All Overworld biomes.
+
 ## End
 
 ### Uncommon — any time · Lv 42-60
@@ -27,3 +39,15 @@ Biome groups: End barrens
 Biome groups: End highlands
 
 [End Highlands](../../biomes/end/end-highlands.md), [End Midlands](../../biomes/end/end-midlands.md)
+
+### Uncommon — herd · Lv 9-49
+
+All End biomes.
+
+### Alpha — alpha · Lv 40-100
+
+All End biomes.
+
+### Alpha — with an alpha · Lv 40-100
+
+All End biomes.

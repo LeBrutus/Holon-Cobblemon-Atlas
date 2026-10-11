@@ -4,14 +4,19 @@
 
 Groups: Nether wastes
 
-## Common (8)
+## Common (13)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
 | 0041 | [Zubat](../../pokemon/gen-1/0041-zubat.md) | any time |
+| 0092 | [Gastly](../../pokemon/gen-1/0092-gastly.md) | herd |
+| 0093 | [Haunter](../../pokemon/gen-1/0093-haunter.md) | herd |
+| 0094 | [Gengar](../../pokemon/gen-1/0094-gengar.md) | herd |
 | 0109 | [Koffing](../../pokemon/gen-1/0109-koffing.md) | any time |
-| 0218 | [Slugma](../../pokemon/gen-2/0218-slugma.md) | lava |
-| 0228 | [Houndour](../../pokemon/gen-2/0228-houndour.md) | any time |
+| 0218 | [Slugma](../../pokemon/gen-2/0218-slugma.md) | herd, water, lava; lava |
+| 0219 | [Magcargo](../../pokemon/gen-2/0219-magcargo.md) | herd, water, lava |
+| 0228 | [Houndour](../../pokemon/gen-2/0228-houndour.md) | any time; herd |
+| 0229 | [Houndoom](../../pokemon/gen-2/0229-houndoom.md) | herd |
 | 0322 | [Numel](../../pokemon/gen-3/0322-numel.md) | any time |
 | 0551 | [Sandile](../../pokemon/gen-5/0551-sandile.md) | any time |
 | 0607 | [Litwick](../../pokemon/gen-5/0607-litwick.md) | any time |
@@ -49,3 +54,17 @@ Groups: Nether wastes
 | 0244 | [Entei](../../pokemon/gen-2/0244-entei.md) | any time |
 | 0485 | [Heatran](../../pokemon/gen-4/0485-heatran.md) | any time; lava |
 | 0806 | [Blacephalon](../../pokemon/gen-7/0806-blacephalon.md) | any time |
+
+## Alpha (9)
+
+| No. | Pokémon | Conditions |
+| --- | --- | --- |
+| 0092 | [Gastly](../../pokemon/gen-1/0092-gastly.md) | with an alpha |
+| 0093 | [Haunter](../../pokemon/gen-1/0093-haunter.md) | with an alpha |
+| 0094 | [Gengar](../../pokemon/gen-1/0094-gengar.md) | alpha; with an alpha |
+| 0218 | [Slugma](../../pokemon/gen-2/0218-slugma.md) | with an alpha, water, lava |
+| 0219 | [Magcargo](../../pokemon/gen-2/0219-magcargo.md) | alpha, water, lava; with an alpha, water, lava |
+| 0228 | [Houndour](../../pokemon/gen-2/0228-houndour.md) | with an alpha |
+| 0229 | [Houndoom](../../pokemon/gen-2/0229-houndoom.md) | alpha; with an alpha |
+| 0554 | [Darumaka](../../pokemon/gen-5/0554-darumaka.md) | with an alpha |
+| 0555 | [Darmanitan](../../pokemon/gen-5/0555-darmanitan.md) | alpha; with an alpha |

@@ -16,6 +16,22 @@ All Overworld biomes.
 
 All Overworld biomes.
 
+### Alpha — alpha, night, near builds · Lv 22-100
+
+All Overworld biomes.
+
+### Alpha — with an alpha, night, near builds · Lv 22-100
+
+All Overworld biomes.
+
+### Alpha — alpha, night, villages · Lv 22-100
+
+All Overworld biomes.
+
+### Alpha — with an alpha, night, villages · Lv 22-100
+
+All Overworld biomes.
+
 ## End
 
 ### Uncommon — any time · Lv 35-51

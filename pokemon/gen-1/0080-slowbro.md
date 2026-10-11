@@ -34,6 +34,30 @@ Biome groups: Sengoku hot springs
 
 [Autumnal Hot Springs](../../biomes/overworld/autumnal-hot-springs.md), [Hot Springs](../../biomes/overworld/hot-springs.md), [Snowy Hot Springs](../../biomes/overworld/snowy-hot-springs.md)
 
+### Alpha — alpha · Lv 35-100
+
+Biome groups: Beach
+
+[Beach](../../biomes/overworld/beach.md), [Grassy Beach](../../biomes/overworld/grassy-beach.md), [Gravel Beach (RU)](../../biomes/overworld/gravel-beach-ru.md), [Gravel Beach (Terralith)](../../biomes/overworld/gravel-beach-terralith.md), [Snowy Beach](../../biomes/overworld/snowy-beach.md)
+
+### Alpha — with an alpha · Lv 35-100
+
+Biome groups: Beach
+
+[Beach](../../biomes/overworld/beach.md), [Grassy Beach](../../biomes/overworld/grassy-beach.md), [Gravel Beach (RU)](../../biomes/overworld/gravel-beach-ru.md), [Gravel Beach (Terralith)](../../biomes/overworld/gravel-beach-terralith.md), [Snowy Beach](../../biomes/overworld/snowy-beach.md)
+
+### Alpha — Galarian form, alpha · Lv 35-100
+
+Biome groups: Tropical islands
+
+[Mirage Isles](../../biomes/overworld/mirage-isles.md), [Mushroom Fields](../../biomes/overworld/mushroom-fields.md), [Tropics](../../biomes/overworld/tropics.md)
+
+### Alpha — Galarian form, with an alpha · Lv 35-100
+
+Biome groups: Tropical islands
+
+[Mirage Isles](../../biomes/overworld/mirage-isles.md), [Mushroom Fields](../../biomes/overworld/mushroom-fields.md), [Tropics](../../biomes/overworld/tropics.md)
+
 ## End
 
 ### Uncommon — any time · Lv 37-55

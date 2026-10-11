@@ -18,8 +18,20 @@ Biome groups: Mountain
 
 ## End
 
+### Common — herd · Lv 1-100
+
+All End biomes.
+
 ### Uncommon — any time · Lv 35-100
 
 Biome groups: End barrens
 
 [Dry Shrubland](../../biomes/end/dry-shrubland.md), [Dust Wastelands](../../biomes/end/dust-wastelands.md), [End Barrens](../../biomes/end/end-barrens.md), [Painted Mountains (BetterEnd)](../../biomes/end/painted-mountains-betterend.md), [Small End Islands](../../biomes/end/small-end-islands.md)
+
+### Alpha — alpha · Lv 1-100
+
+All End biomes.
+
+### Alpha — with an alpha · Lv 1-100
+
+All End biomes.

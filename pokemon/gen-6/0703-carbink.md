@@ -8,6 +8,10 @@
 
 All Overworld biomes.
 
+### Common — herd, underground, not in deep dark · Lv 25-50
+
+All Overworld biomes.
+
 ### Rare — any time · Lv 20-80
 
 Biome groups: Suisho caves
@@ -17,6 +21,14 @@ Biome groups: Suisho caves
 ### Ultra rare — any time · Lv 20-29
 
 [Dripstone Caves](../../biomes/overworld/dripstone-caves.md)
+
+### Alpha — alpha, underground, not in deep dark · Lv 23-100
+
+All Overworld biomes.
+
+### Alpha — with an alpha, underground, not in deep dark · Lv 23-100
+
+All Overworld biomes.
 
 ## End
 

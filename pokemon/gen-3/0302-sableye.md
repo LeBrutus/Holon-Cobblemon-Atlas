@@ -20,6 +20,26 @@ Biome groups: Deep Dark
 
 [Deep Dark](../../biomes/overworld/deep-dark.md)
 
+### Alpha — alpha, underground · Lv 11-100
+
+All Overworld biomes.
+
+### Alpha — with an alpha, underground · Lv 11-100
+
+All Overworld biomes.
+
+### Alpha — alpha, underground · Lv 11-100
+
+Biome groups: Deep Dark
+
+[Deep Dark](../../biomes/overworld/deep-dark.md)
+
+### Alpha — with an alpha, underground · Lv 11-100
+
+Biome groups: Deep Dark
+
+[Deep Dark](../../biomes/overworld/deep-dark.md)
+
 ## Nether
 
 ### Common — any time · Lv 20-38

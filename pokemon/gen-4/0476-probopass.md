@@ -8,6 +8,14 @@
 
 All Overworld biomes.
 
+### Alpha — alpha, underground, not in deep dark · Lv 31-100
+
+All Overworld biomes.
+
+### Alpha — with an alpha, underground, not in deep dark · Lv 31-100
+
+All Overworld biomes.
+
 ## End
 
 ### Rare — any time · Lv 35-45

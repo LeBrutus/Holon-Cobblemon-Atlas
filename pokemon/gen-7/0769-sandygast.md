@@ -10,6 +10,18 @@ Biome groups: Beach
 
 [Beach](../../biomes/overworld/beach.md), [Grassy Beach](../../biomes/overworld/grassy-beach.md), [Gravel Beach (RU)](../../biomes/overworld/gravel-beach-ru.md), [Gravel Beach (Terralith)](../../biomes/overworld/gravel-beach-terralith.md), [Snowy Beach](../../biomes/overworld/snowy-beach.md)
 
+### Common — herd, not in freezing · Lv 7-48
+
+Biome groups: Beach
+
+[Beach](../../biomes/overworld/beach.md), [Grassy Beach](../../biomes/overworld/grassy-beach.md), [Gravel Beach (RU)](../../biomes/overworld/gravel-beach-ru.md), [Gravel Beach (Terralith)](../../biomes/overworld/gravel-beach-terralith.md), [Snowy Beach](../../biomes/overworld/snowy-beach.md)
+
+### Alpha — with an alpha, not in freezing · Lv 40-100
+
+Biome groups: Beach
+
+[Beach](../../biomes/overworld/beach.md), [Grassy Beach](../../biomes/overworld/grassy-beach.md), [Gravel Beach (RU)](../../biomes/overworld/gravel-beach-ru.md), [Gravel Beach (Terralith)](../../biomes/overworld/gravel-beach-terralith.md), [Snowy Beach](../../biomes/overworld/snowy-beach.md)
+
 ## Nether
 
 ### Common — any time · Lv 30-46

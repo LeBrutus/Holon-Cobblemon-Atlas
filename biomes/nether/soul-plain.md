@@ -4,12 +4,18 @@
 
 Groups: Soul sand valleys
 
-## Common (8)
+## Common (14)
 
 | No. | Pokémon | Conditions |
 | --- | --- | --- |
+| 0092 | [Gastly](../../pokemon/gen-1/0092-gastly.md) | herd |
+| 0093 | [Haunter](../../pokemon/gen-1/0093-haunter.md) | herd |
+| 0094 | [Gengar](../../pokemon/gen-1/0094-gengar.md) | herd |
 | 0104 | [Cubone](../../pokemon/gen-1/0104-cubone.md) | any time |
-| 0218 | [Slugma](../../pokemon/gen-2/0218-slugma.md) | lava |
+| 0218 | [Slugma](../../pokemon/gen-2/0218-slugma.md) | herd, water, lava; lava |
+| 0219 | [Magcargo](../../pokemon/gen-2/0219-magcargo.md) | herd, water, lava |
+| 0228 | [Houndour](../../pokemon/gen-2/0228-houndour.md) | herd |
+| 0229 | [Houndoom](../../pokemon/gen-2/0229-houndoom.md) | herd |
 | 0355 | [Duskull](../../pokemon/gen-3/0355-duskull.md) | any time |
 | 0562 | [Yamask](../../pokemon/gen-5/0562-yamask.md) | any time |
 | 0607 | [Litwick](../../pokemon/gen-5/0607-litwick.md) | any time |
@@ -51,3 +57,17 @@ Groups: Soul sand valleys
 | 0802 | [Marshadow](../../pokemon/gen-7/0802-marshadow.md) | any time |
 | 0806 | [Blacephalon](../../pokemon/gen-7/0806-blacephalon.md) | any time |
 | 0897 | [Spectrier](../../pokemon/gen-8/0897-spectrier.md) | any time |
+
+## Alpha (9)
+
+| No. | Pokémon | Conditions |
+| --- | --- | --- |
+| 0092 | [Gastly](../../pokemon/gen-1/0092-gastly.md) | with an alpha |
+| 0093 | [Haunter](../../pokemon/gen-1/0093-haunter.md) | with an alpha |
+| 0094 | [Gengar](../../pokemon/gen-1/0094-gengar.md) | alpha; with an alpha |
+| 0218 | [Slugma](../../pokemon/gen-2/0218-slugma.md) | with an alpha, water, lava |
+| 0219 | [Magcargo](../../pokemon/gen-2/0219-magcargo.md) | alpha, water, lava; with an alpha, water, lava |
+| 0228 | [Houndour](../../pokemon/gen-2/0228-houndour.md) | with an alpha |
+| 0229 | [Houndoom](../../pokemon/gen-2/0229-houndoom.md) | alpha; with an alpha |
+| 0554 | [Darumaka](../../pokemon/gen-5/0554-darumaka.md) | with an alpha |
+| 0555 | [Darmanitan](../../pokemon/gen-5/0555-darmanitan.md) | alpha; with an alpha |

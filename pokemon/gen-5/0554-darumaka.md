@@ -15,3 +15,9 @@ Biome groups: Freezing, Cold
 Biome groups: Glacial
 
 [Frozen Cliffs](../../biomes/overworld/frozen-cliffs.md), [Frozen Peaks](../../biomes/overworld/frozen-peaks.md), [Glacial Chasm](../../biomes/overworld/glacial-chasm.md), [Ice Spikes](../../biomes/overworld/ice-spikes.md), [Icy Heights](../../biomes/overworld/icy-heights.md), [Spires](../../biomes/overworld/spires.md)
+
+## Nether
+
+### Alpha — with an alpha, not in frozen, quartz, toxic · Lv 33-100
+
+All Nether biomes.

@@ -4,6 +4,14 @@
 
 ## Overworld
 
+### Uncommon — herd, underground, water, not in deep dark · Lv 5-60
+
+All Overworld biomes.
+
+### Rare — herd, underground, water, not in deep dark · Lv 5-60
+
+All Overworld biomes.
+
 ### Ultra rare — water · Lv 18-34
 
 Biome groups: Deep ocean, River
@@ -23,3 +31,13 @@ Biome groups: Magical, Ocean
 ### Ultra rare — underground, water, not in deep dark · Lv 18-34
 
 All Overworld biomes.
+
+### Alpha — with an alpha, underground, not in deep dark · Lv 53-100
+
+All Overworld biomes.
+
+### Alpha — with an alpha, rain · Lv 53-100
+
+Biome groups: Sky
+
+[Cloud Forest](../../biomes/overworld/cloud-forest.md), [Haze Mountain](../../biomes/overworld/haze-mountain.md), [Skylands (Autumn)](../../biomes/overworld/skylands-autumn.md), [Skylands (Spring)](../../biomes/overworld/skylands-spring.md), [Skylands (Summer)](../../biomes/overworld/skylands-summer.md), [Skylands (Winter)](../../biomes/overworld/skylands-winter.md)

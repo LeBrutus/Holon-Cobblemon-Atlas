@@ -9,3 +9,15 @@
 Biome groups: Peak
 
 [Emerald Peaks](../../biomes/overworld/emerald-peaks.md), [Frozen Peaks](../../biomes/overworld/frozen-peaks.md), [Icy Heights](../../biomes/overworld/icy-heights.md), [Jagged Peaks](../../biomes/overworld/jagged-peaks.md), [Spires](../../biomes/overworld/spires.md), [Stony Peaks](../../biomes/overworld/stony-peaks.md), [Stony Spires](../../biomes/overworld/stony-spires.md), [Volcanic Peaks](../../biomes/overworld/volcanic-peaks.md)
+
+### Alpha — alpha, not in volcanic · Lv 27-100
+
+Biome groups: Peak
+
+[Emerald Peaks](../../biomes/overworld/emerald-peaks.md), [Frozen Peaks](../../biomes/overworld/frozen-peaks.md), [Icy Heights](../../biomes/overworld/icy-heights.md), [Jagged Peaks](../../biomes/overworld/jagged-peaks.md), [Spires](../../biomes/overworld/spires.md), [Stony Peaks](../../biomes/overworld/stony-peaks.md), [Stony Spires](../../biomes/overworld/stony-spires.md), [Volcanic Peaks](../../biomes/overworld/volcanic-peaks.md)
+
+### Alpha — with an alpha, not in volcanic · Lv 27-100
+
+Biome groups: Peak
+
+[Emerald Peaks](../../biomes/overworld/emerald-peaks.md), [Frozen Peaks](../../biomes/overworld/frozen-peaks.md), [Icy Heights](../../biomes/overworld/icy-heights.md), [Jagged Peaks](../../biomes/overworld/jagged-peaks.md), [Spires](../../biomes/overworld/spires.md), [Stony Peaks](../../biomes/overworld/stony-peaks.md), [Stony Spires](../../biomes/overworld/stony-spires.md), [Volcanic Peaks](../../biomes/overworld/volcanic-peaks.md)

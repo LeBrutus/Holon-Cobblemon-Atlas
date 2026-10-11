@@ -14,6 +14,10 @@ Biome groups: Beach, Warm ocean
 
 All Overworld biomes.
 
+### Common — herd · Lv 16-51
+
+All Overworld biomes.
+
 ### Uncommon — any time · Lv 38-51
 
 Biome groups: Beach, Warm ocean
@@ -37,3 +41,29 @@ Biome groups: Beach
 Biome groups: Warm ocean
 
 [Deep Warm Ocean](../../biomes/overworld/deep-warm-ocean.md), [Hyacinth Deeps](../../biomes/overworld/hyacinth-deeps.md), [Rocky Reef](../../biomes/overworld/rocky-reef.md), [Warm Ocean](../../biomes/overworld/warm-ocean.md)
+
+### Uncommon — herd · Lv 16-51
+
+Biome groups: Beach
+
+[Beach](../../biomes/overworld/beach.md), [Grassy Beach](../../biomes/overworld/grassy-beach.md), [Gravel Beach (RU)](../../biomes/overworld/gravel-beach-ru.md), [Gravel Beach (Terralith)](../../biomes/overworld/gravel-beach-terralith.md), [Snowy Beach](../../biomes/overworld/snowy-beach.md)
+
+### Alpha — alpha · Lv 36-100
+
+Biome groups: Beach
+
+[Beach](../../biomes/overworld/beach.md), [Grassy Beach](../../biomes/overworld/grassy-beach.md), [Gravel Beach (RU)](../../biomes/overworld/gravel-beach-ru.md), [Gravel Beach (Terralith)](../../biomes/overworld/gravel-beach-terralith.md), [Snowy Beach](../../biomes/overworld/snowy-beach.md)
+
+### Alpha — with an alpha · Lv 36-100
+
+Biome groups: Beach
+
+[Beach](../../biomes/overworld/beach.md), [Grassy Beach](../../biomes/overworld/grassy-beach.md), [Gravel Beach (RU)](../../biomes/overworld/gravel-beach-ru.md), [Gravel Beach (Terralith)](../../biomes/overworld/gravel-beach-terralith.md), [Snowy Beach](../../biomes/overworld/snowy-beach.md)
+
+### Alpha — alpha · Lv 36-100
+
+All Overworld biomes.
+
+### Alpha — with an alpha · Lv 36-100
+
+All Overworld biomes.

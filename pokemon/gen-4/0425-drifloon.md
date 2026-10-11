@@ -10,9 +10,29 @@ Biome groups: Sky
 
 [Cloud Forest](../../biomes/overworld/cloud-forest.md), [Haze Mountain](../../biomes/overworld/haze-mountain.md), [Skylands (Autumn)](../../biomes/overworld/skylands-autumn.md), [Skylands (Spring)](../../biomes/overworld/skylands-spring.md), [Skylands (Summer)](../../biomes/overworld/skylands-summer.md), [Skylands (Winter)](../../biomes/overworld/skylands-winter.md)
 
+### Common — herd, night · Lv 10-50
+
+Biome groups: Sky
+
+[Cloud Forest](../../biomes/overworld/cloud-forest.md), [Haze Mountain](../../biomes/overworld/haze-mountain.md), [Skylands (Autumn)](../../biomes/overworld/skylands-autumn.md), [Skylands (Spring)](../../biomes/overworld/skylands-spring.md), [Skylands (Summer)](../../biomes/overworld/skylands-summer.md), [Skylands (Winter)](../../biomes/overworld/skylands-winter.md)
+
 ### Uncommon — night, not in arid, freezing · Lv 16-32
 
 All Overworld biomes.
+
+### Uncommon — herd, night, not in arid, freezing · Lv 10-50
+
+All Overworld biomes.
+
+### Alpha — with an alpha, night, not in arid, freezing · Lv 26-100
+
+All Overworld biomes.
+
+### Alpha — with an alpha, night · Lv 26-100
+
+Biome groups: Sky
+
+[Cloud Forest](../../biomes/overworld/cloud-forest.md), [Haze Mountain](../../biomes/overworld/haze-mountain.md), [Skylands (Autumn)](../../biomes/overworld/skylands-autumn.md), [Skylands (Spring)](../../biomes/overworld/skylands-spring.md), [Skylands (Summer)](../../biomes/overworld/skylands-summer.md), [Skylands (Winter)](../../biomes/overworld/skylands-winter.md)
 
 ## Nether
 

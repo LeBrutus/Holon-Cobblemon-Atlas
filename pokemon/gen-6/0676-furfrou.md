@@ -11,3 +11,19 @@ All Overworld biomes.
 ### Common — villages · Lv 27-52
 
 All Overworld biomes.
+
+### Alpha — alpha, near builds · Lv 20-100
+
+All Overworld biomes.
+
+### Alpha — with an alpha, near builds · Lv 20-100
+
+All Overworld biomes.
+
+### Alpha — alpha, villages · Lv 20-100
+
+All Overworld biomes.
+
+### Alpha — with an alpha, villages · Lv 20-100
+
+All Overworld biomes.

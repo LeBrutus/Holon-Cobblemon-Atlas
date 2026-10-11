@@ -11,3 +11,11 @@ All Overworld biomes.
 ### Common — villages, not in freezing · Lv 19-38
 
 All Overworld biomes.
+
+### Alpha — with an alpha, night, near builds, not in freezing · Lv 24-100
+
+All Overworld biomes.
+
+### Alpha — with an alpha, night, villages, not in freezing · Lv 24-100
+
+All Overworld biomes.

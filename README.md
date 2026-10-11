@@ -16,8 +16,8 @@ Covers all 1,025 Pokémon and 354 biomes across the Overworld, Nether, End, Aeth
 
 ## How to read a page
 
-- **Rarity** is the spawn bucket: Common, Uncommon, Rare, Ultra rare.
-- **Conditions** say when it spawns: night, rain, underground, water, fishing, villages, a regional form, or biomes it avoids.
+- **Rarity** is the spawn bucket: Common, Uncommon, Rare, Ultra rare, or **Alpha** (Cobblemon 1.8 boss Pokémon leading a herd).
+- **Conditions** say when it spawns: night, rain, underground, water, fishing, villages, herd, with an alpha, a regional form, or biomes it avoids.
 - **Lv** is the level range.
 - **All Overworld biomes** means the Pokémon can appear in any overworld biome, unless the conditions exclude some.
 

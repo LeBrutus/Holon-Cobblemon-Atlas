@@ -62,7 +62,7 @@
 | 0551 | [Sandile](0551-sandile.md) | Ground / Dark | Overworld, Nether |
 | 0552 | [Krokorok](0552-krokorok.md) | Ground / Dark | Overworld, Nether |
 | 0553 | [Krookodile](0553-krookodile.md) | Ground / Dark | Overworld, Nether |
-| 0554 | [Darumaka](0554-darumaka.md) | Fire | Overworld |
+| 0554 | [Darumaka](0554-darumaka.md) | Fire | Overworld, Nether |
 | 0555 | [Darmanitan](0555-darmanitan.md) | Fire | Overworld, Nether |
 | 0556 | [Maractus](0556-maractus.md) | Grass | Overworld |
 | 0557 | [Dwebble](0557-dwebble.md) | Bug / Rock | Overworld |

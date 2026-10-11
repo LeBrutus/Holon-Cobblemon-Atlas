@@ -92,7 +92,7 @@
 | 0239 | [Elekid](0239-elekid.md) | Electric | Overworld |
 | 0240 | [Magby](0240-magby.md) | Fire | Overworld, Nether |
 | 0241 | [Miltank](0241-miltank.md) | Normal | Overworld, Aether |
-| 0242 | [Blissey](0242-blissey.md) | Normal | Overworld |
+| 0242 | [Blissey](0242-blissey.md) | Normal | Overworld, Aether |
 | 0243 | [Raikou](0243-raikou.md) | Electric | Overworld |
 | 0244 | [Entei](0244-entei.md) | Fire | Overworld, Nether |
 | 0245 | [Suicune](0245-suicune.md) | Water | Overworld |

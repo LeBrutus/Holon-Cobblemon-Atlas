@@ -10,9 +10,123 @@ Biome groups: Mushroom, Swamp
 
 [Bayou](../../biomes/overworld/bayou.md), [Bioshroom Caves](../../biomes/overworld/bioshroom-caves.md), [Fen](../../biomes/overworld/fen.md), [Fungal Caves](../../biomes/overworld/fungal-caves.md), [Fungal Fen](../../biomes/overworld/fungal-fen.md), [Ice Marsh](../../biomes/overworld/ice-marsh.md), [Mangrove Swamp](../../biomes/overworld/mangrove-swamp.md), [Marsh (RU)](../../biomes/overworld/marsh-ru.md), [Marshlands](../../biomes/overworld/marshlands.md), [Muddy River](../../biomes/overworld/muddy-river.md), [Mushroom Fields](../../biomes/overworld/mushroom-fields.md), [Old Growth Bayou](../../biomes/overworld/old-growth-bayou.md), [Orchid Swamp](../../biomes/overworld/orchid-swamp.md), [Sengoku Mangrove Swamp](../../biomes/overworld/sengoku-mangrove-swamp.md), [Sengoku Swamp](../../biomes/overworld/sengoku-swamp.md), [Swamp](../../biomes/overworld/swamp.md), [Willow Forest](../../biomes/overworld/willow-forest.md)
 
+### Common — herd, underground · Lv 1-43
+
+Biome groups: Lush
+
+[Amethyst Canyon](../../biomes/overworld/amethyst-canyon.md), [Amethyst Rainforest](../../biomes/overworld/amethyst-rainforest.md), [Ancient Delta](../../biomes/overworld/ancient-delta.md), [Bamboo Jungle](../../biomes/overworld/bamboo-jungle.md), [Desert Oasis](../../biomes/overworld/desert-oasis.md), [Jungle](../../biomes/overworld/jungle.md), [Jungle Mountains](../../biomes/overworld/jungle-mountains.md), [Lush Caves](../../biomes/overworld/lush-caves.md), [Lush Desert](../../biomes/overworld/lush-desert.md), [Lush Valley](../../biomes/overworld/lush-valley.md), [Rainforest (RU)](../../biomes/overworld/rainforest-ru.md), [Red Oasis](../../biomes/overworld/red-oasis.md), [Rocky Jungle](../../biomes/overworld/rocky-jungle.md), [Sparse Jungle](../../biomes/overworld/sparse-jungle.md), [Sparse Rainforest](../../biomes/overworld/sparse-rainforest.md), [Subtropical Forest](../../biomes/overworld/subtropical-forest.md), [Tropical Jungle](../../biomes/overworld/tropical-jungle.md), [Tropics](../../biomes/overworld/tropics.md), [Underground Jungle](../../biomes/overworld/underground-jungle.md)
+
+### Common — herd, underground, water · Lv 1-43
+
+Biome groups: Lush
+
+[Amethyst Canyon](../../biomes/overworld/amethyst-canyon.md), [Amethyst Rainforest](../../biomes/overworld/amethyst-rainforest.md), [Ancient Delta](../../biomes/overworld/ancient-delta.md), [Bamboo Jungle](../../biomes/overworld/bamboo-jungle.md), [Desert Oasis](../../biomes/overworld/desert-oasis.md), [Jungle](../../biomes/overworld/jungle.md), [Jungle Mountains](../../biomes/overworld/jungle-mountains.md), [Lush Caves](../../biomes/overworld/lush-caves.md), [Lush Desert](../../biomes/overworld/lush-desert.md), [Lush Valley](../../biomes/overworld/lush-valley.md), [Rainforest (RU)](../../biomes/overworld/rainforest-ru.md), [Red Oasis](../../biomes/overworld/red-oasis.md), [Rocky Jungle](../../biomes/overworld/rocky-jungle.md), [Sparse Jungle](../../biomes/overworld/sparse-jungle.md), [Sparse Rainforest](../../biomes/overworld/sparse-rainforest.md), [Subtropical Forest](../../biomes/overworld/subtropical-forest.md), [Tropical Jungle](../../biomes/overworld/tropical-jungle.md), [Tropics](../../biomes/overworld/tropics.md), [Underground Jungle](../../biomes/overworld/underground-jungle.md)
+
+### Common — herd, rain, not in mud · Lv 1-43
+
+Biome groups: Swamp
+
+[Bayou](../../biomes/overworld/bayou.md), [Fen](../../biomes/overworld/fen.md), [Fungal Fen](../../biomes/overworld/fungal-fen.md), [Ice Marsh](../../biomes/overworld/ice-marsh.md), [Mangrove Swamp](../../biomes/overworld/mangrove-swamp.md), [Marsh (RU)](../../biomes/overworld/marsh-ru.md), [Marshlands](../../biomes/overworld/marshlands.md), [Muddy River](../../biomes/overworld/muddy-river.md), [Old Growth Bayou](../../biomes/overworld/old-growth-bayou.md), [Orchid Swamp](../../biomes/overworld/orchid-swamp.md), [Sengoku Mangrove Swamp](../../biomes/overworld/sengoku-mangrove-swamp.md), [Sengoku Swamp](../../biomes/overworld/sengoku-swamp.md), [Swamp](../../biomes/overworld/swamp.md), [Willow Forest](../../biomes/overworld/willow-forest.md)
+
+### Common — herd, water, not in mud · Lv 1-43
+
+Biome groups: Swamp
+
+[Bayou](../../biomes/overworld/bayou.md), [Fen](../../biomes/overworld/fen.md), [Fungal Fen](../../biomes/overworld/fungal-fen.md), [Ice Marsh](../../biomes/overworld/ice-marsh.md), [Mangrove Swamp](../../biomes/overworld/mangrove-swamp.md), [Marsh (RU)](../../biomes/overworld/marsh-ru.md), [Marshlands](../../biomes/overworld/marshlands.md), [Muddy River](../../biomes/overworld/muddy-river.md), [Old Growth Bayou](../../biomes/overworld/old-growth-bayou.md), [Orchid Swamp](../../biomes/overworld/orchid-swamp.md), [Sengoku Mangrove Swamp](../../biomes/overworld/sengoku-mangrove-swamp.md), [Sengoku Swamp](../../biomes/overworld/sengoku-swamp.md), [Swamp](../../biomes/overworld/swamp.md), [Willow Forest](../../biomes/overworld/willow-forest.md)
+
+### Common — herd, underground, water, not in mud · Lv 1-43
+
+Biome groups: Swamp
+
+[Bayou](../../biomes/overworld/bayou.md), [Fen](../../biomes/overworld/fen.md), [Fungal Fen](../../biomes/overworld/fungal-fen.md), [Ice Marsh](../../biomes/overworld/ice-marsh.md), [Mangrove Swamp](../../biomes/overworld/mangrove-swamp.md), [Marsh (RU)](../../biomes/overworld/marsh-ru.md), [Marshlands](../../biomes/overworld/marshlands.md), [Muddy River](../../biomes/overworld/muddy-river.md), [Old Growth Bayou](../../biomes/overworld/old-growth-bayou.md), [Orchid Swamp](../../biomes/overworld/orchid-swamp.md), [Sengoku Mangrove Swamp](../../biomes/overworld/sengoku-mangrove-swamp.md), [Sengoku Swamp](../../biomes/overworld/sengoku-swamp.md), [Swamp](../../biomes/overworld/swamp.md), [Willow Forest](../../biomes/overworld/willow-forest.md)
+
 ### Uncommon — underground, not in lush · Lv 20-38
 
 All Overworld biomes.
+
+### Uncommon — herd, underground, not in lush · Lv 1-43
+
+All Overworld biomes.
+
+### Uncommon — herd, underground, water, not in lush · Lv 1-43
+
+All Overworld biomes.
+
+### Alpha — alpha, underground · Lv 18-100
+
+Biome groups: Lush
+
+[Amethyst Canyon](../../biomes/overworld/amethyst-canyon.md), [Amethyst Rainforest](../../biomes/overworld/amethyst-rainforest.md), [Ancient Delta](../../biomes/overworld/ancient-delta.md), [Bamboo Jungle](../../biomes/overworld/bamboo-jungle.md), [Desert Oasis](../../biomes/overworld/desert-oasis.md), [Jungle](../../biomes/overworld/jungle.md), [Jungle Mountains](../../biomes/overworld/jungle-mountains.md), [Lush Caves](../../biomes/overworld/lush-caves.md), [Lush Desert](../../biomes/overworld/lush-desert.md), [Lush Valley](../../biomes/overworld/lush-valley.md), [Rainforest (RU)](../../biomes/overworld/rainforest-ru.md), [Red Oasis](../../biomes/overworld/red-oasis.md), [Rocky Jungle](../../biomes/overworld/rocky-jungle.md), [Sparse Jungle](../../biomes/overworld/sparse-jungle.md), [Sparse Rainforest](../../biomes/overworld/sparse-rainforest.md), [Subtropical Forest](../../biomes/overworld/subtropical-forest.md), [Tropical Jungle](../../biomes/overworld/tropical-jungle.md), [Tropics](../../biomes/overworld/tropics.md), [Underground Jungle](../../biomes/overworld/underground-jungle.md)
+
+### Alpha — with an alpha, underground · Lv 18-100
+
+Biome groups: Lush
+
+[Amethyst Canyon](../../biomes/overworld/amethyst-canyon.md), [Amethyst Rainforest](../../biomes/overworld/amethyst-rainforest.md), [Ancient Delta](../../biomes/overworld/ancient-delta.md), [Bamboo Jungle](../../biomes/overworld/bamboo-jungle.md), [Desert Oasis](../../biomes/overworld/desert-oasis.md), [Jungle](../../biomes/overworld/jungle.md), [Jungle Mountains](../../biomes/overworld/jungle-mountains.md), [Lush Caves](../../biomes/overworld/lush-caves.md), [Lush Desert](../../biomes/overworld/lush-desert.md), [Lush Valley](../../biomes/overworld/lush-valley.md), [Rainforest (RU)](../../biomes/overworld/rainforest-ru.md), [Red Oasis](../../biomes/overworld/red-oasis.md), [Rocky Jungle](../../biomes/overworld/rocky-jungle.md), [Sparse Jungle](../../biomes/overworld/sparse-jungle.md), [Sparse Rainforest](../../biomes/overworld/sparse-rainforest.md), [Subtropical Forest](../../biomes/overworld/subtropical-forest.md), [Tropical Jungle](../../biomes/overworld/tropical-jungle.md), [Tropics](../../biomes/overworld/tropics.md), [Underground Jungle](../../biomes/overworld/underground-jungle.md)
+
+### Alpha — alpha, underground, water · Lv 18-100
+
+Biome groups: Lush
+
+[Amethyst Canyon](../../biomes/overworld/amethyst-canyon.md), [Amethyst Rainforest](../../biomes/overworld/amethyst-rainforest.md), [Ancient Delta](../../biomes/overworld/ancient-delta.md), [Bamboo Jungle](../../biomes/overworld/bamboo-jungle.md), [Desert Oasis](../../biomes/overworld/desert-oasis.md), [Jungle](../../biomes/overworld/jungle.md), [Jungle Mountains](../../biomes/overworld/jungle-mountains.md), [Lush Caves](../../biomes/overworld/lush-caves.md), [Lush Desert](../../biomes/overworld/lush-desert.md), [Lush Valley](../../biomes/overworld/lush-valley.md), [Rainforest (RU)](../../biomes/overworld/rainforest-ru.md), [Red Oasis](../../biomes/overworld/red-oasis.md), [Rocky Jungle](../../biomes/overworld/rocky-jungle.md), [Sparse Jungle](../../biomes/overworld/sparse-jungle.md), [Sparse Rainforest](../../biomes/overworld/sparse-rainforest.md), [Subtropical Forest](../../biomes/overworld/subtropical-forest.md), [Tropical Jungle](../../biomes/overworld/tropical-jungle.md), [Tropics](../../biomes/overworld/tropics.md), [Underground Jungle](../../biomes/overworld/underground-jungle.md)
+
+### Alpha — with an alpha, underground, water · Lv 18-100
+
+Biome groups: Lush
+
+[Amethyst Canyon](../../biomes/overworld/amethyst-canyon.md), [Amethyst Rainforest](../../biomes/overworld/amethyst-rainforest.md), [Ancient Delta](../../biomes/overworld/ancient-delta.md), [Bamboo Jungle](../../biomes/overworld/bamboo-jungle.md), [Desert Oasis](../../biomes/overworld/desert-oasis.md), [Jungle](../../biomes/overworld/jungle.md), [Jungle Mountains](../../biomes/overworld/jungle-mountains.md), [Lush Caves](../../biomes/overworld/lush-caves.md), [Lush Desert](../../biomes/overworld/lush-desert.md), [Lush Valley](../../biomes/overworld/lush-valley.md), [Rainforest (RU)](../../biomes/overworld/rainforest-ru.md), [Red Oasis](../../biomes/overworld/red-oasis.md), [Rocky Jungle](../../biomes/overworld/rocky-jungle.md), [Sparse Jungle](../../biomes/overworld/sparse-jungle.md), [Sparse Rainforest](../../biomes/overworld/sparse-rainforest.md), [Subtropical Forest](../../biomes/overworld/subtropical-forest.md), [Tropical Jungle](../../biomes/overworld/tropical-jungle.md), [Tropics](../../biomes/overworld/tropics.md), [Underground Jungle](../../biomes/overworld/underground-jungle.md)
+
+### Alpha — alpha, underground, not in lush · Lv 18-100
+
+All Overworld biomes.
+
+### Alpha — with an alpha, underground, not in lush · Lv 18-100
+
+All Overworld biomes.
+
+### Alpha — alpha, underground, water, not in lush · Lv 18-100
+
+All Overworld biomes.
+
+### Alpha — with an alpha, underground, water, not in lush · Lv 18-100
+
+All Overworld biomes.
+
+### Alpha — alpha, rain, not in mud · Lv 18-100
+
+Biome groups: Swamp
+
+[Bayou](../../biomes/overworld/bayou.md), [Fen](../../biomes/overworld/fen.md), [Fungal Fen](../../biomes/overworld/fungal-fen.md), [Ice Marsh](../../biomes/overworld/ice-marsh.md), [Mangrove Swamp](../../biomes/overworld/mangrove-swamp.md), [Marsh (RU)](../../biomes/overworld/marsh-ru.md), [Marshlands](../../biomes/overworld/marshlands.md), [Muddy River](../../biomes/overworld/muddy-river.md), [Old Growth Bayou](../../biomes/overworld/old-growth-bayou.md), [Orchid Swamp](../../biomes/overworld/orchid-swamp.md), [Sengoku Mangrove Swamp](../../biomes/overworld/sengoku-mangrove-swamp.md), [Sengoku Swamp](../../biomes/overworld/sengoku-swamp.md), [Swamp](../../biomes/overworld/swamp.md), [Willow Forest](../../biomes/overworld/willow-forest.md)
+
+### Alpha — with an alpha, rain, not in mud · Lv 18-100
+
+Biome groups: Swamp
+
+[Bayou](../../biomes/overworld/bayou.md), [Fen](../../biomes/overworld/fen.md), [Fungal Fen](../../biomes/overworld/fungal-fen.md), [Ice Marsh](../../biomes/overworld/ice-marsh.md), [Mangrove Swamp](../../biomes/overworld/mangrove-swamp.md), [Marsh (RU)](../../biomes/overworld/marsh-ru.md), [Marshlands](../../biomes/overworld/marshlands.md), [Muddy River](../../biomes/overworld/muddy-river.md), [Old Growth Bayou](../../biomes/overworld/old-growth-bayou.md), [Orchid Swamp](../../biomes/overworld/orchid-swamp.md), [Sengoku Mangrove Swamp](../../biomes/overworld/sengoku-mangrove-swamp.md), [Sengoku Swamp](../../biomes/overworld/sengoku-swamp.md), [Swamp](../../biomes/overworld/swamp.md), [Willow Forest](../../biomes/overworld/willow-forest.md)
+
+### Alpha — alpha, water, not in mud · Lv 18-100
+
+Biome groups: Swamp
+
+[Bayou](../../biomes/overworld/bayou.md), [Fen](../../biomes/overworld/fen.md), [Fungal Fen](../../biomes/overworld/fungal-fen.md), [Ice Marsh](../../biomes/overworld/ice-marsh.md), [Mangrove Swamp](../../biomes/overworld/mangrove-swamp.md), [Marsh (RU)](../../biomes/overworld/marsh-ru.md), [Marshlands](../../biomes/overworld/marshlands.md), [Muddy River](../../biomes/overworld/muddy-river.md), [Old Growth Bayou](../../biomes/overworld/old-growth-bayou.md), [Orchid Swamp](../../biomes/overworld/orchid-swamp.md), [Sengoku Mangrove Swamp](../../biomes/overworld/sengoku-mangrove-swamp.md), [Sengoku Swamp](../../biomes/overworld/sengoku-swamp.md), [Swamp](../../biomes/overworld/swamp.md), [Willow Forest](../../biomes/overworld/willow-forest.md)
+
+### Alpha — with an alpha, water, not in mud · Lv 18-100
+
+Biome groups: Swamp
+
+[Bayou](../../biomes/overworld/bayou.md), [Fen](../../biomes/overworld/fen.md), [Fungal Fen](../../biomes/overworld/fungal-fen.md), [Ice Marsh](../../biomes/overworld/ice-marsh.md), [Mangrove Swamp](../../biomes/overworld/mangrove-swamp.md), [Marsh (RU)](../../biomes/overworld/marsh-ru.md), [Marshlands](../../biomes/overworld/marshlands.md), [Muddy River](../../biomes/overworld/muddy-river.md), [Old Growth Bayou](../../biomes/overworld/old-growth-bayou.md), [Orchid Swamp](../../biomes/overworld/orchid-swamp.md), [Sengoku Mangrove Swamp](../../biomes/overworld/sengoku-mangrove-swamp.md), [Sengoku Swamp](../../biomes/overworld/sengoku-swamp.md), [Swamp](../../biomes/overworld/swamp.md), [Willow Forest](../../biomes/overworld/willow-forest.md)
+
+### Alpha — alpha, underground, water, not in mud · Lv 18-100
+
+Biome groups: Swamp
+
+[Bayou](../../biomes/overworld/bayou.md), [Fen](../../biomes/overworld/fen.md), [Fungal Fen](../../biomes/overworld/fungal-fen.md), [Ice Marsh](../../biomes/overworld/ice-marsh.md), [Mangrove Swamp](../../biomes/overworld/mangrove-swamp.md), [Marsh (RU)](../../biomes/overworld/marsh-ru.md), [Marshlands](../../biomes/overworld/marshlands.md), [Muddy River](../../biomes/overworld/muddy-river.md), [Old Growth Bayou](../../biomes/overworld/old-growth-bayou.md), [Orchid Swamp](../../biomes/overworld/orchid-swamp.md), [Sengoku Mangrove Swamp](../../biomes/overworld/sengoku-mangrove-swamp.md), [Sengoku Swamp](../../biomes/overworld/sengoku-swamp.md), [Swamp](../../biomes/overworld/swamp.md), [Willow Forest](../../biomes/overworld/willow-forest.md)
+
+### Alpha — with an alpha, underground, water, not in mud · Lv 18-100
+
+Biome groups: Swamp
+
+[Bayou](../../biomes/overworld/bayou.md), [Fen](../../biomes/overworld/fen.md), [Fungal Fen](../../biomes/overworld/fungal-fen.md), [Ice Marsh](../../biomes/overworld/ice-marsh.md), [Mangrove Swamp](../../biomes/overworld/mangrove-swamp.md), [Marsh (RU)](../../biomes/overworld/marsh-ru.md), [Marshlands](../../biomes/overworld/marshlands.md), [Muddy River](../../biomes/overworld/muddy-river.md), [Old Growth Bayou](../../biomes/overworld/old-growth-bayou.md), [Orchid Swamp](../../biomes/overworld/orchid-swamp.md), [Sengoku Mangrove Swamp](../../biomes/overworld/sengoku-mangrove-swamp.md), [Sengoku Swamp](../../biomes/overworld/sengoku-swamp.md), [Swamp](../../biomes/overworld/swamp.md), [Willow Forest](../../biomes/overworld/willow-forest.md)
 
 ## Otherside
 

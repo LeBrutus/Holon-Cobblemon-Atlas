@@ -10,6 +10,18 @@ Biome groups: Jungle, Peak
 
 [Amethyst Rainforest](../../biomes/overworld/amethyst-rainforest.md), [Bamboo Jungle](../../biomes/overworld/bamboo-jungle.md), [Emerald Peaks](../../biomes/overworld/emerald-peaks.md), [Frozen Peaks](../../biomes/overworld/frozen-peaks.md), [Icy Heights](../../biomes/overworld/icy-heights.md), [Jagged Peaks](../../biomes/overworld/jagged-peaks.md), [Jungle](../../biomes/overworld/jungle.md), [Jungle Mountains](../../biomes/overworld/jungle-mountains.md), [Rainforest (RU)](../../biomes/overworld/rainforest-ru.md), [Rocky Jungle](../../biomes/overworld/rocky-jungle.md), [Sparse Jungle](../../biomes/overworld/sparse-jungle.md), [Sparse Rainforest](../../biomes/overworld/sparse-rainforest.md), [Spires](../../biomes/overworld/spires.md), [Stony Peaks](../../biomes/overworld/stony-peaks.md), [Stony Spires](../../biomes/overworld/stony-spires.md), [Subtropical Forest](../../biomes/overworld/subtropical-forest.md), [Tropical Jungle](../../biomes/overworld/tropical-jungle.md), [Tropics](../../biomes/overworld/tropics.md), [Underground Jungle](../../biomes/overworld/underground-jungle.md), [Volcanic Peaks](../../biomes/overworld/volcanic-peaks.md)
 
+### Uncommon — herd, underground, not in deep dark · Lv 5-50
+
+Biome groups: Jungle, Peak
+
+[Amethyst Rainforest](../../biomes/overworld/amethyst-rainforest.md), [Bamboo Jungle](../../biomes/overworld/bamboo-jungle.md), [Emerald Peaks](../../biomes/overworld/emerald-peaks.md), [Frozen Peaks](../../biomes/overworld/frozen-peaks.md), [Icy Heights](../../biomes/overworld/icy-heights.md), [Jagged Peaks](../../biomes/overworld/jagged-peaks.md), [Jungle](../../biomes/overworld/jungle.md), [Jungle Mountains](../../biomes/overworld/jungle-mountains.md), [Rainforest (RU)](../../biomes/overworld/rainforest-ru.md), [Rocky Jungle](../../biomes/overworld/rocky-jungle.md), [Sparse Jungle](../../biomes/overworld/sparse-jungle.md), [Sparse Rainforest](../../biomes/overworld/sparse-rainforest.md), [Spires](../../biomes/overworld/spires.md), [Stony Peaks](../../biomes/overworld/stony-peaks.md), [Stony Spires](../../biomes/overworld/stony-spires.md), [Subtropical Forest](../../biomes/overworld/subtropical-forest.md), [Tropical Jungle](../../biomes/overworld/tropical-jungle.md), [Tropics](../../biomes/overworld/tropics.md), [Underground Jungle](../../biomes/overworld/underground-jungle.md), [Volcanic Peaks](../../biomes/overworld/volcanic-peaks.md)
+
+### Alpha — with an alpha, underground, not in deep dark · Lv 31-100
+
+Biome groups: Jungle, Peak
+
+[Amethyst Rainforest](../../biomes/overworld/amethyst-rainforest.md), [Bamboo Jungle](../../biomes/overworld/bamboo-jungle.md), [Emerald Peaks](../../biomes/overworld/emerald-peaks.md), [Frozen Peaks](../../biomes/overworld/frozen-peaks.md), [Icy Heights](../../biomes/overworld/icy-heights.md), [Jagged Peaks](../../biomes/overworld/jagged-peaks.md), [Jungle](../../biomes/overworld/jungle.md), [Jungle Mountains](../../biomes/overworld/jungle-mountains.md), [Rainforest (RU)](../../biomes/overworld/rainforest-ru.md), [Rocky Jungle](../../biomes/overworld/rocky-jungle.md), [Sparse Jungle](../../biomes/overworld/sparse-jungle.md), [Sparse Rainforest](../../biomes/overworld/sparse-rainforest.md), [Spires](../../biomes/overworld/spires.md), [Stony Peaks](../../biomes/overworld/stony-peaks.md), [Stony Spires](../../biomes/overworld/stony-spires.md), [Subtropical Forest](../../biomes/overworld/subtropical-forest.md), [Tropical Jungle](../../biomes/overworld/tropical-jungle.md), [Tropics](../../biomes/overworld/tropics.md), [Underground Jungle](../../biomes/overworld/underground-jungle.md), [Volcanic Peaks](../../biomes/overworld/volcanic-peaks.md)
+
 ## End
 
 ### Common — any time · Lv 35-45

@@ -23,3 +23,11 @@ Biome groups: Freezing, Cold
 Biome groups: Nether wastes
 
 [Glistering Meadow](../../biomes/nether/glistering-meadow.md), [Gravel Desert (BetterNether)](../../biomes/nether/gravel-desert-betternether.md), [Nether Grasslands](../../biomes/nether/nether-grasslands.md), [Nether Wastes](../../biomes/nether/nether-wastes.md), [Poor Nether Grasslands](../../biomes/nether/poor-nether-grasslands.md)
+
+### Alpha — alpha, not in frozen, quartz, toxic · Lv 33-100
+
+All Nether biomes.
+
+### Alpha — with an alpha, not in frozen, quartz, toxic · Lv 33-100
+
+All Nether biomes.

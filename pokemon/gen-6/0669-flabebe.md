@@ -16,6 +16,14 @@ Biome groups: Sengoku flower fields
 
 [Kerria Fields](../../biomes/overworld/kerria-fields.md), [Rose Fields](../../biomes/overworld/rose-fields.md), [Sengoku Flower Forest](../../biomes/overworld/sengoku-flower-forest.md), [Shibazakura Plains](../../biomes/overworld/shibazakura-plains.md), [Suprise Lily Fields](../../biomes/overworld/suprise-lily-fields.md)
 
+### Common — herd · Lv 5-55
+
+All Overworld biomes.
+
+### Alpha — with an alpha · Lv 30-100
+
+All Overworld biomes.
+
 ## Aether
 
 ### Common — any time · Lv 25-35
@@ -23,3 +31,11 @@ Biome groups: Sengoku flower fields
 Biome groups: Skyroot meadows
 
 [Skyroot Meadow](../../biomes/aether/skyroot-meadow.md)
+
+### Common — herd · Lv 5-55
+
+All Aether biomes.
+
+### Alpha — with an alpha · Lv 30-100
+
+All Aether biomes.

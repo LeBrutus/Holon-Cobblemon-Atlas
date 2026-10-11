@@ -16,6 +16,18 @@ Biome groups: Sky
 
 [Cloud Forest](../../biomes/overworld/cloud-forest.md), [Haze Mountain](../../biomes/overworld/haze-mountain.md), [Skylands (Autumn)](../../biomes/overworld/skylands-autumn.md), [Skylands (Spring)](../../biomes/overworld/skylands-spring.md), [Skylands (Summer)](../../biomes/overworld/skylands-summer.md), [Skylands (Winter)](../../biomes/overworld/skylands-winter.md)
 
+### Common — herd, not in freezing · Lv 6-47
+
+Biome groups: Fresh water
+
+[Ancient Delta](../../biomes/overworld/ancient-delta.md), [Autumnal Hot Springs](../../biomes/overworld/autumnal-hot-springs.md), [Autumnal River](../../biomes/overworld/autumnal-river.md), [Bayou](../../biomes/overworld/bayou.md), [Cold River](../../biomes/overworld/cold-river.md), [Desert Oasis](../../biomes/overworld/desert-oasis.md), [Fen](../../biomes/overworld/fen.md), [Frozen River](../../biomes/overworld/frozen-river.md), [Fungal Fen](../../biomes/overworld/fungal-fen.md), [Hot Springs](../../biomes/overworld/hot-springs.md), [Ice Marsh](../../biomes/overworld/ice-marsh.md), [Mangrove Swamp](../../biomes/overworld/mangrove-swamp.md), [Marsh (RU)](../../biomes/overworld/marsh-ru.md), [Marshlands](../../biomes/overworld/marshlands.md), [Muddy River](../../biomes/overworld/muddy-river.md), [Old Growth Bayou](../../biomes/overworld/old-growth-bayou.md), [Orchid Swamp](../../biomes/overworld/orchid-swamp.md), [Red Oasis](../../biomes/overworld/red-oasis.md), [River](../../biomes/overworld/river.md), [Sengoku Frozen River](../../biomes/overworld/sengoku-frozen-river.md), [Sengoku Mangrove Swamp](../../biomes/overworld/sengoku-mangrove-swamp.md), [Sengoku River](../../biomes/overworld/sengoku-river.md), [Sengoku Swamp](../../biomes/overworld/sengoku-swamp.md), [Snowy Hot Springs](../../biomes/overworld/snowy-hot-springs.md), [Stream](../../biomes/overworld/stream.md), [Swamp](../../biomes/overworld/swamp.md), [Tropical River](../../biomes/overworld/tropical-river.md), [Warm River](../../biomes/overworld/warm-river.md), [Willow Forest](../../biomes/overworld/willow-forest.md)
+
+### Common — herd · Lv 6-47
+
+Biome groups: Sky
+
+[Cloud Forest](../../biomes/overworld/cloud-forest.md), [Haze Mountain](../../biomes/overworld/haze-mountain.md), [Skylands (Autumn)](../../biomes/overworld/skylands-autumn.md), [Skylands (Spring)](../../biomes/overworld/skylands-spring.md), [Skylands (Summer)](../../biomes/overworld/skylands-summer.md), [Skylands (Winter)](../../biomes/overworld/skylands-winter.md)
+
 ### Uncommon — water, not in freezing · Lv 23-39
 
 Biome groups: Fresh water
@@ -28,8 +40,60 @@ Biome groups: Sky
 
 [Cloud Forest](../../biomes/overworld/cloud-forest.md), [Haze Mountain](../../biomes/overworld/haze-mountain.md), [Skylands (Autumn)](../../biomes/overworld/skylands-autumn.md), [Skylands (Spring)](../../biomes/overworld/skylands-spring.md), [Skylands (Summer)](../../biomes/overworld/skylands-summer.md), [Skylands (Winter)](../../biomes/overworld/skylands-winter.md)
 
+### Uncommon — herd, day, water, not in freezing · Lv 6-47
+
+Biome groups: Fresh water
+
+[Ancient Delta](../../biomes/overworld/ancient-delta.md), [Autumnal Hot Springs](../../biomes/overworld/autumnal-hot-springs.md), [Autumnal River](../../biomes/overworld/autumnal-river.md), [Bayou](../../biomes/overworld/bayou.md), [Cold River](../../biomes/overworld/cold-river.md), [Desert Oasis](../../biomes/overworld/desert-oasis.md), [Fen](../../biomes/overworld/fen.md), [Frozen River](../../biomes/overworld/frozen-river.md), [Fungal Fen](../../biomes/overworld/fungal-fen.md), [Hot Springs](../../biomes/overworld/hot-springs.md), [Ice Marsh](../../biomes/overworld/ice-marsh.md), [Mangrove Swamp](../../biomes/overworld/mangrove-swamp.md), [Marsh (RU)](../../biomes/overworld/marsh-ru.md), [Marshlands](../../biomes/overworld/marshlands.md), [Muddy River](../../biomes/overworld/muddy-river.md), [Old Growth Bayou](../../biomes/overworld/old-growth-bayou.md), [Orchid Swamp](../../biomes/overworld/orchid-swamp.md), [Red Oasis](../../biomes/overworld/red-oasis.md), [River](../../biomes/overworld/river.md), [Sengoku Frozen River](../../biomes/overworld/sengoku-frozen-river.md), [Sengoku Mangrove Swamp](../../biomes/overworld/sengoku-mangrove-swamp.md), [Sengoku River](../../biomes/overworld/sengoku-river.md), [Sengoku Swamp](../../biomes/overworld/sengoku-swamp.md), [Snowy Hot Springs](../../biomes/overworld/snowy-hot-springs.md), [Stream](../../biomes/overworld/stream.md), [Swamp](../../biomes/overworld/swamp.md), [Tropical River](../../biomes/overworld/tropical-river.md), [Warm River](../../biomes/overworld/warm-river.md), [Willow Forest](../../biomes/overworld/willow-forest.md)
+
+### Uncommon — herd, day, water · Lv 6-47
+
+Biome groups: Sky
+
+[Cloud Forest](../../biomes/overworld/cloud-forest.md), [Haze Mountain](../../biomes/overworld/haze-mountain.md), [Skylands (Autumn)](../../biomes/overworld/skylands-autumn.md), [Skylands (Spring)](../../biomes/overworld/skylands-spring.md), [Skylands (Summer)](../../biomes/overworld/skylands-summer.md), [Skylands (Winter)](../../biomes/overworld/skylands-winter.md)
+
+### Alpha — with an alpha, not in freezing · Lv 33-100
+
+Biome groups: Fresh water
+
+[Ancient Delta](../../biomes/overworld/ancient-delta.md), [Autumnal Hot Springs](../../biomes/overworld/autumnal-hot-springs.md), [Autumnal River](../../biomes/overworld/autumnal-river.md), [Bayou](../../biomes/overworld/bayou.md), [Cold River](../../biomes/overworld/cold-river.md), [Desert Oasis](../../biomes/overworld/desert-oasis.md), [Fen](../../biomes/overworld/fen.md), [Frozen River](../../biomes/overworld/frozen-river.md), [Fungal Fen](../../biomes/overworld/fungal-fen.md), [Hot Springs](../../biomes/overworld/hot-springs.md), [Ice Marsh](../../biomes/overworld/ice-marsh.md), [Mangrove Swamp](../../biomes/overworld/mangrove-swamp.md), [Marsh (RU)](../../biomes/overworld/marsh-ru.md), [Marshlands](../../biomes/overworld/marshlands.md), [Muddy River](../../biomes/overworld/muddy-river.md), [Old Growth Bayou](../../biomes/overworld/old-growth-bayou.md), [Orchid Swamp](../../biomes/overworld/orchid-swamp.md), [Red Oasis](../../biomes/overworld/red-oasis.md), [River](../../biomes/overworld/river.md), [Sengoku Frozen River](../../biomes/overworld/sengoku-frozen-river.md), [Sengoku Mangrove Swamp](../../biomes/overworld/sengoku-mangrove-swamp.md), [Sengoku River](../../biomes/overworld/sengoku-river.md), [Sengoku Swamp](../../biomes/overworld/sengoku-swamp.md), [Snowy Hot Springs](../../biomes/overworld/snowy-hot-springs.md), [Stream](../../biomes/overworld/stream.md), [Swamp](../../biomes/overworld/swamp.md), [Tropical River](../../biomes/overworld/tropical-river.md), [Warm River](../../biomes/overworld/warm-river.md), [Willow Forest](../../biomes/overworld/willow-forest.md)
+
+### Alpha — with an alpha · Lv 33-100
+
+Biome groups: Sky
+
+[Cloud Forest](../../biomes/overworld/cloud-forest.md), [Haze Mountain](../../biomes/overworld/haze-mountain.md), [Skylands (Autumn)](../../biomes/overworld/skylands-autumn.md), [Skylands (Spring)](../../biomes/overworld/skylands-spring.md), [Skylands (Summer)](../../biomes/overworld/skylands-summer.md), [Skylands (Winter)](../../biomes/overworld/skylands-winter.md)
+
+### Alpha — with an alpha, day, water, not in freezing · Lv 33-100
+
+Biome groups: Fresh water
+
+[Ancient Delta](../../biomes/overworld/ancient-delta.md), [Autumnal Hot Springs](../../biomes/overworld/autumnal-hot-springs.md), [Autumnal River](../../biomes/overworld/autumnal-river.md), [Bayou](../../biomes/overworld/bayou.md), [Cold River](../../biomes/overworld/cold-river.md), [Desert Oasis](../../biomes/overworld/desert-oasis.md), [Fen](../../biomes/overworld/fen.md), [Frozen River](../../biomes/overworld/frozen-river.md), [Fungal Fen](../../biomes/overworld/fungal-fen.md), [Hot Springs](../../biomes/overworld/hot-springs.md), [Ice Marsh](../../biomes/overworld/ice-marsh.md), [Mangrove Swamp](../../biomes/overworld/mangrove-swamp.md), [Marsh (RU)](../../biomes/overworld/marsh-ru.md), [Marshlands](../../biomes/overworld/marshlands.md), [Muddy River](../../biomes/overworld/muddy-river.md), [Old Growth Bayou](../../biomes/overworld/old-growth-bayou.md), [Orchid Swamp](../../biomes/overworld/orchid-swamp.md), [Red Oasis](../../biomes/overworld/red-oasis.md), [River](../../biomes/overworld/river.md), [Sengoku Frozen River](../../biomes/overworld/sengoku-frozen-river.md), [Sengoku Mangrove Swamp](../../biomes/overworld/sengoku-mangrove-swamp.md), [Sengoku River](../../biomes/overworld/sengoku-river.md), [Sengoku Swamp](../../biomes/overworld/sengoku-swamp.md), [Snowy Hot Springs](../../biomes/overworld/snowy-hot-springs.md), [Stream](../../biomes/overworld/stream.md), [Swamp](../../biomes/overworld/swamp.md), [Tropical River](../../biomes/overworld/tropical-river.md), [Warm River](../../biomes/overworld/warm-river.md), [Willow Forest](../../biomes/overworld/willow-forest.md)
+
+### Alpha — with an alpha, day, water · Lv 33-100
+
+Biome groups: Sky
+
+[Cloud Forest](../../biomes/overworld/cloud-forest.md), [Haze Mountain](../../biomes/overworld/haze-mountain.md), [Skylands (Autumn)](../../biomes/overworld/skylands-autumn.md), [Skylands (Spring)](../../biomes/overworld/skylands-spring.md), [Skylands (Summer)](../../biomes/overworld/skylands-summer.md), [Skylands (Winter)](../../biomes/overworld/skylands-winter.md)
+
 ## Aether
 
+### Common — herd · Lv 6-47
+
+All Aether biomes.
+
 ### Uncommon — any time · Lv 25-39
+
+All Aether biomes.
+
+### Uncommon — herd, water · Lv 6-47
+
+All Aether biomes.
+
+### Alpha — with an alpha · Lv 33-100
+
+All Aether biomes.
+
+### Alpha — with an alpha, water · Lv 33-100
 
 All Aether biomes.
